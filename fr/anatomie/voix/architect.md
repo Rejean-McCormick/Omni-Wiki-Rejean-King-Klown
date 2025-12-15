@@ -110,4 +110,4 @@ c’est l’oreille interne de la voix — la capacité à détecter les fautes 
 ## Vers la partie technique (Réjean)
 
 Pour la documentation technique complète d’Architect (engines, morphology, constructions, lexicon, frames, router, API, QA, hosting) :  
-↗︎ `/abstract-wiki-architect/README.md` :contentReference[oaicite:14]{index=14}
+↗︎ `/abstract-wiki-architect/Wiki-Architect-Hub.md` :contentReference[oaicite:14]{index=14}

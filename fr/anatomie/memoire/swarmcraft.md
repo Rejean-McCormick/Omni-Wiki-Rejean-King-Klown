@@ -139,4 +139,4 @@ Dans la métaphore :
 ## Vers la partie technique (Réjean)
 
 Pour les détails techniques complets (Brain/Logic/Memory, Matrix, SCAN→PLAN→EXECUTE, prompt hydration, scaffold, RAG, multi-projets) :  
-↗︎ `SwarmCraft/README.md` et les modules “Core / Scaffold / Runtime” listés dans l’index. :contentReference[oaicite:20]{index=20}
+↗︎ `SwarmCraft/SwarmCraft-Hub.md` et les modules “Core / Scaffold / Runtime” listés dans l’index. :contentReference[oaicite:20]{index=20}

@@ -136,4 +136,4 @@ Nous n’entrons pas dans le détail ici : c’est un **langage de mythologie**,
 ## Vers la partie technique (Réjean)
 
 Pour la documentation technique complète de l’Âme Artificielle (EL) :  
-↗︎ `/Ame-Artificielle/README.md` et ses modules (Contrôle, Métacognition, Création de chemins, Éthique). :contentReference[oaicite:17]{index=17}
+↗︎ `/Ame-Artificielle/Ame-Vision-Hub.md` et ses modules (Contrôle, Métacognition, Création de chemins, Éthique). :contentReference[oaicite:17]{index=17}
