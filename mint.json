@@ -19,8 +19,8 @@
     }
   ],
   "redirects": [
-    { "source": "/fr", "destination": "/King-Klown/fr" },
-    { "source": "/en", "destination": "/King-Klown/en" }
+    { "source": "/fr", "destination": "/King-Klown/fr/index" },
+    { "source": "/en", "destination": "/King-Klown/en/index" }
   ],
   "navigation": {
     "tabs": [
