@@ -37,7 +37,6 @@
   "navigation": [
     {
       "group": "Français",
-      "anchor": "Kréature",
       "pages": [
         "King-Klown/fr/index",
         "King-Klown/fr/parcours",
@@ -139,7 +138,6 @@
     },
     {
       "group": "English",
-      "anchor": "Kréature",
       "pages": [
         "King-Klown/en/index",
         "King-Klown/en/parcours",
@@ -241,7 +239,6 @@
     },
     {
       "group": "Portail",
-      "anchor": "Réjean (tech)",
       "pages": [
         "index",
         "Rejean/en/Rejean-McCormick-Hub"
@@ -249,7 +246,6 @@
     },
     {
       "group": "Konnaxion",
-      "anchor": "Réjean (tech)",
       "pages": [
         "Rejean/en/Konnaxion/Konnaxion-Hub",
         {
@@ -297,7 +293,6 @@
     },
     {
       "group": "SwarmCraft",
-      "anchor": "Réjean (tech)",
       "pages": [
         "Rejean/en/SwarmCraft/SwarmCraft-Hub",
         {
@@ -333,7 +328,6 @@
     },
     {
       "group": "Ariane",
-      "anchor": "Réjean (tech)",
       "pages": [
         "Rejean/en/Ariane/Ariane-Hub",
         {
@@ -374,21 +368,18 @@
     },
     {
       "group": "Orgo",
-      "anchor": "Réjean (tech)",
       "pages": [
         "Rejean/en/Orgo/Orgo-System-Hub"
       ]
     },
     {
       "group": "SenTient",
-      "anchor": "Réjean (tech)",
       "pages": [
         "Rejean/en/SenTient/SenTient-Engine-Hub"
       ]
     },
     {
       "group": "Âme Artificielle",
-      "anchor": "Réjean (tech)",
       "pages": [
         "Rejean/en/Ame-Artificielle/Ame-Vision-Hub",
         "Rejean/en/Ame-Artificielle/Controle-Et-Personnalisation",
@@ -400,7 +391,6 @@
     },
     {
       "group": "Outils",
-      "anchor": "Réjean (tech)",
       "pages": [
         "Rejean/en/tools/Dev-Workflow-Hub",
         "Rejean/en/abstract-wiki-architect/Wiki-Architect-Hub"
