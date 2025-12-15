@@ -2,7 +2,11 @@
   "$schema": "https://mintlify.com/docs.json",
   "name": "Omni-Wiki — Réjean × King Klown",
   "theme": "mint",
-  "logo": "/Rejean/en/LogoK.svg",
+  "logo": {
+    "light": "/LogoK.svg",
+    "dark": "/LogoK.svg"
+  },
+  "favicon": "/LogoK.svg"
   "colors": {
     "primary": "#12B5B0"
   },
