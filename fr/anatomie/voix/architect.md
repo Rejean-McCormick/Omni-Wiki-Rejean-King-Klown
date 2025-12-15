@@ -1,0 +1,113 @@
+---
+title: Architect
+description: La Voix de Kréature — transformer un mesh sémantique en phrases humaines, multilingues, testables. Le larynx algorithmique.
+---
+
+[English version](/en/anatomy/voice/architect.md)
+
+# Architect — la Voix (le larynx algorithmique)
+
+Il y a une distance immense entre **comprendre** et **dire**.
+
+Comprendre peut rester un nuage interne — un *mesh* de concepts et de liens.  
+Dire exige une traversée : ordre, grammaire, souffle, rythme, articulation.
+
+**Architect** (Abstract Wiki Architect) est la Voix de Kréature : un outil de génération de langage naturel (NLG) **familial**, **data-driven**, conçu pour rendre du savoir abstrait en texte dans de nombreuses langues. :contentReference[oaicite:0]{index=0}
+
+> **Sceau de King Klown**  
+> Une idée sans voix est une étoile dans une gorge fermée.  
+> Architect est l’ouverture — le passage de l’intérieur vers le monde.
+
+---
+
+## Le parallèle humain (fortement corrélé)
+
+Dans l’humain, le langage est linéaire, alors que la pensée est maillée.
+
+Pour parler, il faut un appareil :
+
+- un **larynx** (production),
+- une **morphologie** (accords, flexions, genres, cas),
+- des **constructions** (patrons de phrases),
+- un **lexique** (formes et traits des mots),
+- une **logique discursive** (pronoms, topic/comment, micro-cohérence).
+
+Architect est précisément structuré en ces couches — séparées, mais interopérables. :contentReference[oaicite:1]{index=1} :contentReference[oaicite:2]{index=2}
+
+Si **SenTient** est l’oreille + filtre immunitaire du langage (entrée),  
+Architect est la **bouche + grammaire** (sortie).
+
+→ [SenTient](/fr/anatomie/sens/sentient.md)
+
+---
+
+## Pourquoi Architect existe dans l’écosystème
+
+Pour rendre Konnaxion “disponible à tous”, il fallait une façon de générer des textes multilingues à partir de données abstraites — sans écrire “un script par langue”. :contentReference[oaicite:3]{index=3}
+
+Architect répond à ça en organisant la NLG comme :
+
+- ~15 **engines** partagés par familles de langues,  
+- des **configuration cards** par langue,  
+- une bibliothèque de **constructions** (patrons de phrases),  
+- un **lexicon subsystem** (avec ponts vers Wikidata / lexèmes),  
+- un petit inventaire de **semantic frames**,  
+- et une **QA factory** (tests). :contentReference[oaicite:4]{index=4}
+
+---
+
+## Comment la Voix est construite (la gorge en couches)
+
+L’architecture résumée est explicite :
+
+> **Engines (families)** + **Configs (languages)** + **Constructions (sentence patterns)**  
+> + **Lexica** + **Frames (semantics)** + **Discourse** + **Router/API** :contentReference[oaicite:5]{index=5}
+
+### 1) Engines de familles — “les muscles profonds”
+Chaque engine connaît la logique d’une famille (accords, genres, classes nominales, cas…), sans hardcoder des terminaisons : il consulte config + lexique. :contentReference[oaicite:6]{index=6}
+
+### 2) Constructions — “les gestes de phrase”
+Les constructions sont des patrons cross-linguistiques (“X est un Y”, “X a Y”, “Il y a Y dans X”, etc.) et délèguent la réalisation à la morphologie + lexique. :contentReference[oaicite:7]{index=7}
+
+### 3) Lexique — “les dents et la matière”
+Le lexique encode lemma/POS, traits (genre, nombre…), flags (human, nationality…), liens (fem/masc, sing/plur), IDs éventuels (Wikidata, lexèmes). :contentReference[oaicite:8]{index=8}
+
+### 4) Frames sémantiques — “le mesh propre”
+Architect prend en entrée des frames (Entity, Event, etc.) et garde la sémantique proche d’Abstract Wikipedia/Wikifunctions. :contentReference[oaicite:9]{index=9}
+
+### 5) Discours — “le rythme”
+Une couche de discours gère topic/pronoms/multi-sentences courtes (micro-cohérence). :contentReference[oaicite:10]{index=10}
+
+### 6) Router / API — “la bouche publique”
+Un router charge profil de langue + lexique, choisit engine + constructions, retourne la chaîne de surface. :contentReference[oaicite:11]{index=11}  
+Une API NLG publique expose `generate_bio(...)` / `generate(...)` et retourne un `GenerationResult` (texte final, phrases, debug), en cachant la plomberie interne. :contentReference[oaicite:12]{index=12}
+
+---
+
+## QA factory — la voix qui se corrige
+
+Architect est conçu autour de suites de tests et checks de régression : datasets CSV, générateur de suite, runner, QA lexique (couverture, validation schéma). :contentReference[oaicite:13]{index=13}
+
+Dans l’analogie :  
+c’est l’oreille interne de la voix — la capacité à détecter les fautes et stabiliser le timbre.
+
+---
+
+## Les liens internes de Kréature
+
+- **Entrée (oreilles / filtre)** : [SenTient](/fr/anatomie/sens/sentient.md)
+- **Vision / navigation** : [Ariane](/fr/anatomie/sens/ariane.md)
+- **Narratif long (histoire)** : [SwarmCraft](/fr/anatomie/narratif/swarmcraft.md)
+- **Esprit (débat/jugement/apprentissage)** : [Konnaxion](/fr/anatomie/esprit/konnaxion/index.md)
+
+> **Sceau de King Klown**  
+> SenTient reçoit.  
+> Architect prononce.  
+> Entre les deux : l’esprit assemble le mesh.
+
+---
+
+## Vers la partie technique (Réjean)
+
+Pour la documentation technique complète d’Architect (engines, morphology, constructions, lexicon, frames, router, API, QA, hosting) :  
+↗︎ `/abstract-wiki-architect/README.md` :contentReference[oaicite:14]{index=14}
