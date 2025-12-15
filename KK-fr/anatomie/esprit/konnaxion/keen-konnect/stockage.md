@@ -3,7 +3,7 @@ title: Stockage
 description: Dépôt sécurisé et versionné — la mémoire solide de Kréature. Rétention, intégrité, restauration, continuité d’équipe.
 ---
 
-[English version](/en/anatomy/mind/konnaxion/keen-konnect/stockage.md)
+[English version](../../../../../KK-en/anatomy/mind/konnaxion/keen-konnect/stockage.md)
 
 # Stockage — la Mémoire solide
 
@@ -46,8 +46,8 @@ Stockage est l’armoire forte où l’on garde :
 - archives,
 - pièces maîtresses.
 
-→ [keenKonnect](/fr/anatomie/esprit/konnaxion/keen-konnect.md)  
-→ [Konstruct](/fr/anatomie/esprit/konnaxion/keen-konnect/konstruct.md)
+→ [keenKonnect](../keen-konnect.md)  
+→ [Konstruct](konstruct.md)
 
 ---
 
@@ -138,17 +138,17 @@ Backups & recovery existent comme automatisme, pas comme promesse vague.
 ### Avec Konstruct : chantier + coffre
 Konstruct produit des artefacts ; Stockage garantit qu’ils survivent.
 
-→ [Konstruct](/fr/anatomie/esprit/konnaxion/keen-konnect/konstruct.md)
+→ [Konstruct](konstruct.md)
 
 ### Avec Orgo : souveraineté interne
 Orgo maintient la bulle hermétique ; Stockage assure la mémoire dans cette bulle.
 
-→ [Orgo](/fr/anatomie/corps/orgo.md)
+→ [Orgo](../../../corps/orgo.md)
 
 ### Avec KonnectED / CertifiKation : preuves et portfolios
 Les preuves de compétence ont besoin d’un dépôt sûr (assets versionnés, audités).
 
-→ [CertifiKation](/fr/anatomie/esprit/konnaxion/konnected/certifikation.md)
+→ [CertifiKation](../konnected/certifikation.md)
 
 ---
 
@@ -171,6 +171,6 @@ Quand un artefact devient “important” :
 
 ## Continuer
 
-- ← [keenKonnect](/fr/anatomie/esprit/konnaxion/keen-konnect.md)  
-- ← [Konstruct](/fr/anatomie/esprit/konnaxion/keen-konnect/konstruct.md)  
-- → [Konnaxion](/fr/anatomie/esprit/konnaxion/index.md)
+- ← [keenKonnect](../keen-konnect.md)  
+- ← [Konstruct](konstruct.md)  
+- → [Konnaxion](../index.md)

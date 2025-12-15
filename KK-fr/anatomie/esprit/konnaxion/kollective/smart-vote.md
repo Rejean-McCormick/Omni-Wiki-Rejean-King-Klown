@@ -3,7 +3,7 @@ title: Smart Vote
 description: Le Jugement de Kréature — vote pondéré, consensus, seuils, modalités. Transformer le débat en décision traçable.
 ---
 
-[English version](/en/anatomy/mind/konnaxion/kollective/smart-vote.md)
+[English version](../../../../../KK-en/anatomy/mind/konnaxion/kollective/smart-vote.md)
 
 # Smart Vote — le Jugement (consensus pondéré)
 
@@ -46,9 +46,9 @@ Il est la porte entre :
 - **EkoH** (poids moral & expertise),
 - et **Orgo** (action).
 
-→ [Korum](/fr/anatomie/esprit/konnaxion/ethikos/korum.md)  
-→ [EkoH](/fr/anatomie/esprit/konnaxion/kollective/ekoh.md)  
-→ [Orgo](/fr/anatomie/corps/orgo.md)
+→ [Korum](../ethikos/korum.md)  
+→ [EkoH](ekoh.md)  
+→ [Orgo](../../../corps/orgo.md)
 
 ---
 
@@ -125,7 +125,7 @@ Dans l’analogie :
 - la conscience/expertise modifie l’influence (weighted),
 - sans effacer la voix.
 
-→ [EkoH](/fr/anatomie/esprit/konnaxion/kollective/ekoh.md)
+→ [EkoH](ekoh.md)
 
 ---
 
@@ -163,7 +163,7 @@ C’est la mémoire du verdict — indispensable pour l’éthique.
 6) **SwarmCraft** : récit et continuité  
 7) **Âme** : verticalité (alignement)
 
-→ [Le cycle vital](/fr/rituels/cycle-vital.md)
+→ [Le cycle vital](../../../../rituels/cycle-vital.md)
 
 ---
 
@@ -188,10 +188,10 @@ Quand le débat a assez chauffé :
 
 ## Continuer
 
-- ← [Kollective Intelligence](/fr/anatomie/esprit/konnaxion/kollective.md)  
-- ← [EkoH](/fr/anatomie/esprit/konnaxion/kollective/ekoh.md)  
-- → [Orgo](/fr/anatomie/corps/orgo.md)  
-- → [SwarmCraft](/fr/anatomie/memoire/swarmcraft.md)
+- ← [Kollective Intelligence](../kollective.md)  
+- ← [EkoH](ekoh.md)  
+- → [Orgo](../../../corps/orgo.md)  
+- → [SwarmCraft](../../../memoire/swarmcraft.md)
 
 ---
 

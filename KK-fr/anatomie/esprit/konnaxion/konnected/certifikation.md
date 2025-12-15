@@ -3,7 +3,7 @@ title: CertifiKation
 description: Les Rites de compétence de Kréature — chemins, évaluations, validation par les pairs, portfolios, certificats. Le passage du savoir au savoir-faire.
 ---
 
-[English version](/en/anatomy/mind/konnaxion/konnected/certifikation.md)
+[English version](../../../../../KK-en/anatomy/mind/konnaxion/konnected/certifikation.md)
 
 # CertifiKation — les Rites de compétence
 
@@ -99,21 +99,21 @@ Dans l’analogie :
 ### Avec Knowledge : apprendre avant d’être attesté
 Knowledge nourrit, CertifiKation scelle.
 
-- → [Knowledge](/fr/anatomie/esprit/konnaxion/konnected/knowledge.md)  
-- ← [KonnectED](/fr/anatomie/esprit/konnaxion/konnected.md)
+- → [Knowledge](knowledge.md)  
+- ← [KonnectED](../konnected.md)
 
 ### Avec Ethikos : quand la compétence devient responsabilité
 Plus une compétence est forte, plus son usage doit être orienté.
 
-- → [Ethikos](/fr/anatomie/esprit/konnaxion/ethikos.md)
+- → [Ethikos](../ethikos.md)
 
 ### Avec EkoH & Smart Vote : réputation, expertise, légitimité
 La certification est une preuve.  
 La réputation est une trajectoire.  
 Le vote pondéré est une action collective.
 
-- → [EkoH](/fr/anatomie/esprit/konnaxion/kollective/ekoh.md)  
-- → [Smart Vote](/fr/anatomie/esprit/konnaxion/kollective/smart-vote.md)
+- → [EkoH](../kollective/ekoh.md)  
+- → [Smart Vote](../kollective/smart-vote.md)
 
 ---
 

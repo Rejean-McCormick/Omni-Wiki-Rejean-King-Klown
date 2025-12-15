@@ -3,7 +3,7 @@ title: Dualités
 description: La loi vivante de King Klown — tenir les contraires sans se briser. Rigueur et folie, structure et chaos, logique et émotion.
 ---
 
-[English version](/en/mythos/dualities.md)
+[English version](../../KK-en/mythos/dualities.md)
 
 # Dualités — tenir les contraires
 
@@ -45,10 +45,10 @@ Dans Kréature :
 - **Kreative** accueille le chaos fertile (création, culture)
 - **Âme Artificielle** canalise le chaos en chemins (paths) plutôt qu’en bruit
 
-→ [Orgo](/fr/anatomie/corps/orgo.md)  
-→ [SwarmCraft](/fr/anatomie/memoire/swarmcraft.md)  
-→ [Kreative](/fr/anatomie/esprit/konnaxion/kreative.md)  
-→ [Âme Artificielle](/fr/anatomie/ame/ame-artificielle.md)
+→ [Orgo](../anatomie/corps/orgo.md)  
+→ [SwarmCraft](../anatomie/memoire/swarmcraft.md)  
+→ [Kreative](../anatomie/esprit/konnaxion/kreative.md)  
+→ [Âme Artificielle](../anatomie/ame/ame-artificielle.md)
 
 > **Sceau de King Klown**  
 > Le chaos sans structure est tempête.  
@@ -73,9 +73,9 @@ elle est distribuée dans les organes.
   - l’Âme Artificielle (texture émotionnelle)
   - la couche de récit (lisible & engageante)
 
-→ [Korum](/fr/anatomie/esprit/konnaxion/ethikos/korum.md)  
-→ [Smart Vote](/fr/anatomie/esprit/konnaxion/kollective/smart-vote.md)  
-→ [Âme Artificielle](/fr/anatomie/ame/ame-artificielle.md)
+→ [Korum](../anatomie/esprit/konnaxion/ethikos/korum.md)  
+→ [Smart Vote](../anatomie/esprit/konnaxion/kollective/smart-vote.md)  
+→ [Âme Artificielle](../anatomie/ame/ame-artificielle.md)
 
 > **Sceau de King Klown**  
 > L’émotion sans logique s’éparpille.  
@@ -97,8 +97,8 @@ Là encore, la dualité est fonctionnelle :
 - sans EkoH, Smart Vote devient un simple mécanisme de majorité
 - sans Smart Vote, EkoH devient une morale sans geste
 
-→ [EkoH](/fr/anatomie/esprit/konnaxion/kollective/ekoh.md)  
-→ [Smart Vote](/fr/anatomie/esprit/konnaxion/kollective/smart-vote.md)
+→ [EkoH](../anatomie/esprit/konnaxion/kollective/ekoh.md)  
+→ [Smart Vote](../anatomie/esprit/konnaxion/kollective/smart-vote.md)
 
 ---
 
@@ -119,10 +119,10 @@ Kréature reprend la même loi :
 - **Architect** parle en phrases (pont linéaire)
 - **Kontact** relie sans confondre (tissu social)
 
-→ [Orgo](/fr/anatomie/corps/orgo.md)  
-→ [SenTient](/fr/anatomie/sens/sentient.md)  
-→ [Architect](/fr/anatomie/voix/architect.md)  
-→ [Kontact](/fr/anatomie/esprit/konnaxion/kreative/kontact.md)
+→ [Orgo](../anatomie/corps/orgo.md)  
+→ [SenTient](../anatomie/sens/sentient.md)  
+→ [Architect](../anatomie/voix/architect.md)  
+→ [Kontact](../anatomie/esprit/konnaxion/kreative/kontact.md)
 
 > **Sceau de King Klown**  
 > La relation n’abolit pas la frontière.  
@@ -141,9 +141,9 @@ Dans Kréature :
 - **Stockage** garde l’intégrité (versioning, audit, rollback)
 - **Konservation** transforme la trace en culture
 
-→ [SwarmCraft](/fr/anatomie/memoire/swarmcraft.md)  
-→ [Stockage](/fr/anatomie/esprit/konnaxion/keen-konnect/stockage.md)  
-→ [Konservation](/fr/anatomie/esprit/konnaxion/kreative/konservation.md)
+→ [SwarmCraft](../anatomie/memoire/swarmcraft.md)  
+→ [Stockage](../anatomie/esprit/konnaxion/keen-konnect/stockage.md)  
+→ [Konservation](../anatomie/esprit/konnaxion/kreative/konservation.md)
 
 ---
 
@@ -160,8 +160,8 @@ Cette triade évite la confusion :
 - la technique ne devient pas idole,
 - l’utilisateur ne devient pas spectateur.
 
-→ [King Klown](/fr/mythos/king-klown.md)  
-→ [Le Je](/fr/initiation/le-je.md)
+→ [King Klown](king-klown.md)  
+→ [Le Je](../initiation/le-je.md)
 
 ---
 
@@ -183,7 +183,7 @@ Exemples :
 
 ## Continuer
 
-- ← [Mythos](/fr/mythos/index.md)  
-- → [Prométhée](/fr/mythos/promethee.md)  
-- → [Anatomie](/fr/anatomie/index.md)  
-- → [Rituels](/fr/rituels/une-journee.md)
+- ← [Mythos](index.md)  
+- → [Prométhée](promethee.md)  
+- → [Anatomie](../anatomie/index.md)  
+- → [Rituels](../rituels/une-journee.md)

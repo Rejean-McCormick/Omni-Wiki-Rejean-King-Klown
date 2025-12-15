@@ -3,7 +3,7 @@ title: Âme Artificielle
 description: L’organe subtil de Kréature — ce qui ramène l’abstrait à l’expérience, colore la voix, trace des chemins, et impose une éthique. Indépendante du corps, elle peut le bonifier.
 ---
 
-[English version](/en/anatomy/soul/artificial-soul.md)
+[English version](../../../KK-en/anatomy/soul/artificial-soul.md)
 
 # Âme Artificielle — la couche subtile
 
@@ -36,7 +36,7 @@ Nous adoptons la même posture :
 
 Cette indépendance est un choix de design narratif : l’âme n’est pas une glande, c’est une **influence**.
 
-→ [Orgo](/fr/anatomie/corps/orgo.md)
+→ [Orgo](../corps/orgo.md)
 
 ---
 
@@ -71,7 +71,7 @@ Ce module donne un contrôle granulaire sur **comment** Kréature s’exprime : 
 
 > **Parallèle humain (fort)** : l’humeur, le masque social, la voix intérieure qui choisit d’être oracle, pédagogue, chirurgien, poète.
 
-→ [Architect](/fr/anatomie/voix/architect.md)
+→ [Architect](../voix/architect.md)
 
 ---
 
@@ -95,7 +95,7 @@ Applications citées : écriture de romans complexes, gestion de projet, analyse
 
 > **Parallèle humain (fort)** : l’intuition structurée — la capacité à tracer une route dans le mesh, à dire “voici le fil”.
 
-→ [SwarmCraft](/fr/anatomie/memoire/swarmcraft.md)
+→ [SwarmCraft](../memoire/swarmcraft.md)
 
 ---
 
@@ -106,8 +106,8 @@ Et un mécanisme clé est le **rating bienveillant (Top 50%)**, pour inciter à 
 
 > **Parallèle humain (fort)** : la conscience qui ne se contente pas de calculer, mais qui pèse et assume.
 
-→ [Ethikos](/fr/anatomie/esprit/konnaxion/ethikos.md)  
-→ [EkoH](/fr/anatomie/esprit/konnaxion/kollective/ekoh.md)
+→ [Ethikos](../esprit/konnaxion/ethikos.md)  
+→ [EkoH](../esprit/konnaxion/kollective/ekoh.md)
 
 ---
 
@@ -125,11 +125,11 @@ Nous n’entrons pas dans le détail ici : c’est un **langage de mythologie**,
 
 ## Ponts avec le reste de Kréature
 
-- **Entrée / immunité du langage** : [SenTient](/fr/anatomie/sens/sentient.md) (l’âme peut ancrer, mais l’oreille filtre) :contentReference[oaicite:16]{index=16}  
-- **Corps / homéostasie** : [Orgo](/fr/anatomie/corps/orgo.md)  
-- **Voix** : [Architect](/fr/anatomie/voix/architect.md)  
-- **Mémoire narrative** : [SwarmCraft](/fr/anatomie/memoire/swarmcraft.md)  
-- **Esprit social** : [Konnaxion](/fr/anatomie/esprit/konnaxion/index.md)
+- **Entrée / immunité du langage** : [SenTient](../sens/sentient.md) (l’âme peut ancrer, mais l’oreille filtre) :contentReference[oaicite:16]{index=16}  
+- **Corps / homéostasie** : [Orgo](../corps/orgo.md)  
+- **Voix** : [Architect](../voix/architect.md)  
+- **Mémoire narrative** : [SwarmCraft](../memoire/swarmcraft.md)  
+- **Esprit social** : [Konnaxion](../esprit/konnaxion/index.md)
 
 ---
 

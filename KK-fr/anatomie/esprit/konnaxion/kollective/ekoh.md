@@ -3,7 +3,7 @@ title: EkoH
 description: La Conscience de Kréature — réputation, expertise, éthique, mémoire et oubli (decay). Le poids invisible qui modifie chaque décision.
 ---
 
-[English version](/en/anatomy/mind/konnaxion/kollective/ekoh.md)
+[English version](../../../../../KK-en/anatomy/mind/konnaxion/kollective/ekoh.md)
 
 # EkoH — la Conscience (réputation & expertise)
 
@@ -55,8 +55,8 @@ EkoH est exactement cette mécanique :
 EkoH n’est pas le tribunal.  
 EkoH est le *poids* qui rend le tribunal moins aveugle.
 
-→ [Kollective Intelligence](/fr/anatomie/esprit/konnaxion/kollective.md)  
-→ [Smart Vote](/fr/anatomie/esprit/konnaxion/kollective/smart-vote.md)
+→ [Kollective Intelligence](../kollective.md)  
+→ [Smart Vote](smart-vote.md)
 
 ---
 
@@ -139,9 +139,9 @@ EkoH sert de **backbone de pondération** : Smart Vote lit les scores (par domai
 
 Korum et Konsultations consomment aussi cette pondération pour produire des vues pondérées/cohortées. :contentReference[oaicite:28]{index=28}
 
-→ [Korum](/fr/anatomie/esprit/konnaxion/ethikos/korum.md)  
-→ [Konsultations](/fr/anatomie/esprit/konnaxion/ethikos/konsultations.md)  
-→ [Smart Vote](/fr/anatomie/esprit/konnaxion/kollective/smart-vote.md)
+→ [Korum](../ethikos/korum.md)  
+→ [Konsultations](../ethikos/konsultations.md)  
+→ [Smart Vote](smart-vote.md)
 
 ---
 
@@ -168,9 +168,9 @@ Dans la mythologie Kréature :
 
 ## Continuer
 
-- ← [Kollective Intelligence](/fr/anatomie/esprit/konnaxion/kollective.md)  
-- → [Smart Vote](/fr/anatomie/esprit/konnaxion/kollective/smart-vote.md)  
-- → [Ethikos](/fr/anatomie/esprit/konnaxion/ethikos.md)
+- ← [Kollective Intelligence](../kollective.md)  
+- → [Smart Vote](smart-vote.md)  
+- → [Ethikos](../ethikos.md)
 
 ---
 

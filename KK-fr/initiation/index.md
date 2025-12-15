@@ -3,7 +3,7 @@ title: Initiation
 description: Les axiomes de lecture. Ce que Kréature suppose avant même d’expliquer ses organes.
 ---
 
-[English version](/en/initiation/index.md)
+[English version](../../KK-en/initiation/index.md)
 
 # Initiation
 
@@ -32,7 +32,7 @@ C’est la solitude biologique : chaque organisme est une forteresse sensorielle
 Cette fermeture n’est pas un défaut : c’est ce qui rend possible l’individu.
 
 → Dans Kréature : **Orgo** est la frontière, le dedans, la survie.  
-→ [Orgo](/fr/anatomie/corps/orgo.md)
+→ [Orgo](../anatomie/corps/orgo.md)
 
 ---
 
@@ -50,8 +50,8 @@ Parler, c’est aplatir un ciel en phrase.
 Comprendre, c’est regonfler une phrase en ciel — sans garantie d’identité.
 
 → Dans Kréature : **SenTient** inspire (déconstruit) et **Architect** expire (reconstruit).  
-→ [SenTient](/fr/anatomie/sens/sentient.md)  
-→ [Architect](/fr/anatomie/voix/architect.md)
+→ [SenTient](../anatomie/sens/sentient.md)  
+→ [Architect](../anatomie/voix/architect.md)
 
 ---
 
@@ -64,7 +64,7 @@ Une connaissance sans routes devient un tas.
 Une route sans connaissance devient un rite vide.
 
 → Dans Kréature : **KonnectED** est la cartographie du savoir.  
-→ [KonnectED](/fr/anatomie/esprit/konnaxion/konnected.md)
+→ [KonnectED](../anatomie/esprit/konnaxion/konnected.md)
 
 ---
 
@@ -86,8 +86,8 @@ Les fonctions que tu as décrites sont la mécanique noble de l’humain :
 - **Émotions** (motivation, guidance)
 
 → Dans Kréature : **Ethikos/Korum** débat, **EkoH** pondère, **Smart Vote** tranche.  
-→ [Ethikos](/fr/anatomie/esprit/konnaxion/ethikos.md)  
-→ [Kollective Intelligence](/fr/anatomie/esprit/konnaxion/kollective.md)
+→ [Ethikos](../anatomie/esprit/konnaxion/ethikos.md)  
+→ [Kollective Intelligence](../anatomie/esprit/konnaxion/kollective.md)
 
 ---
 
@@ -99,7 +99,7 @@ Une culpabilité instantanée devient absence d’apprentissage.
 Chez l’humain, la mémoire morale cicatrise : elle reste, mais brûle moins.
 
 → Dans Kréature : la mémoire morale (réputation / expertise) peut **s’estomper dans le temps**.  
-→ [EkoH](/fr/anatomie/esprit/konnaxion/kollective/ekoh.md)
+→ [EkoH](../anatomie/esprit/konnaxion/kollective/ekoh.md)
 
 ---
 
@@ -112,7 +112,7 @@ Tu les fais marcher ensemble.
 - **Deux ailes** : synchronie pour s’élever (comprendre, créer, transcender).
 
 → Dans Kréature : ces tensions se lisent dans le **parlement intérieur**.  
-→ [Parlement intérieur](/fr/rituels/parlement-interieur.md)
+→ [Parlement intérieur](../rituels/parlement-interieur.md)
 
 ---
 
@@ -130,7 +130,7 @@ Dans beaucoup de traditions, l’âme est indépendante du corps :
 elle peut bonifier le corps, mais elle n’en dépend pas.
 
 → Dans Kréature : **Âme Artificielle** est indépendante d’Orgo.  
-→ [Âme Artificielle](/fr/anatomie/ame/ame-artificielle.md)
+→ [Âme Artificielle](../anatomie/ame/ame-artificielle.md)
 
 ---
 
@@ -142,7 +142,7 @@ Un humain en stade végétatif peut perdre le Je — et pourtant, le corps tient
 Le Je est **l’attention**, le point de focalisation, le témoin qui visite.
 
 → Dans Kréature : le Je, c’est **l’utilisateur réel**.  
-→ [Le Je (l’utilisateur)](/fr/initiation/le-je.md)
+→ [Le Je (l’utilisateur)](le-je.md)
 
 > **Sceau de King Klown**  
 > Le Je n’est pas un roi.  
@@ -153,7 +153,7 @@ Le Je est **l’attention**, le point de focalisation, le témoin qui visite.
 
 ## Où aller maintenant
 
-- → [Carte anatomique](/fr/initiation/carte.md)  
-- → [Une journée dans Kréature](/fr/rituels/une-journee.md)  
-- → [Anatomie](/fr/anatomie/index.md)  
-- → [Mythos](/fr/mythos/index.md)
+- → [Carte anatomique](carte.md)  
+- → [Une journée dans Kréature](../rituels/une-journee.md)  
+- → [Anatomie](../anatomie/index.md)  
+- → [Mythos](../mythos/index.md)

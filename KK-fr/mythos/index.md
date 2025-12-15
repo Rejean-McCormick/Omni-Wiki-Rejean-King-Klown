@@ -3,7 +3,7 @@ title: Mythos
 description: Les figures et les lois — le récit-cadre qui rend Kréature lisible. Ici vivent le Démiurge, les pactes, et la cosmologie.
 ---
 
-[English version](/en/mythos/index.md)
+[English version](../../KK-en/mythos/index.md)
 
 # Mythos — le récit-cadre
 
@@ -46,18 +46,18 @@ Elle doit rester fidèle aux organes réels :
 - SwarmCraft (mémoire)
 - Âme Artificielle (verticalité)
 
-→ [Anatomie](/fr/anatomie/index.md)
+→ [Anatomie](../anatomie/index.md)
 
 ---
 
 ## Entrées du Mythos
 
-- → [King Klown](/fr/mythos/king-klown.md)
+- → [King Klown](king-klown.md)
 
 ---
 
 ## Continuer
 
-- → [Parcours](/fr/parcours.md)  
-- → [Rituels](/fr/rituels/une-journee.md)  
-- → [Initiation](/fr/initiation/index.md)
+- → [Parcours](../parcours.md)  
+- → [Rituels](../rituels/une-journee.md)  
+- → [Initiation](../initiation/index.md)

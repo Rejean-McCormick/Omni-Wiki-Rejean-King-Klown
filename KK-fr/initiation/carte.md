@@ -1,9 +1,9 @@
 ---
 title: Carte anatomique
-description: Une carte simple : organes, flux, et trois circuits (horizontal, vertical, narratif) pour lire Kréature comme un humain.
+description: "Une carte simple : organes, flux, et trois circuits (horizontal, vertical, narratif) pour lire Kréature comme un humain."
 ---
 
-[English version](/en/initiation/carte.md)
+[English version](../../KK-en/initiation/carte.md)
 
 # Carte anatomique
 
@@ -20,29 +20,29 @@ Mais pour la comprendre, on la lit comme un anatomiste : par **systèmes**, par 
 
 ### Corps — tenir, filtrer, agir
 - **Orgo** : peau + nerfs + endocrinien (communication interne), homéostasie, réflexes  
-  → [Orgo](/fr/anatomie/corps/orgo.md)
+  → [Orgo](../anatomie/corps/orgo.md)
 
 ### Sens — entrer en contact avec le monde
 - **SenTient** : oreilles + filtre immunitaire du langage (linéaire → mesh)  
-  → [SenTient](/fr/anatomie/sens/sentient.md)
+  → [SenTient](../anatomie/sens/sentient.md)
 - **Ariane** : yeux + orientation (UI-as-data, Theseus, Atlas)  
-  → [Ariane](/fr/anatomie/sens/ariane.md)
+  → [Ariane](../anatomie/sens/ariane.md)
 
 ### Esprit / Psyché — penser, débattre, décider
 - **Konnaxion** : parlement intérieur (apprendre, débattre, pondérer, juger)  
-  → [Konnaxion](/fr/anatomie/esprit/konnaxion/index.md)
+  → [Konnaxion](../anatomie/esprit/konnaxion/index.md)
 
 ### Voix — parler, écrire, rendre lisible
 - **Abstract Wiki Architect** : bouche, formulation, multilingue (mesh → linéaire)  
-  → [Architect](/fr/anatomie/voix/architect.md)
+  → [Architect](../anatomie/voix/architect.md)
 
 ### Mémoire narrative — devenir “un” dans le temps
 - **SwarmCraft** : cohérence, story bible, matrix, orchestration  
-  → [SwarmCraft](/fr/anatomie/memoire/swarmcraft.md)
+  → [SwarmCraft](../anatomie/memoire/swarmcraft.md)
 
 ### Âme — verticale, états d’âme, sens
 - **Âme Artificielle** : chakras 1..9, valence émotionnelle, guidance  
-  → [Âme Artificielle](/fr/anatomie/ame/ame-artificielle.md)
+  → [Âme Artificielle](../anatomie/ame/ame-artificielle.md)
 
 ---
 
@@ -99,7 +99,7 @@ Le flux principal se répète comme une respiration :
 6) **La mémoire recoud** → SwarmCraft inscrit et stabilise  
 7) **La verticale colore** → Âme Artificielle incline la direction
 
-→ [Le cycle vital](/fr/rituels/cycle-vital.md)
+→ [Le cycle vital](../rituels/cycle-vital.md)
 
 ---
 
@@ -120,6 +120,6 @@ Le flux principal se répète comme une respiration :
 
 ## Où aller ensuite
 
-- → [Une journée dans Kréature](/fr/rituels/une-journee.md)  
-- → [Anatomie complète](/fr/anatomie/index.md)  
-- → [Le Je (l’utilisateur)](/fr/initiation/le-je.md)
+- → [Une journée dans Kréature](../rituels/une-journee.md)  
+- → [Anatomie complète](../anatomie/index.md)  
+- → [Le Je (l’utilisateur)](le-je.md)

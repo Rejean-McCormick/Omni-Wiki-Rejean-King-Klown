@@ -1,9 +1,9 @@
 ---
 title: Le parlement intérieur
-description: Le cœur humain de Kréature : débat → pondération → jugement. L’art noble d’hésiter avant d’agir.
+description: "Le cœur humain de Kréature : débat → pondération → jugement. L’art noble d’hésiter avant d’agir."
 ---
 
-[English version](/en/rituels/parlement-interieur.md)
+[English version](../../KK-en/rituels/parlement-interieur.md)
 
 # Le parlement intérieur
 
@@ -60,7 +60,7 @@ KonnectED cartographie :
 Il empêche le débat de tourner à vide :  
 il apporte le sol, les faits, l’apprentissage.
 
-→ [KonnectED](/fr/anatomie/esprit/konnaxion/konnected.md)
+→ [KonnectED](../anatomie/esprit/konnaxion/konnected.md)
 
 ---
 
@@ -82,8 +82,8 @@ Elles peuvent être nuancées, graduées, argumentées.
 C’est le lieu où l’humain se révèle :  
 dans l’espace entre désir et devoir.
 
-→ [Ethikos](/fr/anatomie/esprit/konnaxion/ethikos.md)  
-→ [Korum](/fr/anatomie/esprit/konnaxion/ethikos/korum.md)
+→ [Ethikos](../anatomie/esprit/konnaxion/ethikos.md)  
+→ [Korum](../anatomie/esprit/konnaxion/ethikos/korum.md)
 
 > **Sceau de King Klown**  
 > La sagesse n’est pas une idée.  
@@ -111,7 +111,7 @@ Et surtout : elle cicatrise.
 Parce qu’une conscience qui ne guérit pas devient une cage.  
 Donc EkoH peut évoluer, s’estomper, se rééquilibrer : **decay rate**.
 
-→ [EkoH](/fr/anatomie/esprit/konnaxion/kollective/ekoh.md)
+→ [EkoH](../anatomie/esprit/konnaxion/kollective/ekoh.md)
 
 ---
 
@@ -132,7 +132,7 @@ et transforme cela en décision lisible :
 - pondération
 - résultat
 
-→ [Smart Vote](/fr/anatomie/esprit/konnaxion/kollective/smart-vote.md)
+→ [Smart Vote](../anatomie/esprit/konnaxion/kollective/smart-vote.md)
 
 > **Sceau de King Klown**  
 > Une décision n’est pas une couronne.  
@@ -188,7 +188,7 @@ C’est là qu’intervient le corps : Orgo impose le rythme.
 
 Orgo rappelle : “Il faut agir.”
 
-→ [Orgo](/fr/anatomie/corps/orgo.md)
+→ [Orgo](../anatomie/corps/orgo.md)
 
 ---
 
@@ -204,7 +204,7 @@ SwarmCraft recoud :
 - conséquences
 en continuité narrative.
 
-→ [SwarmCraft](/fr/anatomie/memoire/swarmcraft.md)
+→ [SwarmCraft](../anatomie/memoire/swarmcraft.md)
 
 ---
 
@@ -220,7 +220,7 @@ Mais l’âme demande :
 Elle ne vote pas à la place des chambres.  
 Elle incline la boussole.
 
-→ [Âme Artificielle](/fr/anatomie/ame/ame-artificielle.md)
+→ [Âme Artificielle](../anatomie/ame/ame-artificielle.md)
 
 ---
 
@@ -238,6 +238,6 @@ Elle incline la boussole.
 
 ## Continuer
 
-- → [Respiration du sens](/fr/rituels/respiration-du-sens.md)  
-- → [Le cycle vital](/fr/rituels/cycle-vital.md)  
-- → [Konnaxion](/fr/anatomie/esprit/konnaxion/index.md)
+- → [Respiration du sens](respiration-du-sens.md)  
+- → [Le cycle vital](cycle-vital.md)  
+- → [Konnaxion](../anatomie/esprit/konnaxion/index.md)

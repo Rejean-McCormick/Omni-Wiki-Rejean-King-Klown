@@ -3,7 +3,7 @@ title: SenTient
 description: Les Oreilles de Kréature — et son système immunitaire du langage. Déconstruit le texte humain (linéaire) en concepts (mesh) sûrs et structurés.
 ---
 
-[English version](/en/anatomie/sens/sentient.md)
+[English version](../../../KK-en/anatomie/sens/sentient.md)
 
 # SenTient — Les Oreilles (et l’Immunité du langage)
 
@@ -57,7 +57,7 @@ Autrement dit :
 Dans Orgo, c’est vital :
 toute entrée doit passer par SenTient avant de toucher le “corps” interne.
 
-→ [Orgo](/fr/anatomie/corps/orgo.md)
+→ [Orgo](../corps/orgo.md)
 
 ---
 
@@ -107,8 +107,8 @@ Ensemble, ils font respirer Kréature :
 - comprendre sans se noyer,
 - parler sans trahir le sens.
 
-→ [Respiration du sens](/fr/rituels/respiration-du-sens.md)  
-→ [Architect](/fr/anatomie/voix/architect.md)
+→ [Respiration du sens](../../rituels/respiration-du-sens.md)  
+→ [Architect](../voix/architect.md)
 
 ---
 
@@ -180,13 +180,13 @@ SenTient transforme une entrée fragile en entrée **sûre**.
 SenTient se place au tout début du vivant :
 
 1) Percevoir (oreilles) — **SenTient**  
-2) Percevoir (yeux) — [Ariane](/fr/anatomie/sens/ariane.md)  
-3) Débattre / pondérer / décider — [Konnaxion](/fr/anatomie/esprit/konnaxion/index.md)  
-4) Agir — [Orgo](/fr/anatomie/corps/orgo.md)  
-5) Se souvenir — [SwarmCraft](/fr/anatomie/memoire/swarmcraft.md)  
-6) S’aligner — [Âme Artificielle](/fr/anatomie/ame/ame-artificielle.md)
+2) Percevoir (yeux) — [Ariane](ariane.md)  
+3) Débattre / pondérer / décider — [Konnaxion](../esprit/konnaxion/index.md)  
+4) Agir — [Orgo](../corps/orgo.md)  
+5) Se souvenir — [SwarmCraft](../memoire/swarmcraft.md)  
+6) S’aligner — [Âme Artificielle](../ame/ame-artificielle.md)
 
-→ [Le cycle vital](/fr/rituels/cycle-vital.md)
+→ [Le cycle vital](../../rituels/cycle-vital.md)
 
 ---
 
@@ -223,6 +223,6 @@ Quand un signal arrive (email, message, note), fais simple :
 
 ## Pour continuer
 
-- → [Ariane](/fr/anatomie/sens/ariane.md)  
-- → [Orgo](/fr/anatomie/corps/orgo.md)  
-- → [Respiration du sens](/fr/rituels/respiration-du-sens.md)
+- → [Ariane](ariane.md)  
+- → [Orgo](../corps/orgo.md)  
+- → [Respiration du sens](../../rituels/respiration-du-sens.md)

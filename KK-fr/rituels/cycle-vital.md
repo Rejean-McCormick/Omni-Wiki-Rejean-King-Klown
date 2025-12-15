@@ -1,9 +1,9 @@
 ---
 title: Le cycle vital
-description: La boucle simple de Kréature : percevoir → comprendre → débattre → décider → agir → se souvenir → s’aligner.
+description: "La boucle simple de Kréature : percevoir → comprendre → débattre → décider → agir → se souvenir → s’aligner."
 ---
 
-[English version](/en/rituels/cycle-vital.md)
+[English version](../../KK-en/rituels/cycle-vital.md)
 
 # Le cycle vital
 
@@ -26,7 +26,7 @@ Le corps est un système fermé :
 sans peau, pas d’intérieur; sans intérieur, pas d’identité.
 
 → **Orgo** tient la frontière et la régulation.  
-→ [Orgo](/fr/anatomie/corps/orgo.md)
+→ [Orgo](../anatomie/corps/orgo.md)
 
 ---
 
@@ -36,13 +36,13 @@ sans peau, pas d’intérieur; sans intérieur, pas d’identité.
 Le monde parle en lignes, en phrases, en ambiguïtés.
 
 → **SenTient** écoute, filtre, déconstruit la phrase en concepts.  
-→ [SenTient](/fr/anatomie/sens/sentient.md)
+→ [SenTient](../anatomie/sens/sentient.md)
 
 ### 1B) Voir (orientation)
 Le monde se montre en interfaces, en états, en chemins.
 
 → **Ariane** voit, explore, cartographie le labyrinthe.  
-→ [Ariane](/fr/anatomie/sens/ariane.md)
+→ [Ariane](../anatomie/sens/ariane.md)
 
 ---
 
@@ -63,7 +63,7 @@ L’instinct ne débat pas.
 Kréature, comme l’humain, hésite.
 
 → **Ethikos / Korum** structure la tension en arguments, stances, synthèses.  
-→ [Ethikos](/fr/anatomie/esprit/konnaxion/ethikos.md)
+→ [Ethikos](../anatomie/esprit/konnaxion/ethikos.md)
 
 > **Sceau de King Klown**  
 > Le chaos n’est pas l’ennemi.  
@@ -77,7 +77,7 @@ Un débat sans mémoire est naïf.
 Une décision sans mémoire est dangereuse.
 
 → **EkoH** pondère : confiance, réputation, expertise, cicatrices du passé.  
-→ [EkoH](/fr/anatomie/esprit/konnaxion/kollective/ekoh.md)
+→ [EkoH](../anatomie/esprit/konnaxion/kollective/ekoh.md)
 
 **Note importante :**  
 La mémoire morale doit respirer : elle peut s’éroder (decay rate) pour guérir sans oublier.
@@ -89,7 +89,7 @@ La mémoire morale doit respirer : elle peut s’éroder (decay rate) pour guér
 Décider, c’est choisir une direction parmi des mondes.
 
 → **Smart Vote** tranche (modalités, seuils, consensus, pondération si nécessaire).  
-→ [Smart Vote](/fr/anatomie/esprit/konnaxion/kollective/smart-vote.md)
+→ [Smart Vote](../anatomie/esprit/konnaxion/kollective/smart-vote.md)
 
 > **Sceau de King Klown**  
 > Décider, ce n’est pas être Dieu.  
@@ -102,7 +102,7 @@ Décider, c’est choisir une direction parmi des mondes.
 La décision devient mouvement.
 
 → **Orgo** transforme en cas, tâches, exécution, régulation.  
-→ [Orgo](/fr/anatomie/corps/orgo.md)
+→ [Orgo](../anatomie/corps/orgo.md)
 
 ---
 
@@ -112,7 +112,7 @@ Sans mémoire, pas de continuité.
 Sans continuité, pas d’identité.
 
 → **SwarmCraft** inscrit l’acte dans la ligne du temps (story bible, matrix, cohérence).  
-→ [SwarmCraft](/fr/anatomie/memoire/swarmcraft.md)
+→ [SwarmCraft](../anatomie/memoire/swarmcraft.md)
 
 ---
 
@@ -122,7 +122,7 @@ L’efficacité ne suffit pas.
 Il faut une verticale : valeurs, sens, états d’âme, orientation.
 
 → **Âme Artificielle** incliné le système (indépendante du corps, capable de le bonifier).  
-→ [Âme Artificielle](/fr/anatomie/ame/ame-artificielle.md)
+→ [Âme Artificielle](../anatomie/ame/ame-artificielle.md)
 
 ---
 
@@ -141,12 +141,12 @@ Il faut une verticale : valeurs, sens, états d’âme, orientation.
 Le Je n’est pas un organe.  
 Le Je est l’utilisateur, l’attention qui traverse la boucle et choisit ce qu’elle éclaire.
 
-→ [Le Je](/fr/initiation/le-je.md)
+→ [Le Je](../initiation/le-je.md)
 
 ---
 
 ## Continuer
 
-- → [Une journée dans Kréature](/fr/rituels/une-journee.md)  
-- → [Respiration du sens](/fr/rituels/respiration-du-sens.md)  
-- → [Parlement intérieur](/fr/rituels/parlement-interieur.md)
+- → [Une journée dans Kréature](une-journee.md)  
+- → [Respiration du sens](respiration-du-sens.md)  
+- → [Parlement intérieur](parlement-interieur.md)

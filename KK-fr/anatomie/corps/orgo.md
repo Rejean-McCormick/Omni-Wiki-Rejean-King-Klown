@@ -3,7 +3,7 @@ title: Orgo
 description: Le Corps de Kréature — peau hermétique, nerfs autonomes, hormones internes. Signaux → Cas → Tâches, sans fuite de données.
 ---
 
-[English version](/en/anatomie/corps/orgo.md)
+[English version](../../../KK-en/anatomie/corps/orgo.md)
 
 # Orgo — Le Corps
 
@@ -62,8 +62,8 @@ Le signal est interprété et structuré :
 - **SenTient** peut déconstruire le langage entrant (linéaire → mesh de concepts).
 - Le **Workflow Engine** applique des règles : intention, entités, routage, gravité.
 
-→ [SenTient](/fr/anatomie/sens/sentient.md)  
-→ [Respiration du sens](/fr/rituels/respiration-du-sens.md)
+→ [SenTient](../sens/sentient.md)  
+→ [Respiration du sens](../../rituels/respiration-du-sens.md)
 
 ### 3) Objets (la chair du travail)
 - **Cas** : le contenant d’une situation (une fuite, un incident RH, un besoin, un risque).
@@ -179,22 +179,22 @@ Orgo se déploie comme un corps en couches :
 ## Comment Orgo coopère avec le reste de Kréature
 
 - Avec **SenTient** : Orgo obtient une **immunité linguistique** (le langage entrant devient structure, pas contamination).  
-  → [SenTient](/fr/anatomie/sens/sentient.md)
+  → [SenTient](../sens/sentient.md)
 
 - Avec **Konnaxion** : Orgo peut échanger avec le monde ouvert, mais sans perdre sa souveraineté.  
-  → [Konnaxion](/fr/anatomie/esprit/konnaxion/index.md)
+  → [Konnaxion](../esprit/konnaxion/index.md)
 
 - Avec **SwarmCraft** : Orgo fournit la réalité d’exécution; SwarmCraft recoud le récit et la continuité.  
-  → [SwarmCraft](/fr/anatomie/memoire/swarmcraft.md)
+  → [SwarmCraft](../memoire/swarmcraft.md)
 
 - Avec **Âme Artificielle** : Orgo tient la vie; l’âme incline le sens.  
   L’âme peut bonifier le corps, mais ne dépend pas de lui.  
-  → [Âme Artificielle](/fr/anatomie/ame/ame-artificielle.md)
+  → [Âme Artificielle](../ame/ame-artificielle.md)
 
 ---
 
 ## Pour continuer
 
-- → [Le cycle vital](/fr/rituels/cycle-vital.md)  
-- → [Une journée dans Kréature](/fr/rituels/une-journee.md)  
-- → [Le parlement intérieur](/fr/rituels/parlement-interieur.md)
+- → [Le cycle vital](../../rituels/cycle-vital.md)  
+- → [Une journée dans Kréature](../../rituels/une-journee.md)  
+- → [Le parlement intérieur](../../rituels/parlement-interieur.md)

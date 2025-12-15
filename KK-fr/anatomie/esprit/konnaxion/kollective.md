@@ -3,7 +3,7 @@ title: Kollective Intelligence
 description: La conscience et le jugement de Kréature — EkoH (mémoire morale, réputation, expertise, decay rate) + Smart Vote (décision, consensus pondéré).
 ---
 
-[English version](/en/anatomy/mind/konnaxion/kollective.md)
+[English version](../../../../KK-en/anatomy/mind/konnaxion/kollective.md)
 
 # Kollective Intelligence — Conscience & Jugement
 
@@ -43,8 +43,8 @@ Kollective Intelligence correspond exactement à :
 
 Elle se situe après le débat, avant l’action.
 
-→ [Ethikos](/fr/anatomie/esprit/konnaxion/ethikos.md)  
-→ [Le parlement intérieur](/fr/rituels/parlement-interieur.md)
+→ [Ethikos](ethikos.md)  
+→ [Le parlement intérieur](../../../rituels/parlement-interieur.md)
 
 ---
 
@@ -63,7 +63,7 @@ Il mesure et conserve :
 Et surtout, il n’est pas figé :  
 la cote s’estompe avec le temps (decay rate), ce qui permet la guérison sans amnésie.
 
-→ [EkoH](/fr/anatomie/esprit/konnaxion/kollective/ekoh.md)
+→ [EkoH](kollective/ekoh.md)
 
 ### 2) Smart Vote — le Jugement (consensus & décision)
 Smart Vote est l’acte : il ne “discute” plus, il tranche.
@@ -72,7 +72,7 @@ Il prend des positions (stances, votes, avis),
 applique des seuils, parfois une pondération,
 et produit un résultat lisible.
 
-→ [Smart Vote](/fr/anatomie/esprit/konnaxion/kollective/smart-vote.md)
+→ [Smart Vote](kollective/smart-vote.md)
 
 > **Sceau de King Klown**  
 > La conscience est une gravité.  
@@ -89,8 +89,8 @@ et produit un résultat lisible.
 4) **Orgo** exécute (cas/tâches)  
 5) **SwarmCraft** inscrit (récit, continuité)
 
-→ [Orgo](/fr/anatomie/corps/orgo.md)  
-→ [SwarmCraft](/fr/anatomie/memoire/swarmcraft.md)
+→ [Orgo](../../corps/orgo.md)  
+→ [SwarmCraft](../../memoire/swarmcraft.md)
 
 ---
 
@@ -130,13 +130,13 @@ Elle donne à Kréature la capacité de dire :
 
 ## Portes vers les sous-pages
 
-- → [EkoH — Conscience & Réputation](/fr/anatomie/esprit/konnaxion/kollective/ekoh.md)  
-- → [Smart Vote — Jugement & Consensus](/fr/anatomie/esprit/konnaxion/kollective/smart-vote.md)
+- → [EkoH — Conscience & Réputation](kollective/ekoh.md)  
+- → [Smart Vote — Jugement & Consensus](kollective/smart-vote.md)
 
 ---
 
 ## Continuer
 
-- ← [Konnaxion](/fr/anatomie/esprit/konnaxion/index.md)  
-- ← [Ethikos](/fr/anatomie/esprit/konnaxion/ethikos.md)  
-- → [Le cycle vital](/fr/rituels/cycle-vital.md)
+- ← [Konnaxion](index.md)  
+- ← [Ethikos](ethikos.md)  
+- → [Le cycle vital](../../../rituels/cycle-vital.md)

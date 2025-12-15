@@ -3,7 +3,7 @@ title: Ethikos
 description: La Gouvernance intérieure de Kréature — le tiraillement éthique rendu habitable. Débats structurés (Korum) et consultations publiques (Konsultations).
 ---
 
-[English version](/en/anatomie/esprit/konnaxion/ethikos.md)
+[English version](../../../../KK-en/anatomie/esprit/konnaxion/ethikos.md)
 
 # Ethikos — la Chambre du Tiraillement
 
@@ -153,8 +153,8 @@ Quand une question fracture l’intérieur :
 
 ## Où aller ensuite
 
-- → **Korum** : [/fr/anatomie/esprit/konnaxion/ethikos/korum.md](/fr/anatomie/esprit/konnaxion/ethikos/korum.md)  
-- → **Konsultations** : [/fr/anatomie/esprit/konnaxion/ethikos/konsultations.md](/fr/anatomie/esprit/konnaxion/ethikos/konsultations.md)  
-- → **EkoH** : [/fr/anatomie/esprit/konnaxion/kollective/ekoh.md](/fr/anatomie/esprit/konnaxion/kollective/ekoh.md)  
-- → **Smart Vote** : [/fr/anatomie/esprit/konnaxion/kollective/smart-vote.md](/fr/anatomie/esprit/konnaxion/kollective/smart-vote.md)  
-- ← Retour : [Konnaxion](/fr/anatomie/esprit/konnaxion/index.md)
+- → **Korum** : [/fr/anatomie/esprit/konnaxion/ethikos/korum.md](ethikos/korum.md)  
+- → **Konsultations** : [/fr/anatomie/esprit/konnaxion/ethikos/konsultations.md](ethikos/konsultations.md)  
+- → **EkoH** : [/fr/anatomie/esprit/konnaxion/kollective/ekoh.md](kollective/ekoh.md)  
+- → **Smart Vote** : [/fr/anatomie/esprit/konnaxion/kollective/smart-vote.md](kollective/smart-vote.md)  
+- ← Retour : [Konnaxion](index.md)

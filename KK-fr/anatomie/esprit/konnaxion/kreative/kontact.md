@@ -3,7 +3,7 @@ title: Kontact
 description: Réseau, rencontres, opportunités, confiance — le tissu relationnel de Kréature. Profils, matching, salles de co-création, appels, endorsements.
 ---
 
-[English version](/en/anatomy/mind/konnaxion/kreative/kontact.md)
+[English version](../../../../../KK-en/anatomy/mind/konnaxion/kreative/kontact.md)
 
 # Kontact — le Tissu relationnel
 
@@ -131,18 +131,18 @@ Certaines règles sont fixes et structurantes : :contentReference[oaicite:22]{in
 ### Vers Konservation (culture conservée)
 Kontact fait circuler les liens; Konservation fait durer les œuvres.
 
-→ [Konservation](/fr/anatomie/esprit/konnaxion/kreative/konservation.md)
+→ [Konservation](konservation.md)
 
 ### Vers EkoH / Smart Vote (confiance pondérée, signaux d’expertise)
 Le matching peut intégrer EkoH/Smart Vote comme signaux optionnels (quand pertinent). :contentReference[oaicite:26]{index=26}
 
-→ [EkoH](/fr/anatomie/esprit/konnaxion/kollective/ekoh.md)  
-→ [Smart Vote](/fr/anatomie/esprit/konnaxion/kollective/smart-vote.md)
+→ [EkoH](../kollective/ekoh.md)  
+→ [Smart Vote](../kollective/smart-vote.md)
 
 ### Vers keenKonnect (du lien au chantier)
 Quand la rencontre devient projet, on bascule vers les espaces de construction.
 
-→ [keenKonnect](/fr/anatomie/esprit/konnaxion/keen-konnect.md)
+→ [keenKonnect](../keen-konnect.md)
 
 ---
 
@@ -158,9 +158,9 @@ Quand la rencontre devient projet, on bascule vers les espaces de construction.
 
 ## Continuer
 
-- ← Retour : [Kreative](/fr/anatomie/esprit/konnaxion/kreative.md)  
-- → [Konservation](/fr/anatomie/esprit/konnaxion/kreative/konservation.md)  
-- → [keenKonnect](/fr/anatomie/esprit/konnaxion/keen-konnect.md)
+- ← Retour : [Kreative](../kreative.md)  
+- → [Konservation](konservation.md)  
+- → [keenKonnect](../keen-konnect.md)
 
 ---
 

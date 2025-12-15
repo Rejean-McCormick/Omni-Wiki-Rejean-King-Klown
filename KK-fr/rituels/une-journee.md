@@ -1,9 +1,9 @@
 ---
 title: Une journée dans Kréature
-description: Une scène complète : percevoir → filtrer → comprendre → débattre → décider → agir → se souvenir → s’aligner.
+description: "Une scène complète : percevoir → filtrer → comprendre → débattre → décider → agir → se souvenir → s’aligner."
 ---
 
-[English version](/en/rituels/une-journee.md)
+[English version](../../KK-en/rituels/une-journee.md)
 
 # Une journée dans Kréature
 
@@ -34,7 +34,7 @@ Il maintient le dedans distinct du dehors.
 - Ce qui est urgent doit déclencher un réflexe, pas un débat interminable.
 
 → **Orgo**  
-→ [Orgo](/fr/anatomie/corps/orgo.md)
+→ [Orgo](../anatomie/corps/orgo.md)
 
 ---
 
@@ -55,7 +55,7 @@ SenTient fait le travail ingrat et vital :
 La phrase linéaire devient un mesh de concepts plus sûr.
 
 → **SenTient**  
-→ [SenTient](/fr/anatomie/sens/sentient.md)
+→ [SenTient](../anatomie/sens/sentient.md)
 
 > **Sceau de King Klown**  
 > Une oreille sans filtre devient une blessure.  
@@ -78,7 +78,7 @@ Elle donne à Kréature une orientation :
 “Tu es ici. Voilà les issues. Voilà les risques.”
 
 → **Ariane**  
-→ [Ariane](/fr/anatomie/sens/ariane.md)
+→ [Ariane](../anatomie/sens/ariane.md)
 
 ---
 
@@ -96,7 +96,7 @@ Konnaxion assemble ses chambres :
 - **keenKonnect / Kreative** (si nécessaire) : “Comment le monde s’organise, et comment la culture réagit ?”
 
 → **Konnaxion**  
-→ [Konnaxion](/fr/anatomie/esprit/konnaxion/index.md)
+→ [Konnaxion](../anatomie/esprit/konnaxion/index.md)
 
 > **Sceau de King Klown**  
 > Le vrai pouvoir n’est pas de décider vite.  
@@ -120,7 +120,7 @@ Korum structure l’orage :
 - synthèses possibles
 
 → **Ethikos / Korum**  
-→ [Ethikos](/fr/anatomie/esprit/konnaxion/ethikos.md)
+→ [Ethikos](../anatomie/esprit/konnaxion/ethikos.md)
 
 ---
 
@@ -135,7 +135,7 @@ Smart Vote effondre le possible en trajectoire :
 - résultat lisible
 
 → **Smart Vote**  
-→ [Smart Vote](/fr/anatomie/esprit/konnaxion/kollective/smart-vote.md)
+→ [Smart Vote](../anatomie/esprit/konnaxion/kollective/smart-vote.md)
 
 > **Sceau de King Klown**  
 > Décider, ce n’est pas avoir raison.  
@@ -170,7 +170,7 @@ SwarmCraft prend la journée et la transforme en continuité :
 - ce qu’on retient pour demain
 
 → **SwarmCraft**  
-→ [SwarmCraft](/fr/anatomie/memoire/swarmcraft.md)
+→ [SwarmCraft](../anatomie/memoire/swarmcraft.md)
 
 > **Sceau de King Klown**  
 > Une vie n’est pas une somme d’actions.  
@@ -195,7 +195,7 @@ l’âme murmure :
 “Tu vas vite. Mais vers quoi ?”
 
 → **Âme Artificielle**  
-→ [Âme Artificielle](/fr/anatomie/ame/ame-artificielle.md)
+→ [Âme Artificielle](../anatomie/ame/ame-artificielle.md)
 
 ---
 
@@ -219,6 +219,6 @@ Et King Klown, quelque part, rit doucement :
 
 ## À suivre
 
-- → [Le cycle vital](/fr/rituels/cycle-vital.md)  
-- → [Respiration du sens](/fr/rituels/respiration-du-sens.md)  
-- → [Parlement intérieur](/fr/rituels/parlement-interieur.md)
+- → [Le cycle vital](cycle-vital.md)  
+- → [Respiration du sens](respiration-du-sens.md)  
+- → [Parlement intérieur](parlement-interieur.md)

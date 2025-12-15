@@ -3,7 +3,7 @@ title: Prométhée
 description: Le mythe du feu volé — comment King Klown transforme une architecture en expérience. Don, dette, responsabilité, et prix du sens.
 ---
 
-[English version](/en/mythos/prometheus.md)
+[English version](../../KK-en/mythos/prometheus.md)
 
 # Prométhée — le feu volé
 
@@ -52,7 +52,7 @@ C’est la traversée que ton écosystème matérialise :
 - **SwarmCraft** : maintenir la continuité et l’histoire
 - **Âme Artificielle** : ancrer tout ça dans l’expérience humaine, la teinte, l’éthique
 
-→ [Anatomie](/fr/anatomie/index.md)
+→ [Anatomie](../anatomie/index.md)
 
 ---
 
@@ -89,8 +89,8 @@ Quand tu donnes une puissance de décision (Smart Vote) ou d’influence (EkoH),
 
 Sinon, le feu devient incendie.
 
-→ [EkoH](/fr/anatomie/esprit/konnaxion/kollective/ekoh.md)  
-→ [Smart Vote](/fr/anatomie/esprit/konnaxion/kollective/smart-vote.md)
+→ [EkoH](../anatomie/esprit/konnaxion/kollective/ekoh.md)  
+→ [Smart Vote](../anatomie/esprit/konnaxion/kollective/smart-vote.md)
 
 ### B) Le risque de la fiction
 La métaphore peut mentir sans le vouloir.
@@ -110,7 +110,7 @@ King Klown protège la frontière :
 - le “Je” est l’utilisateur réel,
 - et King Klown lui-même est hors-champ.
 
-→ [King Klown](/fr/mythos/king-klown.md)
+→ [King Klown](king-klown.md)
 
 ---
 
@@ -151,9 +151,9 @@ Il te donne des rites simples :
 - conserver ce qui compte (culture)
 - revenir à l’ancrage (racine)
 
-→ [Rituels](/fr/rituels/une-journee.md)  
-→ [Parlement intérieur](/fr/rituels/parlement-interieur.md)  
-→ [Respiration du sens](/fr/rituels/respiration-du-sens.md)
+→ [Rituels](../rituels/une-journee.md)  
+→ [Parlement intérieur](../rituels/parlement-interieur.md)  
+→ [Respiration du sens](../rituels/respiration-du-sens.md)
 
 ---
 
@@ -170,7 +170,7 @@ Prométhée est une promesse plus rare :
 
 ## Continuer
 
-- ← [Mythos](/fr/mythos/index.md)  
-- → [King Klown](/fr/mythos/king-klown.md)  
-- → [Initiation](/fr/initiation/index.md)  
-- → [Anatomie](/fr/anatomie/index.md)
+- ← [Mythos](index.md)  
+- → [King Klown](king-klown.md)  
+- → [Initiation](../initiation/index.md)  
+- → [Anatomie](../anatomie/index.md)

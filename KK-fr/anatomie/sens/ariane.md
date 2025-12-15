@@ -3,7 +3,7 @@ title: Ariane
 description: Les Yeux de Kréature — vision sémantique des interfaces (UI-as-data), exploration (Theseus) et mémoire spatiale (Atlas).
 ---
 
-[English version](/en/anatomie/sens/ariane.md)
+[English version](../../../KK-en/anatomie/sens/ariane.md)
 
 # Ariane — Les Yeux
 
@@ -126,7 +126,7 @@ Ensemble : perception complète.
 - ce qu’on te dit,
 - et ce qui est réellement devant toi.
 
-→ [SenTient](/fr/anatomie/sens/sentient.md)
+→ [SenTient](sentient.md)
 
 ### Ariane + Orgo : voir pour agir
 Orgo agit par cas et tâches.  
@@ -137,7 +137,7 @@ Ariane fournit :
 - les options,
 - les routes d’exécution.
 
-→ [Orgo](/fr/anatomie/corps/orgo.md)
+→ [Orgo](../corps/orgo.md)
 
 ### Ariane + Konnaxion : voir pour décider
 Le parlement intérieur a besoin de concret :
@@ -147,7 +147,7 @@ Le parlement intérieur a besoin de concret :
 
 Ariane donne au débat un sol.
 
-→ [Konnaxion](/fr/anatomie/esprit/konnaxion/index.md)
+→ [Konnaxion](../esprit/konnaxion/index.md)
 
 ### Ariane + SwarmCraft : la mémoire du chemin
 SwarmCraft écrit l’histoire.  
@@ -157,7 +157,7 @@ Ensemble :
 - ce qui a été fait (récit),
 - et comment on y est arrivé (chemin).
 
-→ [SwarmCraft](/fr/anatomie/memoire/swarmcraft.md)
+→ [SwarmCraft](../memoire/swarmcraft.md)
 
 ---
 
@@ -184,7 +184,7 @@ Quand tu sens que tout devient écran et confusion :
 4) **Avancer** (une transition).  
 5) **Inscrire** (SwarmCraft) ce qui a marché.
 
-→ [Une journée dans Kréature](/fr/rituels/une-journee.md)
+→ [Une journée dans Kréature](../../rituels/une-journee.md)
 
 > **Sceau de King Klown**  
 > La sortie du labyrinthe n’est pas un endroit.  
@@ -194,6 +194,6 @@ Quand tu sens que tout devient écran et confusion :
 
 ## Pour continuer
 
-- → [SenTient](/fr/anatomie/sens/sentient.md)  
-- → [Carte anatomique](/fr/initiation/carte.md)  
-- → [Le cycle vital](/fr/rituels/cycle-vital.md)
+- → [SenTient](sentient.md)  
+- → [Carte anatomique](../../initiation/carte.md)  
+- → [Le cycle vital](../../rituels/cycle-vital.md)

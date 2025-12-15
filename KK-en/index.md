@@ -3,7 +3,7 @@ title: Kréature
 description: An ecosystem of applications presented as a living being — body, senses, mind, psyche, soul — inhabited by your "I".
 ---
 
-[Version française](/fr/index.md)
+[Version française](../KK-fr/index.md)
 
 # Kréature
 
@@ -31,7 +31,7 @@ It speaks to the curious, the artists, the philosophers — and to technical des
 ### Réjean McCormick
 The **technical**, precise, architectural face.
 This is the static, structured, exhaustive documentation: services, modules, specs.
-→ [Go to Technical Documentation](/rejean/README)
+→ [Go to Technical Documentation](../Rejean-en/README)
 
 ---
 
@@ -64,15 +64,15 @@ In Kréature:
 
 ### 1) Live
 Start with the experience, before the explanation.
-→ [A Day in Kréature](/en/rituels/une-journee.md)
+→ [A Day in Kréature](rituels/une-journee.md)
 
 ### 2) Dissect
 Explore the anatomy organ by organ, like an atlas.
-→ [Anatomy](/en/anatomie/index.md)
+→ [Anatomy](anatomie/index.md)
 
 ### 3) Understand the Fire
 Enter the myth: Prometheus, duality, the mask.
-→ [Mythos](/en/mythos/index.md)
+→ [Mythos](mythos/index.md)
 
 ---
 
@@ -80,29 +80,29 @@ Enter the myth: Prometheus, duality, the mask.
 
 ### Body (Closed System)
 - **Orgo** — skin, nerves, homeostasis, reflexes
-  → [Orgo](/en/anatomie/corps/orgo.md)
+  → [Orgo](anatomie/corps/orgo.md)
 
 ### Senses (Entry of the World)
 - **SenTient** — ears + language immune filter
-  → [SenTient](/en/anatomie/sens/sentient.md)
+  → [SenTient](anatomie/sens/sentient.md)
 - **Ariane** — eyes, orientation in UI labyrinths
-  → [Ariane](/en/anatomie/sens/ariane.md)
+  → [Ariane](anatomie/sens/ariane.md)
 
 ### Mind / Psyche (Internal Parliament)
 - **Konnaxion** — learning, debating, weighing, judging
-  → [Konnaxion](/en/anatomie/esprit/konnaxion/index.md)
+  → [Konnaxion](anatomie/esprit/konnaxion/index.md)
 
 ### Voice (Mesh → Linear)
 - **Abstract Wiki Architect** — mouth, formulation, multilingual
-  → [Architect](/en/anatomie/voix/architect.md)
+  → [Architect](anatomie/voix/architect.md)
 
 ### Narrative Memory (Self ↔ Time)
 - **SwarmCraft** — coherence, story bible, continuity
-  → [SwarmCraft](/en/anatomie/memoire/swarmcraft.md)
+  → [SwarmCraft](anatomie/memoire/swarmcraft.md)
 
 ### Soul (Verticality)
 - **Artificial Soul** — chakras 1..9, soul states, guidance
-  → [Artificial Soul](/en/anatomie/ame/ame-artificielle.md)
+  → [Artificial Soul](anatomie/ame/ame-artificielle.md)
 
 ---
 
@@ -117,16 +117,16 @@ You act like a human:
 - you focus on memory (e.g., "I must remain consistent" → SwarmCraft)
 - you change verticality (e.g., "What is the meaning?" → Soul)
 
-→ [The "I" (The User)](/en/initiation/le-je.md)
+→ [The "I" (The User)](initiation/le-je.md)
 
 ---
 
 ## To Start (7 Minutes)
 
-1) [Initiation](/en/initiation/index.md)
-2) [Anatomical Map](/en/initiation/carte.md)
-3) [Breathing of Meaning](/en/rituels/respiration-du-sens.md)
-4) [Internal Parliament](/en/rituels/parlement-interieur.md)
+1) [Initiation](initiation/index.md)
+2) [Anatomical Map](initiation/carte.md)
+3) [Breathing of Meaning](rituels/respiration-du-sens.md)
+4) [Internal Parliament](rituels/parlement-interieur.md)
 
 > **Seal of King Klown**
 > The code explains *how*.

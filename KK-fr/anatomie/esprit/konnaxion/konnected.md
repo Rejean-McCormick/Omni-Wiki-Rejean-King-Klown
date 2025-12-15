@@ -3,7 +3,7 @@ title: KonnectED
 description: La mémoire vivante de Kréature — apprendre, cartographier, transformer le savoir en compétence.
 ---
 
-[FR](/fr/anatomie/esprit/konnaxion/konnected) · [EN](/en/anatomy/mind/konnaxion/konnected)
+[FR](konnected) · [EN](../../../../KK-en/anatomy/mind/konnaxion/konnected)
 
 # KonnectED — la Mémoire vivante
 

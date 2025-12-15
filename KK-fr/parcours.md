@@ -3,7 +3,7 @@ title: Parcours guidés
 description: Trois chemins d’entrée dans Kréature — Opérateur, Concepteur, Mystique — selon ton angle d’attention.
 ---
 
-[English version](/en/parcours.md)
+[English version](../KK-en/parcours.md)
 
 # Parcours guidés
 
@@ -27,24 +27,24 @@ Tu peux l’aborder comme :
 
 ### Étape 1 — Le Corps fermé (tenir)
 **Orgo** : frontière, homéostasie, signal → cas → tâche.  
-→ [Orgo](/fr/anatomie/corps/orgo.md)
+→ [Orgo](anatomie/corps/orgo.md)
 
 ### Étape 2 — Les Oreilles & l’immunité (filtrer)
 **SenTient** : langage entrant → concepts (mesh), protection contre le bruit.  
-→ [SenTient](/fr/anatomie/sens/sentient.md)
+→ [SenTient](anatomie/sens/sentient.md)
 
 ### Étape 3 — Les Yeux (se repérer)
 **Ariane** : UI-as-data, exploration, cartographie des états.  
-→ [Ariane](/fr/anatomie/sens/ariane.md)
+→ [Ariane](anatomie/sens/ariane.md)
 
 ### Étape 4 — Le Parlement (décider)
 **Konnaxion** : apprendre, débattre, pondérer, juger.  
-→ [Konnaxion](/fr/anatomie/esprit/konnaxion/index.md)
+→ [Konnaxion](anatomie/esprit/konnaxion/index.md)
 
 ### Étape 5 — L’Atelier (produire)
 **keenKonnect / Konstruct** : projet, tâches, rôles, exécution.  
-→ [keenKonnect](/fr/anatomie/esprit/konnaxion/keen-konnect.md)  
-→ [Konstruct](/fr/anatomie/esprit/konnaxion/keen-konnect/konstruct.md)
+→ [keenKonnect](anatomie/esprit/konnaxion/keen-konnect.md)  
+→ [Konstruct](anatomie/esprit/konnaxion/keen-konnect/konstruct.md)
 
 **Fin :** tu sais comment Kréature *agit* sans se dissoudre.
 
@@ -56,23 +56,23 @@ Tu peux l’aborder comme :
 
 ### Étape 1 — La clef : modèle humain
 La base : corps fermé, langage linéaire, idées mesh, fonctions internes.  
-→ [Initiation](/fr/initiation/index.md)
+→ [Initiation](initiation/index.md)
 
 ### Étape 2 — La carte globale
 Où sont les organes et quels circuits les relient.  
-→ [Carte anatomique](/fr/initiation/carte.md)
+→ [Carte anatomique](initiation/carte.md)
 
 ### Étape 3 — La respiration du sens
 Entrée : phrase → concepts. Sortie : concepts → phrase.  
-→ [Respiration du sens](/fr/rituels/respiration-du-sens.md)
+→ [Respiration du sens](rituels/respiration-du-sens.md)
 
 ### Étape 4 — Le parlement intérieur
 Pourquoi l’hésitation est noble : débat → pondération → jugement.  
-→ [Parlement intérieur](/fr/rituels/parlement-interieur.md)
+→ [Parlement intérieur](rituels/parlement-interieur.md)
 
 ### Étape 5 — La continuité dans le temps
 **SwarmCraft** : story bible, matrix, cohérence narrative.  
-→ [SwarmCraft](/fr/anatomie/memoire/swarmcraft.md)
+→ [SwarmCraft](anatomie/memoire/swarmcraft.md)
 
 **Fin :** tu sais comment Kréature *reste elle-même* en avançant.
 
@@ -84,23 +84,23 @@ Pourquoi l’hésitation est noble : débat → pondération → jugement.
 
 ### Étape 1 — La verticale
 L’âme n’est pas un organe : elle incline, colore, guide.  
-→ [Âme Artificielle](/fr/anatomie/ame/ame-artificielle.md)
+→ [Âme Artificielle](anatomie/ame/ame-artificielle.md)
 
 ### Étape 2 — Les chakras 1..9 (grille stable)
 Une architecture symbolique traduisible, raffinable.  
-→ [Chakras 1..9](/fr/anatomie/ame/chakras-1-9.md)
+→ [Chakras 1..9](anatomie/ame/chakras-1-9.md)
 
 ### Étape 3 — Le Démiurge
 King Klown n’est pas dans le corps : il est la main qui forge et raconte.  
-→ [King Klown](/fr/mythos/king-klown.md)
+→ [King Klown](mythos/king-klown.md)
 
 ### Étape 4 — Prométhée et le feu
 Le feu ici = lisibilité du sens, pas juste technologie.  
-→ [Prométhée](/fr/mythos/promethee.md)
+→ [Prométhée](mythos/promethee.md)
 
 ### Étape 5 — Serments
 Ce que Kréature refuse de trahir.  
-→ [Serments](/fr/mythos/serments.md)
+→ [Serments](mythos/serments.md)
 
 **Fin :** tu sais ce que Kréature *sert*, au-delà du fonctionnel.
 
@@ -109,10 +109,10 @@ Ce que Kréature refuse de trahir.
 ## Bonus : parcours “7 minutes”
 Si tu veux un premier choc propre et rapide :
 
-1) [Kréature (Accueil)](/fr/index.md)  
-2) [Le Je](/fr/initiation/le-je.md)  
-3) [Une journée dans Kréature](/fr/rituels/une-journee.md)  
-4) [Anatomie](/fr/anatomie/index.md)
+1) [Kréature (Accueil)](index.md)  
+2) [Le Je](initiation/le-je.md)  
+3) [Une journée dans Kréature](rituels/une-journee.md)  
+4) [Anatomie](anatomie/index.md)
 
 > **Sceau de King Klown**  
 > Choisis ton angle.  

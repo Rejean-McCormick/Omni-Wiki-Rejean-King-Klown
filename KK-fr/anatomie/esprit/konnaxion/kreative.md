@@ -3,7 +3,7 @@ title: Kreative
 description: Culture, création, mémoire symbolique — préserver, exposer, relier. Konservation (archives & expositions) + Kontact (réseau & opportunités).
 ---
 
-[English version](/en/anatomy/mind/konnaxion/kreative.md)
+[English version](../../../../KK-en/anatomy/mind/konnaxion/kreative.md)
 
 # Kreative — la Culture (et la peau symbolique)
 
@@ -74,7 +74,7 @@ Ses modèles canoniques sont centrés sur :
 Ses routes publiques :
 - `/kreative` (hub), `/art/[id]` (fiche œuvre), `/archive` (archive). :contentReference[oaicite:4]{index=4}
 
-→ [Konservation](/fr/anatomie/esprit/konnaxion/kreative/konservation.md)
+→ [Konservation](kreative/konservation.md)
 
 ---
 
@@ -93,7 +93,7 @@ Ses routes sont explicitement centrées sur :
 Un modèle clé listé dans le schéma :
 - **CollabSession** (sessions de co-création), lié potentiellement à une œuvre finale. :contentReference[oaicite:8]{index=8}
 
-→ [Kontact](/fr/anatomie/esprit/konnaxion/kreative/kontact.md)
+→ [Kontact](kreative/kontact.md)
 
 ---
 
@@ -128,9 +128,9 @@ En clair :
 
 ## Continuer
 
-- → [Konservation](/fr/anatomie/esprit/konnaxion/kreative/konservation.md)  
-- → [Kontact](/fr/anatomie/esprit/konnaxion/kreative/kontact.md)  
-- ← Retour : [Konnaxion](/fr/anatomie/esprit/konnaxion/index.md)
+- → [Konservation](kreative/konservation.md)  
+- → [Kontact](kreative/kontact.md)  
+- ← Retour : [Konnaxion](index.md)
 
 ---
 

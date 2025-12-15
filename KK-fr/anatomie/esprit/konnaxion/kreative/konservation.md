@@ -3,7 +3,7 @@ title: Konservation
 description: Archives, expositions, catalogue augmenté, partenaires — la mémoire culturelle de Kréature. Préserver, rendre visible, transmettre.
 ---
 
-[English version](/en/anatomy/mind/konnaxion/kreative/konservation.md)
+[English version](../../../../../KK-en/anatomy/mind/konnaxion/kreative/konservation.md)
 
 # Konservation — la Mémoire culturelle
 
@@ -40,8 +40,8 @@ Or une culture — comme une personne — a besoin d’un **socle** :
 
 Konservation joue ce rôle : **mémoire symbolique** et **mise en scène**.
 
-→ [Kreative](/fr/anatomie/esprit/konnaxion/kreative.md)  
-→ [Kontact](/fr/anatomie/esprit/konnaxion/kreative/kontact.md)
+→ [Kreative](../kreative.md)  
+→ [Kontact](kontact.md)
 
 ---
 
@@ -154,9 +154,9 @@ Konservation décrit explicitement ses “machines de fond” : :contentReferenc
 
 ## Continuer
 
-- ← Retour : [Kreative](/fr/anatomie/esprit/konnaxion/kreative.md)  
-- → [Kontact](/fr/anatomie/esprit/konnaxion/kreative/kontact.md)  
-- → [Konnaxion](/fr/anatomie/esprit/konnaxion/index.md)
+- ← Retour : [Kreative](../kreative.md)  
+- → [Kontact](kontact.md)  
+- → [Konnaxion](../index.md)
 
 ---
 

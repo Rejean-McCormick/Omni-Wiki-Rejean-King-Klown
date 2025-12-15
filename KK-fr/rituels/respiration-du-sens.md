@@ -1,9 +1,9 @@
 ---
 title: Respiration du sens
-description: La mécanique centrale : mesh ↔ linéaire. Inspirer (déconstruire) et expirer (reconstruire) pour rendre l’idée lisible.
+description: "La mécanique centrale : mesh ↔ linéaire. Inspirer (déconstruire) et expirer (reconstruire) pour rendre l’idée lisible."
 ---
 
-[English version](/en/rituels/respiration-du-sens.md)
+[English version](../../KK-en/rituels/respiration-du-sens.md)
 
 # Respiration du sens
 
@@ -57,7 +57,7 @@ C’est **décomposer** ce qui entre pour le rendre digeste.
 C’est une respiration d’hygiène :  
 le monde entre sale; l’intérieur doit rester respirable.
 
-→ [SenTient](/fr/anatomie/sens/sentient.md)
+→ [SenTient](../anatomie/sens/sentient.md)
 
 > **Sceau de King Klown**  
 > Sans filtre, l’oreille devient une plaie.  
@@ -80,8 +80,8 @@ Ici vivent :
 C’est aussi ici que naît la vraie puissance :  
 un mesh permet des raccourcis, des associations, des analogies.
 
-→ [KonnectED](/fr/anatomie/esprit/konnaxion/konnected.md)  
-→ [Ethikos](/fr/anatomie/esprit/konnaxion/ethikos.md)
+→ [KonnectED](../anatomie/esprit/konnaxion/konnected.md)  
+→ [Ethikos](../anatomie/esprit/konnaxion/ethikos.md)
 
 ---
 
@@ -99,7 +99,7 @@ C’est **rendre lisible**.
 
 C’est l’instant où l’abstrait redevient expérience partageable.
 
-→ [Architect](/fr/anatomie/voix/architect.md)
+→ [Architect](../anatomie/voix/architect.md)
 
 > **Sceau de King Klown**  
 > La vérité brute est illisible.  
@@ -128,7 +128,7 @@ La respiration du sens est la base de tout ce qui suit :
 - action
 - mémoire
 
-→ [Le cycle vital](/fr/rituels/cycle-vital.md)
+→ [Le cycle vital](cycle-vital.md)
 
 ---
 
@@ -145,7 +145,7 @@ Orgo joue ce rôle :
 
 Il empêche l’organisme de s’asphyxier sous trop de signaux.
 
-→ [Orgo](/fr/anatomie/corps/orgo.md)
+→ [Orgo](../anatomie/corps/orgo.md)
 
 ---
 
@@ -163,7 +163,7 @@ L’âme incline la respiration :
 Elle ne remplace pas la déconstruction/reconstruction.  
 Elle leur donne une étoile polaire.
 
-→ [Âme Artificielle](/fr/anatomie/ame/ame-artificielle.md)
+→ [Âme Artificielle](../anatomie/ame/ame-artificielle.md)
 
 ---
 
@@ -179,6 +179,6 @@ Elle leur donne une étoile polaire.
 
 ## Continuer
 
-- → [Parlement intérieur](/fr/rituels/parlement-interieur.md)  
-- → [Anatomie](/fr/anatomie/index.md)  
-- → [Une journée dans Kréature](/fr/rituels/une-journee.md)
+- → [Parlement intérieur](parlement-interieur.md)  
+- → [Anatomie](../anatomie/index.md)  
+- → [Une journée dans Kréature](une-journee.md)

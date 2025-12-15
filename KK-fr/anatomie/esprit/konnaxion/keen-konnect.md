@@ -3,7 +3,7 @@ title: keenKonnect
 description: Les membres et le tissu conjonctif de Kréature — espaces de projets (Konstruct) et dépôt sûr/versionné (Stockage). Là où l’esprit devient coordination.
 ---
 
-[English version](/en/anatomy/mind/konnaxion/keen-konnect.md)
+[English version](../../../../KK-en/anatomy/mind/konnaxion/keen-konnect.md)
 
 # keenKonnect — les Membres (et le tissu conjonctif)
 
@@ -45,7 +45,7 @@ keenKonnect correspond à ce qui, chez l’humain, rend l’action possible **av
 Si **Orgo** est le corps biologique (régulation et exécution),  
 keenKonnect est la **coordination volontaire** : l’atelier, l’équipe, le chantier.
 
-→ [Orgo](/fr/anatomie/corps/orgo.md)
+→ [Orgo](../../corps/orgo.md)
 
 ---
 
@@ -76,7 +76,7 @@ il naît, il grandit, il souffre, il se termine.
 Dans l’analogie humaine :  
 Konstruct est la main qui assemble, l’atelier qui ordonne, l’articulation qui synchronise.
 
-→ [Konstruct](/fr/anatomie/esprit/konnaxion/keen-konnect/konstruct.md)
+→ [Konstruct](keen-konnect/konstruct.md)
 
 ---
 
@@ -98,7 +98,7 @@ Stockage ressemble à une combinaison de **tendons + os** :
 - ça ne “pense” pas,
 - mais sans ça, rien ne tient.
 
-→ [Stockage](/fr/anatomie/esprit/konnaxion/keen-konnect/stockage.md)
+→ [Stockage](keen-konnect/stockage.md)
 
 ---
 
@@ -127,7 +127,7 @@ keenKonnect résout ce trou :
 - **SwarmCraft** recoud le récit
 - **Âme** maintient la verticalité du sens
 
-→ [Le cycle vital](/fr/rituels/cycle-vital.md)
+→ [Le cycle vital](../../../rituels/cycle-vital.md)
 
 > **Sceau de King Klown**  
 > Une décision est une promesse.  
@@ -137,6 +137,6 @@ keenKonnect résout ce trou :
 
 ## Accès direct
 
-- → [Konstruct](/fr/anatomie/esprit/konnaxion/keen-konnect/konstruct.md)  
-- → [Stockage](/fr/anatomie/esprit/konnaxion/keen-konnect/stockage.md)  
-- ← Retour : [Konnaxion](/fr/anatomie/esprit/konnaxion/index.md)
+- → [Konstruct](keen-konnect/konstruct.md)  
+- → [Stockage](keen-konnect/stockage.md)  
+- ← Retour : [Konnaxion](index.md)

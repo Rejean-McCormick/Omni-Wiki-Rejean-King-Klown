@@ -3,7 +3,7 @@ title: SwarmCraft
 description: La Mémoire narrative de Kréature — cohérence dans le temps. Matrix (état), Story Bible (intention), RAG (preuves). Une mémoire pilotée par une boucle déterministe.
 ---
 
-[English version](/en/anatomy/memory/swarmcraft.md)
+[English version](../../../KK-en/anatomy/memory/swarmcraft.md)
 
 # SwarmCraft — la Mémoire (et la continuité dans le temps)
 
@@ -123,10 +123,10 @@ SwarmCraft injecte uniquement la “slice” active (la part pertinente) pour é
 
 ## Place de SwarmCraft dans Kréature
 
-- **Entrée / oreilles + filtre** : [SenTient](/fr/anatomie/sens/sentient.md)  
-- **Voix / sortie linéaire** : [Architect](/fr/anatomie/voix/architect.md)  
-- **Vision / navigation** : [Ariane](/fr/anatomie/sens/ariane.md)  
-- **Esprit / débat-jugement-apprentissage** : [Konnaxion](/fr/anatomie/esprit/konnaxion/index.md)
+- **Entrée / oreilles + filtre** : [SenTient](../sens/sentient.md)  
+- **Voix / sortie linéaire** : [Architect](../voix/architect.md)  
+- **Vision / navigation** : [Ariane](../sens/ariane.md)  
+- **Esprit / débat-jugement-apprentissage** : [Konnaxion](../esprit/konnaxion/index.md)
 
 Dans la métaphore :
 - SenTient reçoit (et désinfecte),

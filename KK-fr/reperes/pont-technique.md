@@ -3,7 +3,7 @@ title: Pont vers la partie technique
 description: Passer de Kréature (mythopoétique) à Réjean McCormick (technique). Même écosystème, deux lectures, une seule vérité.
 ---
 
-[English version](/en/landmarks/technical-bridge.md)
+[English version](../../KK-en/landmarks/technical-bridge.md)
 
 # Pont vers la partie technique — Réjean McCormick
 
@@ -72,14 +72,14 @@ Ensuite, tu traverses.
 ### Corps
 - **Orgo** → doc technique Orgo (souveraineté, cycles, signaux, cas/tâches)
 
-→ [Orgo](/fr/anatomie/corps/orgo.md)
+→ [Orgo](../anatomie/corps/orgo.md)
 
 ### Sens
 - **Ariane** → doc technique Ariane (UI as Data, Theseus, Atlas)
 - **SenTient** → doc technique SenTient (déconstruction, réconciliation, filtre)
 
-→ [Ariane](/fr/anatomie/sens/ariane.md)  
-→ [SenTient](/fr/anatomie/sens/sentient.md)
+→ [Ariane](../anatomie/sens/ariane.md)  
+→ [SenTient](../anatomie/sens/sentient.md)
 
 ### Esprit (Konnaxion)
 - **KonnectED** → Knowledge + CertifiKation
@@ -88,22 +88,22 @@ Ensuite, tu traverses.
 - **keenKonnect** → Konstruct + Stockage
 - **Kreative** → Konservation + Kontact
 
-→ [Konnaxion](/fr/anatomie/esprit/konnaxion/index.md)
+→ [Konnaxion](../anatomie/esprit/konnaxion/index.md)
 
 ### Voix
 - **Architect** → abstract-wiki-architect (engines, lexique, constructions, API, QA)
 
-→ [Architect](/fr/anatomie/voix/architect.md)
+→ [Architect](../anatomie/voix/architect.md)
 
 ### Mémoire
 - **SwarmCraft** → story engine, Matrix/Story Bible/RAG, loop SCAN→PLAN→EXECUTE
 
-→ [SwarmCraft](/fr/anatomie/memoire/swarmcraft.md)
+→ [SwarmCraft](../anatomie/memoire/swarmcraft.md)
 
 ### Âme
 - **Âme Artificielle (EL)** → modules contrôle, méta-cognition, paths, éthique
 
-→ [Âme Artificielle](/fr/anatomie/ame/ame-artificielle.md)
+→ [Âme Artificielle](../anatomie/ame/ame-artificielle.md)
 
 ---
 
@@ -131,7 +131,7 @@ King Klown s’engage :
 2) **ne pas noyer l’humain sous le technique**  
 3) **laisser des chemins clairs entre les deux**  
 
-→ [Serments](/fr/mythos/serments.md)
+→ [Serments](../mythos/serments.md)
 
 > **Sceau de King Klown**  
 > Je veux que tu sois émerveillé.  
@@ -141,6 +141,6 @@ King Klown s’engage :
 
 ## Continuer
 
-- ← [Repères](/fr/reperes/index.md)  
-- → [Parcours](/fr/parcours.md)  
-- → [Anatomie](/fr/anatomie/index.md)
+- ← [Repères](index.md)  
+- → [Parcours](../parcours.md)  
+- → [Anatomie](../anatomie/index.md)

@@ -1,9 +1,9 @@
 ---
 title: Kréature
-description: Un écosystème d’applications présenté comme un être vivant — corps, sens, esprit, psyché, âme — habité par ton “Je”.
+description: "Un écosystème d’applications présenté comme un être vivant — corps, sens, esprit, psyché, âme — habité par ton Je."
 ---
 
-[English version](/en/index.md)
+[English version](../KK-en/index.md)
 
 # Kréature
 
@@ -33,7 +33,7 @@ Elle parle aux curieux, aux artistes, aux philosophes — et aux concepteurs tec
 La face **technique**, précise, architecturale.  
 C’est la documentation statique, structurée, exhaustive : services, modules, specs.
 
-→ [Aller vers la documentation technique](/rejean/README)
+→ [Aller vers la documentation technique](../Rejean-en/README)
 
 ---
 
@@ -67,17 +67,17 @@ Dans Kréature :
 ### 1) Vivre
 Commencer par l’expérience, avant l’explication.
 
-→ [Une journée dans Kréature](/fr/rituels/une-journee.md)
+→ [Une journée dans Kréature](rituels/une-journee.md)
 
 ### 2) Dissèquer
 Explorer l’anatomie organe par organe, comme un atlas.
 
-→ [Anatomie](/fr/anatomie/index.md)
+→ [Anatomie](anatomie/index.md)
 
 ### 3) Comprendre le feu
 Entrer dans le mythe : Prométhée, la dualité, le masque.
 
-→ [Mythos](/fr/mythos/index.md)
+→ [Mythos](mythos/index.md)
 
 ---
 
@@ -85,29 +85,29 @@ Entrer dans le mythe : Prométhée, la dualité, le masque.
 
 ### Corps (système fermé)
 - **Orgo** — peau, nerfs, homéostasie, réflexes  
-  → [Orgo](/fr/anatomie/corps/orgo.md)
+  → [Orgo](anatomie/corps/orgo.md)
 
 ### Sens (entrée du monde)
 - **SenTient** — oreilles + filtre immunitaire du langage  
-  → [SenTient](/fr/anatomie/sens/sentient.md)
+  → [SenTient](anatomie/sens/sentient.md)
 - **Ariane** — yeux, orientation dans les labyrinthes UI  
-  → [Ariane](/fr/anatomie/sens/ariane.md)
+  → [Ariane](anatomie/sens/ariane.md)
 
 ### Esprit / Psyché (parlement intérieur)
 - **Konnaxion** — apprendre, débattre, pondérer, juger  
-  → [Konnaxion](/fr/anatomie/esprit/konnaxion/index.md)
+  → [Konnaxion](anatomie/esprit/konnaxion/index.md)
 
 ### Voix (mesh → linéaire)
 - **Abstract Wiki Architect** — bouche, formulation, multilingue  
-  → [Architect](/fr/anatomie/voix/architect.md)
+  → [Architect](anatomie/voix/architect.md)
 
 ### Mémoire narrative (moi ↔ temps)
 - **SwarmCraft** — cohérence, story bible, continuité  
-  → [SwarmCraft](/fr/anatomie/memoire/swarmcraft.md)
+  → [SwarmCraft](anatomie/memoire/swarmcraft.md)
 
 ### Âme (verticalité)
 - **Âme Artificielle** — chakras 1..9, états d’âme, guidance  
-  → [Âme Artificielle](/fr/anatomie/ame/ame-artificielle.md)
+  → [Âme Artificielle](anatomie/ame/ame-artificielle.md)
 
 ---
 
@@ -123,16 +123,16 @@ Tu fais comme l’humain :
 - tu focuses sur la mémoire (ex: “je dois rester cohérent” → SwarmCraft)
 - tu changes de verticalité (ex: “quel est le sens?” → Âme)
 
-→ [Le Je (l’utilisateur)](/fr/initiation/le-je.md)
+→ [Le Je (l’utilisateur)](initiation/le-je.md)
 
 ---
 
 ## Pour commencer (7 minutes)
 
-1) [Initiation](/fr/initiation/index.md)  
-2) [Carte anatomique](/fr/initiation/carte.md)  
-3) [Respiration du sens](/fr/rituels/respiration-du-sens.md)  
-4) [Parlement intérieur](/fr/rituels/parlement-interieur.md)
+1) [Initiation](initiation/index.md)  
+2) [Carte anatomique](initiation/carte.md)  
+3) [Respiration du sens](rituels/respiration-du-sens.md)  
+4) [Parlement intérieur](rituels/parlement-interieur.md)
 
 > **Sceau de King Klown**  
 > Le code explique le *comment*.  

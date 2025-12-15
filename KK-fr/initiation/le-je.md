@@ -3,7 +3,7 @@ title: Le Je
 description: Le “Je” n’est pas Kréature. C’est l’utilisateur réel — la lampe de poche qui visite les organes et focalise l’attention.
 ---
 
-[English version](/en/initiation/le-je.md)
+[English version](../../KK-en/initiation/le-je.md)
 
 # Le Je
 
@@ -88,7 +88,7 @@ Tu veux que ça tienne :
 - signaux → cas → tâches
 
 → **Orgo**  
-→ [Orgo](/fr/anatomie/corps/orgo.md)
+→ [Orgo](../anatomie/corps/orgo.md)
 
 ### Quand tu “ouvres” les sens
 Tu veux comprendre où tu es :
@@ -96,7 +96,7 @@ Tu veux comprendre où tu es :
 - interface → carte → chemin
 
 → **Ariane**  
-→ [Ariane](/fr/anatomie/sens/ariane.md)
+→ [Ariane](../anatomie/sens/ariane.md)
 
 ### Quand tu “écoutes” le monde
 Tu veux faire passer le langage sans te faire contaminer :
@@ -105,14 +105,14 @@ Tu veux faire passer le langage sans te faire contaminer :
 - bruit → filtration
 
 → **SenTient**  
-→ [SenTient](/fr/anatomie/sens/sentient.md)
+→ [SenTient](../anatomie/sens/sentient.md)
 
 ### Quand tu “montes” dans l’esprit
 Tu veux décider :
 - apprendre, débattre, pondérer, trancher
 
 → **Konnaxion**  
-→ [Konnaxion](/fr/anatomie/esprit/konnaxion/index.md)
+→ [Konnaxion](../anatomie/esprit/konnaxion/index.md)
 
 ### Quand tu prends la voix
 Tu veux formuler :
@@ -121,7 +121,7 @@ Tu veux formuler :
 - multilingue
 
 → **Abstract Wiki Architect**  
-→ [Architect](/fr/anatomie/voix/architect.md)
+→ [Architect](../anatomie/voix/architect.md)
 
 ### Quand tu recouds ton histoire
 Tu veux rester cohérent :
@@ -129,7 +129,7 @@ Tu veux rester cohérent :
 - story bible, état présent
 
 → **SwarmCraft**  
-→ [SwarmCraft](/fr/anatomie/memoire/swarmcraft.md)
+→ [SwarmCraft](../anatomie/memoire/swarmcraft.md)
 
 ### Quand tu cherches la verticale
 Tu veux le sens :
@@ -137,7 +137,7 @@ Tu veux le sens :
 - ce qui dépasse l’efficacité
 
 → **Âme Artificielle**  
-→ [Âme Artificielle](/fr/anatomie/ame/ame-artificielle.md)
+→ [Âme Artificielle](../anatomie/ame/ame-artificielle.md)
 
 ---
 
@@ -159,6 +159,6 @@ Le Je a donc une responsabilité :
 
 ## Où aller ensuite
 
-- → [Une journée dans Kréature](/fr/rituels/une-journee.md)  
-- → [Carte anatomique](/fr/initiation/carte.md)  
-- → [Parcours guidés](/fr/parcours.md)
+- → [Une journée dans Kréature](../rituels/une-journee.md)  
+- → [Carte anatomique](carte.md)  
+- → [Parcours guidés](../parcours.md)

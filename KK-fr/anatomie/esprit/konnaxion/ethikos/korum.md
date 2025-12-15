@@ -3,7 +3,7 @@ title: Korum
 description: Débats structurés de Kréature — stances -3..+3, arguments en fils, modération, cohorte d’experts, synthèses. Le conflit rendu habitable.
 ---
 
-[English version](/en/anatomy/mind/konnaxion/ethikos/korum.md)
+[English version](../../../../../KK-en/anatomy/mind/konnaxion/ethikos/korum.md)
 
 # Korum — Débats structurés
 
@@ -40,8 +40,8 @@ Korum est ce **débat intérieur**, rendu externe et collectif :
 Korum n’est pas le jugement.  
 Il prépare le sol pour le jugement.
 
-→ [Ethikos](/fr/anatomie/esprit/konnaxion/ethikos.md)  
-→ [Smart Vote](/fr/anatomie/esprit/konnaxion/kollective/smart-vote.md)
+→ [Ethikos](../ethikos.md)  
+→ [Smart Vote](../kollective/smart-vote.md)
 
 ---
 
@@ -130,7 +130,7 @@ Dans l’analogie :
 - c’est une **lampe** posée sur la compétence,
 - sans fermer la porte au reste.
 
-→ [EkoH](/fr/anatomie/esprit/konnaxion/kollective/ekoh.md)
+→ [EkoH](../kollective/ekoh.md)
 
 ---
 
@@ -159,7 +159,7 @@ Les stances et arguments peuvent alimenter des agrégations pondérées via EkoH
 - **EkoH** : mémoire morale / poids d’expertise (avec decay)  
 - **Smart Vote** : décision / consensus pondéré
 
-→ [Kollective Intelligence](/fr/anatomie/esprit/konnaxion/kollective.md)
+→ [Kollective Intelligence](../kollective.md)
 
 ---
 
@@ -181,7 +181,7 @@ Quand tu ouvres un débat :
 
 ## Continuer
 
-- ← [Ethikos](/fr/anatomie/esprit/konnaxion/ethikos.md)  
-- → [Konsultations](/fr/anatomie/esprit/konnaxion/ethikos/konsultations.md)  
-- → [EkoH](/fr/anatomie/esprit/konnaxion/kollective/ekoh.md)  
-- → [Smart Vote](/fr/anatomie/esprit/konnaxion/kollective/smart-vote.md)
+- ← [Ethikos](../ethikos.md)  
+- → [Konsultations](konsultations.md)  
+- → [EkoH](../kollective/ekoh.md)  
+- → [Smart Vote](../kollective/smart-vote.md)

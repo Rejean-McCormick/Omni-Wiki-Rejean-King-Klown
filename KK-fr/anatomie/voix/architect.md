@@ -3,7 +3,7 @@ title: Architect
 description: La Voix de Kréature — transformer un mesh sémantique en phrases humaines, multilingues, testables. Le larynx algorithmique.
 ---
 
-[English version](/en/anatomy/voice/architect.md)
+[English version](../../../KK-en/anatomy/voice/architect.md)
 
 # Architect — la Voix (le larynx algorithmique)
 
@@ -37,7 +37,7 @@ Architect est précisément structuré en ces couches — séparées, mais inter
 Si **SenTient** est l’oreille + filtre immunitaire du langage (entrée),  
 Architect est la **bouche + grammaire** (sortie).
 
-→ [SenTient](/fr/anatomie/sens/sentient.md)
+→ [SenTient](../sens/sentient.md)
 
 ---
 
@@ -95,10 +95,10 @@ c’est l’oreille interne de la voix — la capacité à détecter les fautes 
 
 ## Les liens internes de Kréature
 
-- **Entrée (oreilles / filtre)** : [SenTient](/fr/anatomie/sens/sentient.md)
-- **Vision / navigation** : [Ariane](/fr/anatomie/sens/ariane.md)
-- **Narratif long (histoire)** : [SwarmCraft](/fr/anatomie/narratif/swarmcraft.md)
-- **Esprit (débat/jugement/apprentissage)** : [Konnaxion](/fr/anatomie/esprit/konnaxion/index.md)
+- **Entrée (oreilles / filtre)** : [SenTient](../sens/sentient.md)
+- **Vision / navigation** : [Ariane](../sens/ariane.md)
+- **Narratif long (histoire)** : [SwarmCraft](../narratif/swarmcraft.md)
+- **Esprit (débat/jugement/apprentissage)** : [Konnaxion](../esprit/konnaxion/index.md)
 
 > **Sceau de King Klown**  
 > SenTient reçoit.  

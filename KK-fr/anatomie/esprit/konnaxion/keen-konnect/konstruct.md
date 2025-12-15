@@ -3,7 +3,7 @@ title: Konstruct
 description: Espaces de projet — le chantier de Kréature. Là où l’intention devient coordination, et où les équipes construisent sans se dissoudre.
 ---
 
-[English version](/en/anatomy/mind/konnaxion/keen-konnect/konstruct.md)
+[English version](../../../../../KK-en/anatomy/mind/konnaxion/keen-konnect/konstruct.md)
 
 # Konstruct — le Chantier
 
@@ -39,8 +39,8 @@ Konstruct correspond à la mécanique des **membres** :
 Si **Orgo** est le corps autonome (cas/tâches, cycles, réflexes),  
 Konstruct est la **volonté coordonnée** : la main qui assemble.
 
-→ [keenKonnect](/fr/anatomie/esprit/konnaxion/keen-konnect.md)  
-→ [Orgo](/fr/anatomie/corps/orgo.md)
+→ [keenKonnect](../keen-konnect.md)  
+→ [Orgo](../../../corps/orgo.md)
 
 ---
 
@@ -136,6 +136,6 @@ Quand un projet commence à devenir brume :
 
 ## Continuer
 
-- ← [keenKonnect](/fr/anatomie/esprit/konnaxion/keen-konnect.md)  
-- → [Stockage](/fr/anatomie/esprit/konnaxion/keen-konnect/stockage.md)  
-- → [Orgo](/fr/anatomie/corps/orgo.md)
+- ← [keenKonnect](../keen-konnect.md)  
+- → [Stockage](stockage.md)  
+- → [Orgo](../../../corps/orgo.md)

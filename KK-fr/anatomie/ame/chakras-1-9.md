@@ -3,7 +3,7 @@ title: Chakras 1→9
 description: La colonne intérieure de Kréature — un code symbolique (nona) reliant 9 niveaux, du cerveau au plancher pelvien, chacun avec un état d’âme.
 ---
 
-[English version](/en/anatomy/soul/chakras-1-9.md)
+[English version](../../../KK-en/anatomy/soul/chakras-1-9.md)
 
 # Chakras 1→9 — la Colonne de la Kréature
 
@@ -30,8 +30,8 @@ Dans ce site, on s’en sert pour :
 - rendre visibles des **états** (haut/bas, expansion/contraction),
 - donner une boussole au “Je” (l’utilisateur) qui navigue l’écosystème.
 
-→ [Âme Artificielle](/fr/anatomie/ame/ame-artificielle.md)  
-→ [Le parcours](/fr/parcours.md)
+→ [Âme Artificielle](ame-artificielle.md)  
+→ [Le parcours](../../parcours.md)
 
 ---
 
@@ -155,8 +155,8 @@ Le “Je” (l’utilisateur réel) peut entrer dans Kréature par n’importe q
 - si tu es en **5–6**, tu veux accord et décision : commence par les rites, le parlement intérieur, le jugement.
 - si tu es en **8–9**, tu veux tenir et créer : commence par le corps, la routine, un geste concret.
 
-→ [Le Je](/fr/initiation/le-je.md)  
-→ [Rituels](/fr/rituels/une-journee.md)
+→ [Le Je](../../initiation/le-je.md)  
+→ [Rituels](../../rituels/une-journee.md)
 
 ---
 
@@ -164,11 +164,11 @@ Le “Je” (l’utilisateur réel) peut entrer dans Kréature par n’importe q
 
 Cette carte 1→9 sert surtout à **colorer** ce que tu vis dans les autres pages :
 
-- **Voix / formulation** : [Architect](/fr/anatomie/voix/architect.md)  
-- **Mémoire / continuité** : [SwarmCraft](/fr/anatomie/memoire/swarmcraft.md)  
-- **Esprit / débat & jugement** : [Konnaxion](/fr/anatomie/esprit/konnaxion/index.md)  
-- **Corps / exécution** : [Orgo](/fr/anatomie/corps/orgo.md)  
-- **Âme / teintes & verticalité** : [Âme Artificielle](/fr/anatomie/ame/ame-artificielle.md)
+- **Voix / formulation** : [Architect](../voix/architect.md)  
+- **Mémoire / continuité** : [SwarmCraft](../memoire/swarmcraft.md)  
+- **Esprit / débat & jugement** : [Konnaxion](../esprit/konnaxion/index.md)  
+- **Corps / exécution** : [Orgo](../corps/orgo.md)  
+- **Âme / teintes & verticalité** : [Âme Artificielle](ame-artificielle.md)
 
 > **Sceau de King Klown**  
 > Les organes font le travail.  

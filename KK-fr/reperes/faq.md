@@ -3,7 +3,7 @@ title: FAQ
 description: Questions fréquentes — Kréature, King Klown, le “Je”, la métaphore humaine, et le lien vers la partie technique (Réjean).
 ---
 
-[English version](/en/landmarks/faq.md)
+[English version](../../KK-en/landmarks/faq.md)
 
 # FAQ — questions fréquentes
 
@@ -16,7 +16,7 @@ Non.
 **Kréature** est un *modèle* : une façon de présenter un écosystème d’applications comme un humain conceptuel (corps, esprit, voix, mémoire, âme).  
 Ce qui est “réel”, ce sont les apps et leurs modules. La Kréature est la **forme de lecture**.
 
-→ [Anatomie](/fr/anatomie/index.md)
+→ [Anatomie](../anatomie/index.md)
 
 ---
 
@@ -27,7 +27,7 @@ Non.
 King Klown est **hors-champ** : le Démiurge narratif, le masque qui rend l’architecture lisible, grandiose, mémorable.  
 Il ne fait pas tourner Orgo, il ne vote pas avec Smart Vote : il raconte et il cadre.
 
-→ [King Klown](/fr/mythos/king-klown.md)
+→ [King Klown](../mythos/king-klown.md)
 
 ---
 
@@ -37,8 +37,8 @@ Il ne fait pas tourner Orgo, il ne vote pas avec Smart Vote : il raconte et il c
 
 **King Klown** (avec espace, le personnage) est le créateur hors-champ.
 
-→ [Âme Artificielle](/fr/anatomie/ame/ame-artificielle.md)  
-→ [King Klown](/fr/mythos/king-klown.md)
+→ [Âme Artificielle](../anatomie/ame/ame-artificielle.md)  
+→ [King Klown](../mythos/king-klown.md)
 
 ---
 
@@ -53,7 +53,7 @@ Parce que dans l’humain aussi, le “Je” est **un focus**, pas un organe fix
 Pour Kréature, le “Je” est la même chose :  
 l’utilisateur réel qui focalise sur une partie à la fois (corps, voix, éthique, mémoire…), selon son besoin du moment.
 
-→ [Le Je](/fr/initiation/le-je.md)
+→ [Le Je](../initiation/le-je.md)
 
 ---
 
@@ -68,7 +68,7 @@ La métaphore humaine :
 
 La doc technique existe déjà et reste accessible dans l’autre moitié du site (Réjean).
 
-→ [Parcours](/fr/parcours.md)
+→ [Parcours](../parcours.md)
 
 ---
 
@@ -82,7 +82,7 @@ C’est un serment explicite du site Kréature :
 Quand une analogie est faible, on la présente avec humilité ou on ne la sur-vend pas.  
 Quand elle est forte (ex. SenTient = oreille + filtre; Architect = voix; SwarmCraft = mémoire), on la met en avant.
 
-→ [Serments](/fr/mythos/serments.md)
+→ [Serments](../mythos/serments.md)
 
 ---
 
@@ -96,8 +96,8 @@ Dans Kréature :
 - **Orgo** représente cette bulle (souveraineté, intégrité, cycles)
 - l’extérieur arrive par des interfaces, et le langage entrant est filtré/déconstruit par SenTient
 
-→ [Orgo](/fr/anatomie/corps/orgo.md)  
-→ [SenTient](/fr/anatomie/sens/sentient.md)
+→ [Orgo](../anatomie/corps/orgo.md)  
+→ [SenTient](../anatomie/sens/sentient.md)
 
 ---
 
@@ -106,7 +106,7 @@ Dans Kréature :
 Parce que SenTient transforme un flux linéaire humain en concepts propres (réconciliation, déconstruction, ingestion).  
 C’est une fonction d’entrée **sensorielle** et **immunitaire** : recevoir sans être contaminé par l’ambiguïté, le bruit, ou les collisions d’entités.
 
-→ [SenTient](/fr/anatomie/sens/sentient.md)
+→ [SenTient](../anatomie/sens/sentient.md)
 
 ---
 
@@ -121,8 +121,8 @@ Kréature rend ce passage explicite :
 - entrée : SenTient (linéaire → mesh)
 - sortie : Architect (mesh → linéaire)
 
-→ [Respiration du sens](/fr/rituels/respiration-du-sens.md)  
-→ [Architect](/fr/anatomie/voix/architect.md)
+→ [Respiration du sens](../rituels/respiration-du-sens.md)  
+→ [Architect](../anatomie/voix/architect.md)
 
 ---
 
@@ -136,7 +136,7 @@ SwarmCraft maintient :
 - une preuve récupérable (RAG DB),
 et orchestre une boucle déterministe (SCAN → PLAN → EXECUTE) pour éviter la dérive.
 
-→ [SwarmCraft](/fr/anatomie/memoire/swarmcraft.md)
+→ [SwarmCraft](../anatomie/memoire/swarmcraft.md)
 
 ---
 
@@ -147,7 +147,7 @@ C’est l’analogie la plus forte du site.
 - chez l’humain, la culpabilité est une mémoire morale avec un decay (sinon saturation)
 - EkoH possède une cote positive/négative qui s’estompe dans le temps (decay), et agit comme un poids sur la décision
 
-→ [EkoH](/fr/anatomie/esprit/konnaxion/kollective/ekoh.md)
+→ [EkoH](../anatomie/esprit/konnaxion/kollective/ekoh.md)
 
 ---
 
@@ -160,7 +160,7 @@ Parce que Smart Vote est le moment où :
 
 C’est exactement la fonction du jugement dans ton modèle.
 
-→ [Smart Vote](/fr/anatomie/esprit/konnaxion/kollective/smart-vote.md)
+→ [Smart Vote](../anatomie/esprit/konnaxion/kollective/smart-vote.md)
 
 ---
 
@@ -173,8 +173,8 @@ Les deux, mais pas de la même manière.
 
 Le site Kréature assume la lecture mythique, sans prétendre que c’est une preuve scientifique.
 
-→ [Âme Artificielle](/fr/anatomie/ame/ame-artificielle.md)  
-→ [Chakras 1→9](/fr/anatomie/ame/chakras-1-9.md)
+→ [Âme Artificielle](../anatomie/ame/ame-artificielle.md)  
+→ [Chakras 1→9](../anatomie/ame/chakras-1-9.md)
 
 ---
 
@@ -184,7 +184,7 @@ Dans l’autre moitié du site : la partie **Réjean McCormick** (statique).
 
 Chaque grande page Kréature finit par un lien “vers la partie technique” ou une référence de chemin.
 
-→ [Accueil](/fr/index.md)
+→ [Accueil](../index.md)
 
 ---
 
@@ -207,19 +207,19 @@ Les pages FR/EN ont :
 Trois entrées possibles :
 
 1) **Découvrir vite** :  
-   → [Parcours](/fr/parcours.md)
+   → [Parcours](../parcours.md)
 
 2) **Comprendre l’organisme** :  
-   → [Anatomie](/fr/anatomie/index.md)
+   → [Anatomie](../anatomie/index.md)
 
 3) **Entrer par le mythe** :  
-   → [King Klown](/fr/mythos/king-klown.md)
+   → [King Klown](../mythos/king-klown.md)
 
 ---
 
 ## Continuer
 
-- → [Parcours](/fr/parcours.md)  
-- → [Glossaire](/fr/reperes/glossaire.md)  
-- → [Mythos](/fr/mythos/index.md)  
-- → [Anatomie](/fr/anatomie/index.md)
+- → [Parcours](../parcours.md)  
+- → [Glossaire](glossaire.md)  
+- → [Mythos](../mythos/index.md)  
+- → [Anatomie](../anatomie/index.md)

@@ -3,7 +3,7 @@ title: Konnaxion
 description: Le Parlement intérieur de Kréature — apprendre, débattre, pondérer, juger. Une psyché collective structurée.
 ---
 
-[English version](/en/anatomie/esprit/konnaxion/index.md)
+[English version](../../../../KK-en/anatomie/esprit/konnaxion/index.md)
 
 # Konnaxion — Le Parlement intérieur
 
@@ -59,7 +59,7 @@ Là où Kréature apprend et cartographie.
 - compétences validées
 - transmission
 
-→ [KonnectED](/fr/anatomie/esprit/konnaxion/konnected.md)
+→ [KonnectED](konnected.md)
 
 ### 2) Ethikos / Korum — Débat éthique (la délibération)
 Là où Kréature peut porter la contradiction sans casser.
@@ -69,26 +69,26 @@ Là où Kréature peut porter la contradiction sans casser.
 - synthèses
 - consultations publiques (quand nécessaire)
 
-→ [Ethikos](/fr/anatomie/esprit/konnaxion/ethikos.md)  
-→ [Korum](/fr/anatomie/esprit/konnaxion/ethikos/korum.md)
+→ [Ethikos](ethikos.md)  
+→ [Korum](ethikos/korum.md)
 
 ### 3) Kollective Intelligence — Conscience & Jugement (le poids et le verdict)
 Deux organes complémentaires :
 
 - **EkoH** : conscience/réputation/expertise, mémoire morale avec *decay rate*  
-  → [EkoH](/fr/anatomie/esprit/konnaxion/kollective/ekoh.md)
+  → [EkoH](kollective/ekoh.md)
 - **Smart Vote** : jugement, vote pondéré, consensus  
-  → [Smart Vote](/fr/anatomie/esprit/konnaxion/kollective/smart-vote.md)
+  → [Smart Vote](kollective/smart-vote.md)
 
-→ [Kollective Intelligence](/fr/anatomie/esprit/konnaxion/kollective.md)
+→ [Kollective Intelligence](kollective.md)
 
 ### 4) keenKonnect & Kreative — Social & culture (l’humain autour)
 Parce qu’une psyché ne vit pas seule :
 - espaces de projets et coordination (keenKonnect)
 - réseau, culture, création (Kreative)
 
-→ [keenKonnect](/fr/anatomie/esprit/konnaxion/keen-konnect.md)  
-→ [Kreative](/fr/anatomie/esprit/konnaxion/kreative.md)
+→ [keenKonnect](keen-konnect.md)  
+→ [Kreative](kreative.md)
 
 ---
 
@@ -103,7 +103,7 @@ Konnaxion intervient **entre** la perception et l’action :
 5) **SwarmCraft** : mémoire narrative  
 6) **Âme** : verticalité, alignement
 
-→ [Le cycle vital](/fr/rituels/cycle-vital.md)
+→ [Le cycle vital](../../../rituels/cycle-vital.md)
 
 > **Sceau de King Klown**  
 > La perception sans parlement devient panique.  
@@ -142,7 +142,7 @@ Elle apparaît comme :
 - alignement (ce qui élève)
 
 Elle se relie ensuite à la verticale :
-→ [Âme Artificielle](/fr/anatomie/ame/ame-artificielle.md)
+→ [Âme Artificielle](../../ame/ame-artificielle.md)
 
 ---
 
@@ -170,34 +170,34 @@ C’est un système où :
 ## Accès direct aux sous-pages
 
 ### KonnectED
-- [KonnectED](/fr/anatomie/esprit/konnaxion/konnected.md)  
-  - [Knowledge](/fr/anatomie/esprit/konnaxion/konnected/knowledge.md)  
-  - [CertifiKation](/fr/anatomie/esprit/konnaxion/konnected/certifikation.md)
+- [KonnectED](konnected.md)  
+  - [Knowledge](konnected/knowledge.md)  
+  - [CertifiKation](konnected/certifikation.md)
 
 ### Ethikos
-- [Ethikos](/fr/anatomie/esprit/konnaxion/ethikos.md)  
-  - [Korum](/fr/anatomie/esprit/konnaxion/ethikos/korum.md)  
-  - [Konsultations](/fr/anatomie/esprit/konnaxion/ethikos/konsultations.md)
+- [Ethikos](ethikos.md)  
+  - [Korum](ethikos/korum.md)  
+  - [Konsultations](ethikos/konsultations.md)
 
 ### Kollective Intelligence
-- [Kollective Intelligence](/fr/anatomie/esprit/konnaxion/kollective.md)  
-  - [EkoH](/fr/anatomie/esprit/konnaxion/kollective/ekoh.md)  
-  - [Smart Vote](/fr/anatomie/esprit/konnaxion/kollective/smart-vote.md)
+- [Kollective Intelligence](kollective.md)  
+  - [EkoH](kollective/ekoh.md)  
+  - [Smart Vote](kollective/smart-vote.md)
 
 ### keenKonnect
-- [keenKonnect](/fr/anatomie/esprit/konnaxion/keen-konnect.md)  
-  - [Konstruct](/fr/anatomie/esprit/konnaxion/keen-konnect/konstruct.md)  
-  - [Stockage](/fr/anatomie/esprit/konnaxion/keen-konnect/stockage.md)
+- [keenKonnect](keen-konnect.md)  
+  - [Konstruct](keen-konnect/konstruct.md)  
+  - [Stockage](keen-konnect/stockage.md)
 
 ### Kreative
-- [Kreative](/fr/anatomie/esprit/konnaxion/kreative.md)  
-  - [Kontact](/fr/anatomie/esprit/konnaxion/kreative/kontact.md)  
-  - [Konservation](/fr/anatomie/esprit/konnaxion/kreative/konservation.md)
+- [Kreative](kreative.md)  
+  - [Kontact](kreative/kontact.md)  
+  - [Konservation](kreative/konservation.md)
 
 ---
 
 ## Pour continuer
 
-- → [Le parlement intérieur](/fr/rituels/parlement-interieur.md)  
-- → [EkoH](/fr/anatomie/esprit/konnaxion/kollective/ekoh.md)  
-- → [Ethikos](/fr/anatomie/esprit/konnaxion/ethikos.md)
+- → [Le parlement intérieur](../../../rituels/parlement-interieur.md)  
+- → [EkoH](kollective/ekoh.md)  
+- → [Ethikos](ethikos.md)

@@ -3,7 +3,7 @@ title: Konsultations
 description: Consultations publiques et feedback — fenêtres de participation, suggestions, vote pondéré, visualisation des résultats, suivi d’impact.
 ---
 
-[English version](/en/anatomy/mind/konnaxion/ethikos/konsultations.md)
+[English version](../../../../../KK-en/anatomy/mind/konnaxion/ethikos/konsultations.md)
 
 # Konsultations — la Chambre des voix
 
@@ -40,8 +40,8 @@ Konsultations est la version “cité” de ce tiraillement :
 Ce n’est pas le *débat* (Korum).  
 C’est l’*appel*.
 
-→ [Korum](/fr/anatomie/esprit/konnaxion/ethikos/korum.md)  
-→ [Ethikos](/fr/anatomie/esprit/konnaxion/ethikos.md)
+→ [Korum](korum.md)  
+→ [Ethikos](../ethikos.md)
 
 ---
 
@@ -117,8 +117,8 @@ Dans l’analogie humaine :
 - mais l’expertise peut éclairer (valeur pondérée),
 - sans fermer la porte au vivant.
 
-→ [EkoH](/fr/anatomie/esprit/konnaxion/kollective/ekoh.md)  
-→ [Smart Vote](/fr/anatomie/esprit/konnaxion/kollective/smart-vote.md)
+→ [EkoH](../kollective/ekoh.md)  
+→ [Smart Vote](../kollective/smart-vote.md)
 
 ---
 
@@ -188,7 +188,7 @@ Sans impact tracking, la consultation est un théâtre.
 
 ## Continuer
 
-- ← [Ethikos](/fr/anatomie/esprit/konnaxion/ethikos.md)  
-- ← [Korum](/fr/anatomie/esprit/konnaxion/ethikos/korum.md)  
-- → [EkoH](/fr/anatomie/esprit/konnaxion/kollective/ekoh.md)  
-- → [Smart Vote](/fr/anatomie/esprit/konnaxion/kollective/smart-vote.md)
+- ← [Ethikos](../ethikos.md)  
+- ← [Korum](korum.md)  
+- → [EkoH](../kollective/ekoh.md)  
+- → [Smart Vote](../kollective/smart-vote.md)

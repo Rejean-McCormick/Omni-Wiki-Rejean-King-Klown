@@ -3,7 +3,7 @@ title: Knowledge
 description: La Bibliothèque vivante de Kréature — cataloguer, chercher, recommander, co-créer, débattre, suivre la progression. Le mesh du savoir.
 ---
 
-[English version](/en/anatomy/mind/konnaxion/konnected/knowledge.md)
+[English version](../../../../../KK-en/anatomy/mind/konnaxion/konnected/knowledge.md)
 
 # Knowledge — la Bibliothèque vivante
 
@@ -103,15 +103,15 @@ Parce que sans cet organe :
 
 Knowledge est la “terre” du parlement intérieur.
 
-- → [KonnectED](/fr/anatomie/esprit/konnaxion/konnected.md)  
-- → [Le parlement intérieur](/fr/rituels/parlement-interieur.md)
+- → [KonnectED](../konnected.md)  
+- → [Le parlement intérieur](../../../../rituels/parlement-interieur.md)
 
 ---
 
 ## Liens utiles
 
 ### Dans la même langue (FR)
-- → [CertifiKation](/fr/anatomie/esprit/konnaxion/konnected/certifikation.md)
+- → [CertifiKation](certifikation.md)
 
 ### Vers la partie technique (Réjean)
 - ↗︎ **Détails techniques : Knowledge (KOA / Konnaxion)** : `/Konnaxion/KonnectED/Knowledge.md` :contentReference[oaicite:26]{index=26}

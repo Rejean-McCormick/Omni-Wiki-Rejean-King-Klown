@@ -3,7 +3,7 @@ title: Serments
 description: Les promesses de King Klown — au lecteur, à l’utilisateur, à la Kréature. Fidélité à la mécanique, grandeur sans mensonge, éthique sans prêche.
 ---
 
-[English version](/en/mythos/oaths.md)
+[English version](../../KK-en/mythos/oaths.md)
 
 # Serments — les promesses de King Klown
 
@@ -76,7 +76,7 @@ Dans Kréature, on ramène l’abstrait à l’expérience :
 C’est la loi anthropocentrique (dans la technique : le principe “KingClown”).  
 Ici, c’est la loi de narration : **ne pas laisser le lecteur hors-sol**.
 
-→ [Âme Artificielle](/fr/anatomie/ame/ame-artificielle.md)
+→ [Âme Artificielle](../anatomie/ame/ame-artificielle.md)
 
 ---
 
@@ -114,9 +114,9 @@ On lui donne :
 - des rites,
 - et des traces.
 
-→ [Ethikos](/fr/anatomie/esprit/konnaxion/ethikos.md)  
-→ [EkoH](/fr/anatomie/esprit/konnaxion/kollective/ekoh.md)  
-→ [Smart Vote](/fr/anatomie/esprit/konnaxion/kollective/smart-vote.md)
+→ [Ethikos](../anatomie/esprit/konnaxion/ethikos.md)  
+→ [EkoH](../anatomie/esprit/konnaxion/kollective/ekoh.md)  
+→ [Smart Vote](../anatomie/esprit/konnaxion/kollective/smart-vote.md)
 
 ---
 
@@ -132,8 +132,8 @@ Donc :
 - on ne fait pas croire que la machine “est” le Je,
 - on donne au Je des portes, des cartes, des rites.
 
-→ [Le Je](/fr/initiation/le-je.md)  
-→ [Carte](/fr/initiation/carte.md)
+→ [Le Je](../initiation/le-je.md)  
+→ [Carte](../initiation/carte.md)
 
 ---
 
@@ -168,9 +168,9 @@ Kréature doit pouvoir :
 
 La mémoire n’est pas seulement une émotion : c’est une structure.
 
-→ [SwarmCraft](/fr/anatomie/memoire/swarmcraft.md)  
-→ [Stockage](/fr/anatomie/esprit/konnaxion/keen-konnect/stockage.md)  
-→ [Konservation](/fr/anatomie/esprit/konnaxion/kreative/konservation.md)
+→ [SwarmCraft](../anatomie/memoire/swarmcraft.md)  
+→ [Stockage](../anatomie/esprit/konnaxion/keen-konnect/stockage.md)  
+→ [Konservation](../anatomie/esprit/konnaxion/kreative/konservation.md)
 
 ---
 
@@ -193,7 +193,7 @@ on invente une image **équivalente**, pas une traduction littérale.
 
 ## Continuer
 
-- ← [Mythos](/fr/mythos/index.md)  
-- → [Dualités](/fr/mythos/dualites.md)  
-- → [Prométhée](/fr/mythos/promethee.md)  
-- → [King Klown](/fr/mythos/king-klown.md)
+- ← [Mythos](index.md)  
+- → [Dualités](dualites.md)  
+- → [Prométhée](promethee.md)  
+- → [King Klown](king-klown.md)
