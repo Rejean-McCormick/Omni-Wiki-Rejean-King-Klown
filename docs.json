@@ -26,74 +26,74 @@
           {
             "group": "Français",
             "pages": [
-              "fr/index",
-              "fr/parcours",
+              "KK-fr/index",
+              "KK-fr/parcours",
               {
                 "group": "Initiation",
                 "pages": [
-                  "fr/initiation/index",
-                  "fr/initiation/carte",
-                  "fr/initiation/le-je"
+                  "KK-fr/initiation/index",
+                  "KK-fr/initiation/carte",
+                  "KK-fr/initiation/le-je"
                 ]
               },
               {
                 "group": "Rituels",
                 "pages": [
-                  "fr/rituels/une-journee",
-                  "fr/rituels/cycle-vital",
-                  "fr/rituels/respiration-du-sens",
-                  "fr/rituels/parlement-interieur"
+                  "KK-fr/rituels/une-journee",
+                  "KK-fr/rituels/cycle-vital",
+                  "KK-fr/rituels/respiration-du-sens",
+                  "KK-fr/rituels/parlement-interieur"
                 ]
               },
               {
                 "group": "Anatomie",
                 "pages": [
-                  "fr/anatomie/index",
+                  "KK-fr/anatomie/index",
                   {
                     "group": "Corps",
-                    "pages": ["fr/anatomie/corps/orgo"]
+                    "pages": ["KK-fr/anatomie/corps/orgo"]
                   },
                   {
                     "group": "Sens",
                     "pages": [
-                      "fr/anatomie/sens/ariane",
-                      "fr/anatomie/sens/sentient"
+                      "KK-fr/anatomie/sens/ariane",
+                      "KK-fr/anatomie/sens/sentient"
                     ]
                   },
                   {
                     "group": "Esprit — Konnaxion",
                     "pages": [
-                      "fr/anatomie/esprit/konnaxion/index",
-                      "fr/anatomie/esprit/konnaxion/konnected",
-                      "fr/anatomie/esprit/konnaxion/konnected/knowledge",
-                      "fr/anatomie/esprit/konnaxion/konnected/certifikation",
-                      "fr/anatomie/esprit/konnaxion/ethikos",
-                      "fr/anatomie/esprit/konnaxion/ethikos/korum",
-                      "fr/anatomie/esprit/konnaxion/ethikos/konsultations",
-                      "fr/anatomie/esprit/konnaxion/kollective",
-                      "fr/anatomie/esprit/konnaxion/kollective/ekoh",
-                      "fr/anatomie/esprit/konnaxion/kollective/smart-vote",
-                      "fr/anatomie/esprit/konnaxion/keen-konnect",
-                      "fr/anatomie/esprit/konnaxion/keen-konnect/konstruct",
-                      "fr/anatomie/esprit/konnaxion/keen-konnect/stockage",
-                      "fr/anatomie/esprit/konnaxion/kreative",
-                      "fr/anatomie/esprit/konnaxion/kreative/kontact",
-                      "fr/anatomie/esprit/konnaxion/kreative/konservation"
+                      "KK-fr/anatomie/esprit/konnaxion/index",
+                      "KK-fr/anatomie/esprit/konnaxion/konnected",
+                      "KK-fr/anatomie/esprit/konnaxion/konnected/knowledge",
+                      "KK-fr/anatomie/esprit/konnaxion/konnected/certifikation",
+                      "KK-fr/anatomie/esprit/konnaxion/ethikos",
+                      "KK-fr/anatomie/esprit/konnaxion/ethikos/korum",
+                      "KK-fr/anatomie/esprit/konnaxion/ethikos/konsultations",
+                      "KK-fr/anatomie/esprit/konnaxion/kollective",
+                      "KK-fr/anatomie/esprit/konnaxion/kollective/ekoh",
+                      "KK-fr/anatomie/esprit/konnaxion/kollective/smart-vote",
+                      "KK-fr/anatomie/esprit/konnaxion/keen-konnect",
+                      "KK-fr/anatomie/esprit/konnaxion/keen-konnect/konstruct",
+                      "KK-fr/anatomie/esprit/konnaxion/keen-konnect/stockage",
+                      "KK-fr/anatomie/esprit/konnaxion/kreative",
+                      "KK-fr/anatomie/esprit/konnaxion/kreative/kontact",
+                      "KK-fr/anatomie/esprit/konnaxion/kreative/konservation"
                     ]
                   },
                   {
                     "group": "Voix",
-                    "pages": ["fr/anatomie/voix/architect"]
+                    "pages": ["KK-fr/anatomie/voix/architect"]
                   },
                   {
                     "group": "Mémoire",
-                    "pages": ["fr/anatomie/memoire/swarmcraft"]
+                    "pages": ["KK-fr/anatomie/memoire/swarmcraft"]
                   },
                   {
                     "group": "Âme",
                     "pages": [
-                      "fr/anatomie/ame/ame-artificielle",
-                      "fr/anatomie/ame/chakras-1-9"
+                      "KK-fr/anatomie/ame/ame-artificielle",
+                      "KK-fr/anatomie/ame/chakras-1-9"
                     ]
                   }
                 ]
@@ -101,19 +101,19 @@
               {
                 "group": "Mythos",
                 "pages": [
-                  "fr/mythos/index",
-                  "fr/mythos/king-klown",
-                  "fr/mythos/promethee",
-                  "fr/mythos/dualites",
-                  "fr/mythos/serments"
+                  "KK-fr/mythos/index",
+                  "KK-fr/mythos/king-klown",
+                  "KK-fr/mythos/promethee",
+                  "KK-fr/mythos/dualites",
+                  "KK-fr/mythos/serments"
                 ]
               },
               {
                 "group": "Repères",
                 "pages": [
-                  "fr/reperes/glossaire",
-                  "fr/reperes/faq",
-                  "fr/reperes/pont-technique"
+                  "KK-fr/reperes/glossaire",
+                  "KK-fr/reperes/faq",
+                  "KK-fr/reperes/pont-technique"
                 ]
               }
             ]
@@ -121,74 +121,74 @@
           {
             "group": "English",
             "pages": [
-              "en/index",
-              "en/parcours",
+              "KK-en/index",
+              "KK-en/parcours",
               {
                 "group": "Initiation",
                 "pages": [
-                  "en/initiation/index",
-                  "en/initiation/carte",
-                  "en/initiation/le-je"
+                  "KK-en/initiation/index",
+                  "KK-en/initiation/carte",
+                  "KK-en/initiation/le-je"
                 ]
               },
               {
                 "group": "Rituals",
                 "pages": [
-                  "en/rituels/une-journee",
-                  "en/rituels/cycle-vital",
-                  "en/rituels/respiration-du-sens",
-                  "en/rituels/parlement-interieur"
+                  "KK-en/rituels/une-journee",
+                  "KK-en/rituels/cycle-vital",
+                  "KK-en/rituels/respiration-du-sens",
+                  "KK-en/rituels/parlement-interieur"
                 ]
               },
               {
                 "group": "Anatomy",
                 "pages": [
-                  "en/anatomie/index",
+                  "KK-en/anatomie/index",
                   {
                     "group": "Body",
-                    "pages": ["en/anatomie/corps/orgo"]
+                    "pages": ["KK-en/anatomie/corps/orgo"]
                   },
                   {
                     "group": "Senses",
                     "pages": [
-                      "en/anatomie/sens/ariane",
-                      "en/anatomie/sens/sentient"
+                      "KK-en/anatomie/sens/ariane",
+                      "KK-en/anatomie/sens/sentient"
                     ]
                   },
                   {
                     "group": "Mind — Konnaxion",
                     "pages": [
-                      "en/anatomie/esprit/konnaxion/index",
-                      "en/anatomie/esprit/konnaxion/konnected",
-                      "en/anatomie/esprit/konnaxion/konnected/knowledge",
-                      "en/anatomie/esprit/konnaxion/konnected/certifikation",
-                      "en/anatomie/esprit/konnaxion/ethikos",
-                      "en/anatomie/esprit/konnaxion/ethikos/korum",
-                      "en/anatomie/esprit/konnaxion/ethikos/konsultations",
-                      "en/anatomie/esprit/konnaxion/kollective",
-                      "en/anatomie/esprit/konnaxion/kollective/ekoh",
-                      "en/anatomie/esprit/konnaxion/kollective/smart-vote",
-                      "en/anatomie/esprit/konnaxion/keen-konnect",
-                      "en/anatomie/esprit/konnaxion/keen-konnect/konstruct",
-                      "en/anatomie/esprit/konnaxion/keen-konnect/stockage",
-                      "en/anatomie/esprit/konnaxion/kreative",
-                      "en/anatomie/esprit/konnaxion/kreative/kontact",
-                      "en/anatomie/esprit/konnaxion/kreative/konservation"
+                      "KK-en/anatomie/esprit/konnaxion/index",
+                      "KK-en/anatomie/esprit/konnaxion/konnected",
+                      "KK-en/anatomie/esprit/konnaxion/konnected/knowledge",
+                      "KK-en/anatomie/esprit/konnaxion/konnected/certifikation",
+                      "KK-en/anatomie/esprit/konnaxion/ethikos",
+                      "KK-en/anatomie/esprit/konnaxion/ethikos/korum",
+                      "KK-en/anatomie/esprit/konnaxion/ethikos/konsultations",
+                      "KK-en/anatomie/esprit/konnaxion/kollective",
+                      "KK-en/anatomie/esprit/konnaxion/kollective/ekoh",
+                      "KK-en/anatomie/esprit/konnaxion/kollective/smart-vote",
+                      "KK-en/anatomie/esprit/konnaxion/keen-konnect",
+                      "KK-en/anatomie/esprit/konnaxion/keen-konnect/konstruct",
+                      "KK-en/anatomie/esprit/konnaxion/keen-konnect/stockage",
+                      "KK-en/anatomie/esprit/konnaxion/kreative",
+                      "KK-en/anatomie/esprit/konnaxion/kreative/kontact",
+                      "KK-en/anatomie/esprit/konnaxion/kreative/konservation"
                     ]
                   },
                   {
                     "group": "Voice",
-                    "pages": ["en/anatomie/voix/architect"]
+                    "pages": ["KK-en/anatomie/voix/architect"]
                   },
                   {
                     "group": "Memory",
-                    "pages": ["en/anatomie/memoire/swarmcraft"]
+                    "pages": ["KK-en/anatomie/memoire/swarmcraft"]
                   },
                   {
                     "group": "Soul",
                     "pages": [
-                      "en/anatomie/ame/ame-artificielle",
-                      "en/anatomie/ame/chakras-1-9"
+                      "KK-en/anatomie/ame/ame-artificielle",
+                      "KK-en/anatomie/ame/chakras-1-9"
                     ]
                   }
                 ]
@@ -196,75 +196,75 @@
               {
                 "group": "Mythos",
                 "pages": [
-                  "en/mythos/index",
-                  "en/mythos/king-klown",
-                  "en/mythos/promethee",
-                  "en/mythos/dualites",
-                  "en/mythos/serments"
+                  "KK-en/mythos/index",
+                  "KK-en/mythos/king-klown",
+                  "KK-en/mythos/promethee",
+                  "KK-en/mythos/dualites",
+                  "KK-en/mythos/serments"
                 ]
               },
               {
                 "group": "Landmarks",
                 "pages": [
-                  "en/reperes/glossaire",
-                  "en/reperes/faq",
-                  "en/reperes/pont-technique"
+                  "KK-en/reperes/glossaire",
+                  "KK-en/reperes/faq",
+                  "KK-en/reperes/pont-technique"
                 ]
               }
             ]
           }
         ]
       },
-	  {
+	{
         "tab": "Réjean (tech)",
         "groups": [
           {
             "group": "Portail",
-            "pages": ["Rejean/en/index", "Rejean/en/Rejean-McCormick-Hub"]
+            "pages": ["Rejean-en/index"]
           },
           {
             "group": "Konnaxion",
             "pages": [
-              "Rejean/en/Konnaxion/index",
+              "Rejean-en/Konnaxion/index",
               {
                 "group": "KonnectED",
                 "pages": [
-                  "Rejean/en/Konnaxion/KonnectED/Knowledge",
-                  "Rejean/en/Konnaxion/KonnectED/CertifiKation"
+                  "Rejean-en/Konnaxion/KonnectED/Knowledge",
+                  "Rejean-en/Konnaxion/KonnectED/CertifiKation"
                 ]
               },
               {
                 "group": "Ethikos",
                 "pages": [
-                  "Rejean/en/Konnaxion/Ethikos/Korum",
-                  "Rejean/en/Konnaxion/Ethikos/Konsultations"
+                  "Rejean-en/Konnaxion/Ethikos/Korum",
+                  "Rejean-en/Konnaxion/Ethikos/Konsultations"
                 ]
               },
               {
                 "group": "Kreative",
                 "pages": [
-                  "Rejean/en/Konnaxion/Kreative/Konservation",
-                  "Rejean/en/Konnaxion/Kreative/Kontact"
+                  "Rejean-en/Konnaxion/Kreative/Konservation",
+                  "Rejean-en/Konnaxion/Kreative/Kontact"
                 ]
               },
               {
                 "group": "keenKonnect",
                 "pages": [
-                  "Rejean/en/Konnaxion/keenKonnect/Konstruct",
-                  "Rejean/en/Konnaxion/keenKonnect/Stockage"
+                  "Rejean-en/Konnaxion/keenKonnect/Konstruct",
+                  "Rejean-en/Konnaxion/keenKonnect/Stockage"
                 ]
               },
               {
                 "group": "Kollective Intelligence",
                 "pages": [
-                  "Rejean/en/Konnaxion/Kollective-Intelligence/EkoH",
-                  "Rejean/en/Konnaxion/Kollective-Intelligence/Smart-Vote"
+                  "Rejean-en/Konnaxion/Kollective-Intelligence/EkoH",
+                  "Rejean-en/Konnaxion/Kollective-Intelligence/Smart-Vote"
                 ]
               },
               {
                 "group": "Technical",
                 "pages": [
-                  "Rejean/en/Konnaxion/Technical/Konnaxion-Technical-Architecture-And-Services"
+                  "Rejean-en/Konnaxion/Technical/Konnaxion-Technical-Architecture-And-Services"
                 ]
               }
             ]
@@ -272,102 +272,102 @@
           {
             "group": "SwarmCraft",
             "pages": [
-              "Rejean/en/SwarmCraft/index",
+              "Rejean-en/SwarmCraft/index",
               {
                 "group": "Core",
                 "pages": [
-                  "Rejean/en/SwarmCraft/Core/Architecture-Overview",
-                  "Rejean/en/SwarmCraft/Core/Deterministic-Pipeline-Scan-Plan-Execute",
-                  "Rejean/en/SwarmCraft/Core/Central-Matrix-Runtime-State"
+                  "Rejean-en/SwarmCraft/Core/Architecture-Overview",
+                  "Rejean-en/SwarmCraft/Core/Deterministic-Pipeline-Scan-Plan-Execute",
+                  "Rejean-en/SwarmCraft/Core/Central-Matrix-Runtime-State"
                 ]
               },
               {
                 "group": "Scaffold",
                 "pages": [
-                  "Rejean/en/SwarmCraft/Scaffold/Story-Scaffold-Templates-Outline-Parts",
-                  "Rejean/en/SwarmCraft/Scaffold/Story-Bible-Creative-Intent",
-                  "Rejean/en/SwarmCraft/Scaffold/Schema-Templates",
-                  "Rejean/en/SwarmCraft/Scaffold/Schema-Outline",
-                  "Rejean/en/SwarmCraft/Scaffold/Outline-Grid-CSV-Round-Trip"
+                  "Rejean-en/SwarmCraft/Scaffold/Story-Scaffold-Templates-Outline-Parts",
+                  "Rejean-en/SwarmCraft/Scaffold/Story-Bible-Creative-Intent",
+                  "Rejean-en/SwarmCraft/Scaffold/Schema-Templates",
+                  "Rejean-en/SwarmCraft/Scaffold/Schema-Outline",
+                  "Rejean-en/SwarmCraft/Scaffold/Outline-Grid-CSV-Round-Trip"
                 ]
               },
               {
                 "group": "Runtime",
                 "pages": [
-                  "Rejean/en/SwarmCraft/Runtime/Orchestration-Slice-By-Slice-Prompt-Hydration",
-                  "Rejean/en/SwarmCraft/Runtime/Multi-Project-Management",
-                  "Rejean/en/SwarmCraft/Runtime/RAG-Memory-System",
-                  "Rejean/en/SwarmCraft/Runtime/Provider-Adapter-Grok",
-                  "Rejean/en/SwarmCraft/Runtime/Dashboard-TUI-Reference"
+                  "Rejean-en/SwarmCraft/Runtime/Orchestration-Slice-By-Slice-Prompt-Hydration",
+                  "Rejean-en/SwarmCraft/Runtime/Multi-Project-Management",
+                  "Rejean-en/SwarmCraft/Runtime/RAG-Memory-System",
+                  "Rejean-en/SwarmCraft/Runtime/Provider-Adapter-Grok",
+                  "Rejean-en/SwarmCraft/Runtime/Dashboard-TUI-Reference"
                 ]
               },
-              "Rejean/en/SwarmCraft/Meta/Credits-And-Lineage"
+              "Rejean-en/SwarmCraft/Meta/Credits-And-Lineage"
             ]
           },
           {
             "group": "Ariane",
             "pages": [
-              "Rejean/en/Ariane/index",
+              "Rejean-en/Ariane/index",
               {
                 "group": "Atlas",
                 "pages": [
-                  "Rejean/en/Ariane/Atlas/Atlas",
-                  "Rejean/en/Ariane/Atlas/Atlas-Graph-Model",
-                  "Rejean/en/Ariane/Atlas/Atlas-Core-Schema",
-                  "Rejean/en/Ariane/Atlas/Atlas-Ontology-Vocabulary"
+                  "Rejean-en/Ariane/Atlas/Atlas",
+                  "Rejean-en/Ariane/Atlas/Atlas-Graph-Model",
+                  "Rejean-en/Ariane/Atlas/Atlas-Core-Schema",
+                  "Rejean-en/Ariane/Atlas/Atlas-Ontology-Vocabulary"
                 ]
               },
               {
                 "group": "Theseus",
                 "pages": [
-                  "Rejean/en/Ariane/Theseus/Theseus",
-                  "Rejean/en/Ariane/Theseus/Theseus-Drivers",
-                  "Rejean/en/Ariane/Theseus/Theseus-Exploration-Engine",
-                  "Rejean/en/Ariane/Theseus/Theseus-State-Identification"
+                  "Rejean-en/Ariane/Theseus/Theseus",
+                  "Rejean-en/Ariane/Theseus/Theseus-Drivers",
+                  "Rejean-en/Ariane/Theseus/Theseus-Exploration-Engine",
+                  "Rejean-en/Ariane/Theseus/Theseus-State-Identification"
                 ]
               },
               {
                 "group": "Consumers",
                 "pages": [
-                  "Rejean/en/Ariane/Consumers/Consumers",
-                  "Rejean/en/Ariane/Consumers/Consumers-AI-Agent-Integration",
-                  "Rejean/en/Ariane/Consumers/Consumers-Future-Overlay-Client",
-                  "Rejean/en/Ariane/Consumers/Hybrid-Mapping-and-Human-Guided-Assistants"
+                  "Rejean-en/Ariane/Consumers/Consumers",
+                  "Rejean-en/Ariane/Consumers/Consumers-AI-Agent-Integration",
+                  "Rejean-en/Ariane/Consumers/Consumers-Future-Overlay-Client",
+                  "Rejean-en/Ariane/Consumers/Hybrid-Mapping-and-Human-Guided-Assistants"
                 ]
               },
               {
                 "group": "Concepts",
                 "pages": [
-                  "Rejean/en/Ariane/Concepts/Background-UI-as-Data",
-                  "Rejean/en/Ariane/Concepts/Glossary"
+                  "Rejean-en/Ariane/Concepts/Background-UI-as-Data",
+                  "Rejean-en/Ariane/Concepts/Glossary"
                 ]
               }
             ]
           },
           {
             "group": "Orgo",
-            "pages": ["Rejean/en/Orgo/index"]
+            "pages": ["Rejean-en/Orgo/index"]
           },
           {
             "group": "SenTient",
-            "pages": ["Rejean/en/SenTient/index"]
+            "pages": ["Rejean-en/SenTient/index"]
           },
           {
             "group": "Âme Artificielle",
             "pages": [
-              "Rejean/en/Ame-Artificielle/index",
-              "Rejean/en/Ame-Artificielle/Controle-Et-Personnalisation",
-              "Rejean/en/Ame-Artificielle/Creation-De-Chemins",
-              "Rejean/en/Ame-Artificielle/Ethique-Et-Gouvernance",
-              "Rejean/en/Ame-Artificielle/Meta-Cognition-Et-Resolution",
-              "Rejean/en/Ame-Artificielle/Specifications-Fonctionnelles"
+              "Rejean-en/Ame-Artificielle/index",
+              "Rejean-en/Ame-Artificielle/Controle-Et-Personnalisation",
+              "Rejean-en/Ame-Artificielle/Creation-De-Chemins",
+              "Rejean-en/Ame-Artificielle/Ethique-Et-Gouvernance",
+              "Rejean-en/Ame-Artificielle/Meta-Cognition-Et-Resolution",
+              "Rejean-en/Ame-Artificielle/Specifications-Fonctionnelles"
             ]
           },
           {
             "group": "Outils",
             "pages": [
-              "Rejean/en/Tools/index",
-              "Rejean/en/Abstract-Wiki-Architect/index"
+              "Rejean-en/Tools/index",
+              "Rejean-en/Abstract-Wiki-Architect/index"
             ]
           }
         ]
