@@ -1,7 +1,7 @@
 {
   "$schema": "https://mintlify.com/docs.json",
   "name": "Omni-Wiki — Réjean × King Klown",
-  "theme": "venus",
+  "theme": "quill", 
   "logo": {
     "light": "/LogoK.svg",
     "dark": "/LogoK.svg"
@@ -22,9 +22,9 @@
     { "source": "/fr", "destination": "/King-Klown/fr/index" },
     { "source": "/en", "destination": "/King-Klown/en/index" }
   ],
-  "navigation": [
+  "tabs": [
     {
-      "tab": "Kréature",
+      "name": "Kréature",
       "icon": "sparkles",
       "groups": [
         {
@@ -220,7 +220,7 @@
       ]
     },
     {
-      "tab": "Réjean (tech)",
+      "name": "Réjean (tech)",
       "icon": "square-terminal",
       "groups": [
         {
