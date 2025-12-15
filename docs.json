@@ -215,17 +215,17 @@
           }
         ]
       },
-      {
+	  {
         "tab": "Réjean (tech)",
         "groups": [
           {
             "group": "Portail",
-            "pages": ["index", "Rejean/en/Rejean-McCormick-Hub"]
+            "pages": ["Rejean/en/index", "Rejean/en/Rejean-McCormick-Hub"]
           },
           {
             "group": "Konnaxion",
             "pages": [
-              "Rejean/en/Konnaxion/Konnaxion-Hub",
+              "Rejean/en/Konnaxion/index",
               {
                 "group": "KonnectED",
                 "pages": [
@@ -272,7 +272,7 @@
           {
             "group": "SwarmCraft",
             "pages": [
-              "Rejean/en/SwarmCraft/SwarmCraft-Hub",
+              "Rejean/en/SwarmCraft/index",
               {
                 "group": "Core",
                 "pages": [
@@ -307,7 +307,7 @@
           {
             "group": "Ariane",
             "pages": [
-              "Rejean/en/Ariane/Ariane-Hub",
+              "Rejean/en/Ariane/index",
               {
                 "group": "Atlas",
                 "pages": [
@@ -346,16 +346,16 @@
           },
           {
             "group": "Orgo",
-            "pages": ["Rejean/en/Orgo/Orgo-System-Hub"]
+            "pages": ["Rejean/en/Orgo/index"]
           },
           {
             "group": "SenTient",
-            "pages": ["Rejean/en/SenTient/SenTient-Engine-Hub"]
+            "pages": ["Rejean/en/SenTient/index"]
           },
           {
             "group": "Âme Artificielle",
             "pages": [
-              "Rejean/en/Ame-Artificielle/Ame-Vision-Hub",
+              "Rejean/en/Ame-Artificielle/index",
               "Rejean/en/Ame-Artificielle/Controle-Et-Personnalisation",
               "Rejean/en/Ame-Artificielle/Creation-De-Chemins",
               "Rejean/en/Ame-Artificielle/Ethique-Et-Gouvernance",
@@ -366,8 +366,8 @@
           {
             "group": "Outils",
             "pages": [
-              "Rejean/en/tools/Dev-Workflow-Hub",
-              "Rejean/en/abstract-wiki-architect/Wiki-Architect-Hub"
+              "Rejean/en/Tools/index",
+              "Rejean/en/Abstract-Wiki-Architect/index"
             ]
           }
         ]
