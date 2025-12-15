@@ -1,0 +1,204 @@
+{
+  "$schema": "https://mintlify.com/docs.json",
+  "name": "Omni-Wiki — Réjean × King Klown",
+  "theme": "mint",
+  "logo": "/Rejean/en/LogoK.svg",
+  "colors": {
+    "primary": "#12B5B0"
+  },
+  "styling": {
+    "eyebrows": "breadcrumbs"
+  },
+  "navigation": {
+    "languages": [
+      {
+        "language": "fr",
+        "tabs": [
+          {
+            "tab": "Kréature",
+            "icon": "sparkles",
+            "groups": [
+              {
+                "group": "Entrée",
+                "pages": ["fr/index", "fr/parcours"]
+              },
+              {
+                "group": "Initiation",
+                "pages": ["fr/initiation/index", "fr/initiation/carte", "fr/initiation/le-je"]
+              },
+              {
+                "group": "Rituels",
+                "pages": [
+                  "fr/rituels/une-journee",
+                  "fr/rituels/cycle-vital",
+                  "fr/rituels/respiration-du-sens",
+                  "fr/rituels/parlement-interieur"
+                ]
+              },
+              {
+                "group": "Anatomie",
+                "pages": [
+                  "fr/anatomie/index",
+                  {
+                    "group": "Corps",
+                    "pages": ["fr/anatomie/corps/orgo"]
+                  },
+                  {
+                    "group": "Sens",
+                    "pages": ["fr/anatomie/sens/ariane", "fr/anatomie/sens/sentient"]
+                  },
+                  {
+                    "group": "Esprit",
+                    "pages": [
+                      "fr/anatomie/esprit/konnaxion/index",
+                      "fr/anatomie/esprit/konnaxion/konnected",
+                      "fr/anatomie/esprit/konnaxion/konnected/knowledge",
+                      "fr/anatomie/esprit/konnaxion/konnected/certifikation",
+                      "fr/anatomie/esprit/konnaxion/ethikos",
+                      "fr/anatomie/esprit/konnaxion/ethikos/korum",
+                      "fr/anatomie/esprit/konnaxion/ethikos/konsultations",
+                      "fr/anatomie/esprit/konnaxion/kollective",
+                      "fr/anatomie/esprit/konnaxion/kollective/ekoh",
+                      "fr/anatomie/esprit/konnaxion/kollective/smart-vote",
+                      "fr/anatomie/esprit/konnaxion/keen-konnect",
+                      "fr/anatomie/esprit/konnaxion/keen-konnect/konstruct",
+                      "fr/anatomie/esprit/konnaxion/keen-konnect/stockage",
+                      "fr/anatomie/esprit/konnaxion/kreative",
+                      "fr/anatomie/esprit/konnaxion/kreative/kontact",
+                      "fr/anatomie/esprit/konnaxion/kreative/konservation"
+                    ]
+                  },
+                  {
+                    "group": "Voix",
+                    "pages": ["fr/anatomie/voix/architect"]
+                  },
+                  {
+                    "group": "Mémoire",
+                    "pages": ["fr/anatomie/memoire/swarmcraft"]
+                  },
+                  {
+                    "group": "Âme",
+                    "pages": ["fr/anatomie/ame/ame-artificielle", "fr/anatomie/ame/chakras-1-9"]
+                  }
+                ]
+              },
+              {
+                "group": "Mythos",
+                "pages": [
+                  "fr/mythos/index",
+                  "fr/mythos/king-klown",
+                  "fr/mythos/promethee",
+                  "fr/mythos/dualites",
+                  "fr/mythos/serments"
+                ]
+              },
+              {
+                "group": "Repères",
+                "pages": ["fr/reperes/glossaire", "fr/reperes/faq", "fr/reperes/pont-technique"]
+              }
+            ]
+          },
+          {
+            "tab": "Réjean (tech)",
+            "icon": "square-terminal",
+            "pages": ["Rejean/en/index"]
+          }
+        ]
+      },
+      {
+        "language": "en",
+        "tabs": [
+          {
+            "tab": "Kréature",
+            "icon": "sparkles",
+            "groups": [
+              {
+                "group": "Entry",
+                "pages": ["en/index", "en/parcours"]
+              },
+              {
+                "group": "Initiation",
+                "pages": ["en/initiation/index", "en/initiation/carte", "en/initiation/le-je"]
+              },
+              {
+                "group": "Rituals",
+                "pages": [
+                  "en/rituels/une-journee",
+                  "en/rituels/cycle-vital",
+                  "en/rituels/respiration-du-sens",
+                  "en/rituels/parlement-interieur"
+                ]
+              },
+              {
+                "group": "Anatomy",
+                "pages": [
+                  "en/anatomie/index",
+                  {
+                    "group": "Body",
+                    "pages": ["en/anatomie/corps/orgo"]
+                  },
+                  {
+                    "group": "Senses",
+                    "pages": ["en/anatomie/sens/ariane", "en/anatomie/sens/sentient"]
+                  },
+                  {
+                    "group": "Mind",
+                    "pages": [
+                      "en/anatomie/esprit/konnaxion/index",
+                      "en/anatomie/esprit/konnaxion/konnected",
+                      "en/anatomie/esprit/konnaxion/konnected/knowledge",
+                      "en/anatomie/esprit/konnaxion/konnected/certifikation",
+                      "en/anatomie/esprit/konnaxion/ethikos",
+                      "en/anatomie/esprit/konnaxion/ethikos/korum",
+                      "en/anatomie/esprit/konnaxion/ethikos/konsultations",
+                      "en/anatomie/esprit/konnaxion/kollective",
+                      "en/anatomie/esprit/konnaxion/kollective/ekoh",
+                      "en/anatomie/esprit/konnaxion/kollective/smart-vote",
+                      "en/anatomie/esprit/konnaxion/keen-konnect",
+                      "en/anatomie/esprit/konnaxion/keen-konnect/konstruct",
+                      "en/anatomie/esprit/konnaxion/keen-konnect/stockage",
+                      "en/anatomie/esprit/konnaxion/kreative",
+                      "en/anatomie/esprit/konnaxion/kreative/kontact",
+                      "en/anatomie/esprit/konnaxion/kreative/konservation"
+                    ]
+                  },
+                  {
+                    "group": "Voice",
+                    "pages": ["en/anatomie/voix/architect"]
+                  },
+                  {
+                    "group": "Memory",
+                    "pages": ["en/anatomie/memoire/swarmcraft"]
+                  },
+                  {
+                    "group": "Soul",
+                    "pages": ["en/anatomie/ame/ame-artificielle", "en/anatomie/ame/chakras-1-9"]
+                  }
+                ]
+              },
+              {
+                "group": "Mythos",
+                "pages": [
+                  "en/mythos/index",
+                  "en/mythos/king-klown",
+                  "en/mythos/promethee",
+                  "en/mythos/dualites",
+                  "en/mythos/serments"
+                ]
+              },
+              {
+                "group": "Landmarks",
+                "pages": ["en/reperes/glossaire", "en/reperes/faq", "en/reperes/pont-technique"]
+              }
+            ]
+          },
+          {
+            "tab": "Réjean (tech)",
+            "icon": "square-terminal",
+            "pages": ["Rejean/en/index"]
+          }
+        ]
+      }
+    ]
+  }
+}
