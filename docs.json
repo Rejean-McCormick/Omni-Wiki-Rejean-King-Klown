@@ -1,7 +1,7 @@
 {
   "$schema": "https://mintlify.com/docs.json",
   "name": "Omni-Wiki — Réjean × King Klown",
-  "theme": "venus",
+  "theme": "mint",
   "logo": {
     "light": "/LogoK.svg",
     "dark": "/LogoK.svg"
@@ -19,14 +19,14 @@
     }
   ],
   "redirects": [
-    { "source": "/fr", "destination": "/fr/index" },
-    { "source": "/en", "destination": "/en/index" }
+    { "source": "/fr", "destination": "/King-Klown/fr/index" },
+    { "source": "/en", "destination": "/King-Klown/en/index" }
   ],
   "anchors": [
     {
       "name": "Kréature",
       "icon": "sparkles",
-      "url": "fr/index"
+      "url": "King-Klown/fr/index"
     },
     {
       "name": "Réjean (tech)",
@@ -38,80 +38,74 @@
     {
       "group": "Français",
       "pages": [
-        "fr/index",
-        "fr/parcours",
+        "King-Klown/fr/index",
+        "King-Klown/fr/parcours",
         {
           "group": "Initiation",
           "pages": [
-            "fr/initiation/index",
-            "fr/initiation/carte",
-            "fr/initiation/le-je"
+            "King-Klown/fr/initiation/index",
+            "King-Klown/fr/initiation/carte",
+            "King-Klown/fr/initiation/le-je"
           ]
         },
         {
           "group": "Rituels",
           "pages": [
-            "fr/rituels/une-journee",
-            "fr/rituels/cycle-vital",
-            "fr/rituels/respiration-du-sens",
-            "fr/rituels/parlement-interieur"
+            "King-Klown/fr/rituels/une-journee",
+            "King-Klown/fr/rituels/cycle-vital",
+            "King-Klown/fr/rituels/respiration-du-sens",
+            "King-Klown/fr/rituels/parlement-interieur"
           ]
         },
         {
           "group": "Anatomie",
           "pages": [
-            "fr/anatomie/index",
+            "King-Klown/fr/anatomie/index",
             {
               "group": "Corps",
-              "pages": [
-                "fr/anatomie/corps/orgo"
-              ]
+              "pages": ["King-Klown/fr/anatomie/corps/orgo"]
             },
             {
               "group": "Sens",
               "pages": [
-                "fr/anatomie/sens/ariane",
-                "fr/anatomie/sens/sentient"
+                "King-Klown/fr/anatomie/sens/ariane",
+                "King-Klown/fr/anatomie/sens/sentient"
               ]
             },
             {
               "group": "Esprit — Konnaxion",
               "pages": [
-                "fr/anatomie/esprit/konnaxion/index",
-                "fr/anatomie/esprit/konnaxion/konnected",
-                "fr/anatomie/esprit/konnaxion/konnected/knowledge",
-                "fr/anatomie/esprit/konnaxion/konnected/certifikation",
-                "fr/anatomie/esprit/konnaxion/ethikos",
-                "fr/anatomie/esprit/konnaxion/ethikos/korum",
-                "fr/anatomie/esprit/konnaxion/ethikos/konsultations",
-                "fr/anatomie/esprit/konnaxion/kollective",
-                "fr/anatomie/esprit/konnaxion/kollective/ekoh",
-                "fr/anatomie/esprit/konnaxion/kollective/smart-vote",
-                "fr/anatomie/esprit/konnaxion/keen-konnect",
-                "fr/anatomie/esprit/konnaxion/keen-konnect/konstruct",
-                "fr/anatomie/esprit/konnaxion/keen-konnect/stockage",
-                "fr/anatomie/esprit/konnaxion/kreative",
-                "fr/anatomie/esprit/konnaxion/kreative/kontact",
-                "fr/anatomie/esprit/konnaxion/kreative/konservation"
+                "King-Klown/fr/anatomie/esprit/konnaxion/index",
+                "King-Klown/fr/anatomie/esprit/konnaxion/konnected",
+                "King-Klown/fr/anatomie/esprit/konnaxion/konnected/knowledge",
+                "King-Klown/fr/anatomie/esprit/konnaxion/konnected/certifikation",
+                "King-Klown/fr/anatomie/esprit/konnaxion/ethikos",
+                "King-Klown/fr/anatomie/esprit/konnaxion/ethikos/korum",
+                "King-Klown/fr/anatomie/esprit/konnaxion/ethikos/konsultations",
+                "King-Klown/fr/anatomie/esprit/konnaxion/kollective",
+                "King-Klown/fr/anatomie/esprit/konnaxion/kollective/ekoh",
+                "King-Klown/fr/anatomie/esprit/konnaxion/kollective/smart-vote",
+                "King-Klown/fr/anatomie/esprit/konnaxion/keen-konnect",
+                "King-Klown/fr/anatomie/esprit/konnaxion/keen-konnect/konstruct",
+                "King-Klown/fr/anatomie/esprit/konnaxion/keen-konnect/stockage",
+                "King-Klown/fr/anatomie/esprit/konnaxion/kreative",
+                "King-Klown/fr/anatomie/esprit/konnaxion/kreative/kontact",
+                "King-Klown/fr/anatomie/esprit/konnaxion/kreative/konservation"
               ]
             },
             {
               "group": "Voix",
-              "pages": [
-                "fr/anatomie/voix/architect"
-              ]
+              "pages": ["King-Klown/fr/anatomie/voix/architect"]
             },
             {
               "group": "Mémoire",
-              "pages": [
-                "fr/anatomie/memoire/swarmcraft"
-              ]
+              "pages": ["King-Klown/fr/anatomie/memoire/swarmcraft"]
             },
             {
               "group": "Âme",
               "pages": [
-                "fr/anatomie/ame/ame-artificielle",
-                "fr/anatomie/ame/chakras-1-9"
+                "King-Klown/fr/anatomie/ame/ame-artificielle",
+                "King-Klown/fr/anatomie/ame/chakras-1-9"
               ]
             }
           ]
@@ -119,19 +113,19 @@
         {
           "group": "Mythos",
           "pages": [
-            "fr/mythos/index",
-            "fr/mythos/king-klown",
-            "fr/mythos/promethee",
-            "fr/mythos/dualites",
-            "fr/mythos/serments"
+            "King-Klown/fr/mythos/index",
+            "King-Klown/fr/mythos/king-klown",
+            "King-Klown/fr/mythos/promethee",
+            "King-Klown/fr/mythos/dualites",
+            "King-Klown/fr/mythos/serments"
           ]
         },
         {
           "group": "Repères",
           "pages": [
-            "fr/reperes/glossaire",
-            "fr/reperes/faq",
-            "fr/reperes/pont-technique"
+            "King-Klown/fr/reperes/glossaire",
+            "King-Klown/fr/reperes/faq",
+            "King-Klown/fr/reperes/pont-technique"
           ]
         }
       ]
@@ -139,80 +133,74 @@
     {
       "group": "English",
       "pages": [
-        "en/index",
-        "en/parcours",
+        "King-Klown/en/index",
+        "King-Klown/en/parcours",
         {
           "group": "Initiation",
           "pages": [
-            "en/initiation/index",
-            "en/initiation/carte",
-            "en/initiation/le-je"
+            "King-Klown/en/initiation/index",
+            "King-Klown/en/initiation/carte",
+            "King-Klown/en/initiation/le-je"
           ]
         },
         {
           "group": "Rituals",
           "pages": [
-            "en/rituels/une-journee",
-            "en/rituels/cycle-vital",
-            "en/rituels/respiration-du-sens",
-            "en/rituels/parlement-interieur"
+            "King-Klown/en/rituels/une-journee",
+            "King-Klown/en/rituels/cycle-vital",
+            "King-Klown/en/rituels/respiration-du-sens",
+            "King-Klown/en/rituels/parlement-interieur"
           ]
         },
         {
           "group": "Anatomy",
           "pages": [
-            "en/anatomie/index",
+            "King-Klown/en/anatomie/index",
             {
               "group": "Body",
-              "pages": [
-                "en/anatomie/corps/orgo"
-              ]
+              "pages": ["King-Klown/en/anatomie/corps/orgo"]
             },
             {
               "group": "Senses",
               "pages": [
-                "en/anatomie/sens/ariane",
-                "en/anatomie/sens/sentient"
+                "King-Klown/en/anatomie/sens/ariane",
+                "King-Klown/en/anatomie/sens/sentient"
               ]
             },
             {
               "group": "Mind — Konnaxion",
               "pages": [
-                "en/anatomie/esprit/konnaxion/index",
-                "en/anatomie/esprit/konnaxion/konnected",
-                "en/anatomie/esprit/konnaxion/konnected/knowledge",
-                "en/anatomie/esprit/konnaxion/konnected/certifikation",
-                "en/anatomie/esprit/konnaxion/ethikos",
-                "en/anatomie/esprit/konnaxion/ethikos/korum",
-                "en/anatomie/esprit/konnaxion/ethikos/konsultations",
-                "en/anatomie/esprit/konnaxion/kollective",
-                "en/anatomie/esprit/konnaxion/kollective/ekoh",
-                "en/anatomie/esprit/konnaxion/kollective/smart-vote",
-                "en/anatomie/esprit/konnaxion/keen-konnect",
-                "en/anatomie/esprit/konnaxion/keen-konnect/konstruct",
-                "en/anatomie/esprit/konnaxion/keen-konnect/stockage",
-                "en/anatomie/esprit/konnaxion/kreative",
-                "en/anatomie/esprit/konnaxion/kreative/kontact",
-                "en/anatomie/esprit/konnaxion/kreative/konservation"
+                "King-Klown/en/anatomie/esprit/konnaxion/index",
+                "King-Klown/en/anatomie/esprit/konnaxion/konnected",
+                "King-Klown/en/anatomie/esprit/konnaxion/konnected/knowledge",
+                "King-Klown/en/anatomie/esprit/konnaxion/konnected/certifikation",
+                "King-Klown/en/anatomie/esprit/konnaxion/ethikos",
+                "King-Klown/en/anatomie/esprit/konnaxion/ethikos/korum",
+                "King-Klown/en/anatomie/esprit/konnaxion/ethikos/konsultations",
+                "King-Klown/en/anatomie/esprit/konnaxion/kollective",
+                "King-Klown/en/anatomie/esprit/konnaxion/kollective/ekoh",
+                "King-Klown/en/anatomie/esprit/konnaxion/kollective/smart-vote",
+                "King-Klown/en/anatomie/esprit/konnaxion/keen-konnect",
+                "King-Klown/en/anatomie/esprit/konnaxion/keen-konnect/konstruct",
+                "King-Klown/en/anatomie/esprit/konnaxion/keen-konnect/stockage",
+                "King-Klown/en/anatomie/esprit/konnaxion/kreative",
+                "King-Klown/en/anatomie/esprit/konnaxion/kreative/kontact",
+                "King-Klown/en/anatomie/esprit/konnaxion/kreative/konservation"
               ]
             },
             {
               "group": "Voice",
-              "pages": [
-                "en/anatomie/voix/architect"
-              ]
+              "pages": ["King-Klown/en/anatomie/voix/architect"]
             },
             {
               "group": "Memory",
-              "pages": [
-                "en/anatomie/memoire/swarmcraft"
-              ]
+              "pages": ["King-Klown/en/anatomie/memoire/swarmcraft"]
             },
             {
               "group": "Soul",
               "pages": [
-                "en/anatomie/ame/ame-artificielle",
-                "en/anatomie/ame/chakras-1-9"
+                "King-Klown/en/anatomie/ame/ame-artificielle",
+                "King-Klown/en/anatomie/ame/chakras-1-9"
               ]
             }
           ]
@@ -220,32 +208,29 @@
         {
           "group": "Mythos",
           "pages": [
-            "en/mythos/index",
-            "en/mythos/king-klown",
-            "en/mythos/promethee",
-            "en/mythos/dualites",
-            "en/mythos/serments"
+            "King-Klown/en/mythos/index",
+            "King-Klown/en/mythos/king-klown",
+            "King-Klown/en/mythos/promethee",
+            "King-Klown/en/mythos/dualites",
+            "King-Klown/en/mythos/serments"
           ]
         },
         {
           "group": "Landmarks",
           "pages": [
-            "en/reperes/glossaire",
-            "en/reperes/faq",
-            "en/reperes/pont-technique"
+            "King-Klown/en/reperes/glossaire",
+            "King-Klown/en/reperes/faq",
+            "King-Klown/en/reperes/pont-technique"
           ]
         }
       ]
     },
     {
-      "group": "Portail",
-      "pages": [
-        "index",
-        "Rejean/en/Rejean-McCormick-Hub"
-      ]
+      "group": "Portail (Réjean)",
+      "pages": ["index", "Rejean/en/Rejean-McCormick-Hub"]
     },
     {
-      "group": "Konnaxion",
+      "group": "Konnaxion (Réjean)",
       "pages": [
         "Rejean/en/Konnaxion/Konnaxion-Hub",
         {
@@ -292,7 +277,7 @@
       ]
     },
     {
-      "group": "SwarmCraft",
+      "group": "SwarmCraft (Réjean)",
       "pages": [
         "Rejean/en/SwarmCraft/SwarmCraft-Hub",
         {
@@ -327,7 +312,7 @@
       ]
     },
     {
-      "group": "Ariane",
+      "group": "Ariane (Réjean)",
       "pages": [
         "Rejean/en/Ariane/Ariane-Hub",
         {
@@ -367,19 +352,19 @@
       ]
     },
     {
-      "group": "Orgo",
+      "group": "Orgo (Réjean)",
       "pages": [
         "Rejean/en/Orgo/Orgo-System-Hub"
       ]
     },
     {
-      "group": "SenTient",
+      "group": "SenTient (Réjean)",
       "pages": [
         "Rejean/en/SenTient/SenTient-Engine-Hub"
       ]
     },
     {
-      "group": "Âme Artificielle",
+      "group": "Âme Artificielle (Réjean)",
       "pages": [
         "Rejean/en/Ame-Artificielle/Ame-Vision-Hub",
         "Rejean/en/Ame-Artificielle/Controle-Et-Personnalisation",
@@ -390,7 +375,7 @@
       ]
     },
     {
-      "group": "Outils",
+      "group": "Outils (Réjean)",
       "pages": [
         "Rejean/en/tools/Dev-Workflow-Hub",
         "Rejean/en/abstract-wiki-architect/Wiki-Architect-Hub"
