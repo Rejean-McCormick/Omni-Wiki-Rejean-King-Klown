@@ -18,10 +18,6 @@
       "url": "https://github.com/Rejean-McCormick/Omni-Wiki-Rejean-King-Klown"
     }
   ],
-  "redirects": [
-    { "source": "/fr", "destination": "/fr/index" },
-    { "source": "/en", "destination": "/en/index" }
-  ],
   "navigation": {
     "tabs": [
       {
