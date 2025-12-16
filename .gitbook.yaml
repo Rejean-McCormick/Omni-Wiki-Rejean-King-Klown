@@ -1,19 +1,5 @@
-# .gitbook.yaml
-# Place this file at the root of the directory you sync to GitBook.
-
 root: ./
 
 structure:
   readme: README.md
   summary: SUMMARY.md
-
-# Optional. Old URL slugs -> new content file paths (both are relative to `root`).
-# Do NOT use leading slashes in redirect keys or values. :contentReference[oaicite:0]{index=0}
-redirects:
-  # Example from GitBook docs :contentReference[oaicite:1]{index=1}
-  # previous/page: new-folder/page.md
-
-  # If you previously used /fr, /en, /rejean URLs, you can enable redirects like:
-  # fr: KK-fr/README.md
-  # en: KK-en/README.md
-  # rejean: Rejean-en/README.md
