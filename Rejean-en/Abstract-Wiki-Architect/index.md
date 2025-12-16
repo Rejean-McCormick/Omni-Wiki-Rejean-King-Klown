@@ -331,4 +331,3 @@ The aim is a codebase that is:
   [https://github.com/Rejean-McCormick/Konnaxion](https://github.com/Rejean-McCormick/Konnaxion)
   [https://github.com/Rejean-McCormick/Konnaxion/wiki](https://github.com/Rejean-McCormick/Konnaxion/wiki)
 
-

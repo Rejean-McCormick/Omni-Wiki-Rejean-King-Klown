@@ -182,4 +182,3 @@ All modifications should go through the engine tools layer.
 * **[Story Bible](Story-Bible-Creative-Intent.md)**
 * **[Multi-Project Management](Multi-Project-Management.md)**
 
-

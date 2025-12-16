@@ -216,4 +216,3 @@ Template cadence: **[Schema Templates](Schema-Templates.md)**
 * **[Central Matrix](Central-Matrix-Runtime-State.md)**
 * **[RAG Memory System](RAG-Memory-System.md)**
 
-

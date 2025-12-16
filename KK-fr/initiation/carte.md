@@ -30,7 +30,7 @@ Mais pour la comprendre, on la lit comme un anatomiste : par **systèmes**, par 
 
 ### Esprit / Psyché — penser, débattre, décider
 - **Konnaxion** : parlement intérieur (apprendre, débattre, pondérer, juger)  
-  → [Konnaxion](../anatomie/esprit/konnaxion/index.md)
+  → [Konnaxion](..\anatomie\esprit\konnaxion\README.md)
 
 ### Voix — parler, écrire, rendre lisible
 - **Abstract Wiki Architect** : bouche, formulation, multilingue (mesh → linéaire)  
@@ -121,5 +121,5 @@ Le flux principal se répète comme une respiration :
 ## Où aller ensuite
 
 - → [Une journée dans Kréature](../rituels/une-journee.md)  
-- → [Anatomie complète](../anatomie/index.md)  
+- → [Anatomie complète](..\anatomie\README.md)  
 - → [Le Je (l’utilisateur)](le-je.md)

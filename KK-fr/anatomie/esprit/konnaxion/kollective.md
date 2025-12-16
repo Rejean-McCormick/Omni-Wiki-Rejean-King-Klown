@@ -137,6 +137,6 @@ Elle donne à Kréature la capacité de dire :
 
 ## Continuer
 
-- ← [Konnaxion](index.md)  
+- ← [Konnaxion](README.md)  
 - ← [Ethikos](ethikos.md)  
 - → [Le cycle vital](../../../rituels/cycle-vital.md)

@@ -16,7 +16,7 @@ Non.
 **Kréature** est un *modèle* : une façon de présenter un écosystème d’applications comme un humain conceptuel (corps, esprit, voix, mémoire, âme).  
 Ce qui est “réel”, ce sont les apps et leurs modules. La Kréature est la **forme de lecture**.
 
-→ [Anatomie](../anatomie/index.md)
+→ [Anatomie](..\anatomie\README.md)
 
 ---
 
@@ -184,7 +184,7 @@ Dans l’autre moitié du site : la partie **Réjean McCormick** (statique).
 
 Chaque grande page Kréature finit par un lien “vers la partie technique” ou une référence de chemin.
 
-→ [Accueil](../index.md)
+→ [Accueil](..\README.md)
 
 ---
 
@@ -210,7 +210,7 @@ Trois entrées possibles :
    → [Parcours](../parcours.md)
 
 2) **Comprendre l’organisme** :  
-   → [Anatomie](../anatomie/index.md)
+   → [Anatomie](..\anatomie\README.md)
 
 3) **Entrer par le mythe** :  
    → [King Klown](../mythos/king-klown.md)
@@ -221,5 +221,5 @@ Trois entrées possibles :
 
 - → [Parcours](../parcours.md)  
 - → [Glossaire](glossaire.md)  
-- → [Mythos](../mythos/index.md)  
-- → [Anatomie](../anatomie/index.md)
+- → [Mythos](..\mythos\README.md)  
+- → [Anatomie](..\anatomie\README.md)

@@ -44,7 +44,7 @@ Kreative correspond donc à deux fonctions humaines très nettes :
 1) **Mémoire symbolique** (archives, œuvres, patrimoine)  
 2) **Tissu relationnel** (rencontres, collaborations, confiance)
 
-C’est exactement ainsi que tu présentes Kreative : “Preserve & connect”. :contentReference[oaicite:0]{index=0}
+C’est exactement ainsi que tu présentes Kreative : “Preserve & connect”. 
 
 ---
 
@@ -55,7 +55,7 @@ Kreative se déploie en deux modules qui se complètent :
 - **Konservation** — préserver, archiver, exposer  
 - **Kontact** — relier, découvrir, collaborer
 
-Ces deux sous-modules sont listés comme la structure officielle de Kreative. :contentReference[oaicite:1]{index=1}
+Ces deux sous-modules sont listés comme la structure officielle de Kreative. 
 
 ---
 
@@ -66,13 +66,13 @@ Konservation fournit :
 - des **expositions virtuelles**,
 - une base de documentation,
 - un catalogue enrichi par IA,
-- et des intégrations avec des partenaires culturels. :contentReference[oaicite:2]{index=2}
+- et des intégrations avec des partenaires culturels. 
 
 Ses modèles canoniques sont centrés sur :
-- **KreativeArtwork**, **Gallery**, **Tag**, **TraditionEntry**, etc. :contentReference[oaicite:3]{index=3}
+- **KreativeArtwork**, **Gallery**, **Tag**, **TraditionEntry**, etc. 
 
 Ses routes publiques :
-- `/kreative` (hub), `/art/[id]` (fiche œuvre), `/archive` (archive). :contentReference[oaicite:4]{index=4}
+- `/kreative` (hub), `/art/[id]` (fiche œuvre), `/archive` (archive). 
 
 → [Konservation](kreative/konservation.md)
 
@@ -85,13 +85,13 @@ Kontact est le module “réseau vivant” :
 - matching,
 - espaces de collaboration,
 - tableau d’opportunités,
-- recommandations/endorsements. :contentReference[oaicite:5]{index=5}
+- recommandations/endorsements. 
 
 Ses routes sont explicitement centrées sur :
-- `/connect` et `/profile/[user]`. :contentReference[oaicite:6]{index=6} :contentReference[oaicite:7]{index=7}
+- `/connect` et `/profile/[user]`.  
 
 Un modèle clé listé dans le schéma :
-- **CollabSession** (sessions de co-création), lié potentiellement à une œuvre finale. :contentReference[oaicite:8]{index=8}
+- **CollabSession** (sessions de co-création), lié potentiellement à une œuvre finale. 
 
 → [Kontact](kreative/kontact.md)
 
@@ -104,7 +104,7 @@ Konservation impose quelques constantes simples qui rendent la création “habi
 - renditions d’images,
 - capacité des salles,
 - drapeau NSFW,
-- racine média partagée. :contentReference[oaicite:9]{index=9}
+- racine média partagée. 
 
 Dans l’analogie :
 - ce sont les **contraintes physiques** de l’atelier (taille, matière, espace),
@@ -114,7 +114,7 @@ Dans l’analogie :
 
 ## Kreative dans le cycle vital de Kréature
 
-Le workflow décrit explicitement l’étape “Preserve & connect – Kreative” comme la cinquième phase : les sorties sont archivées/exposées (Konservation) et les relations/opportunités sont gérées (Kontact), nourrissant les cycles futurs. :contentReference[oaicite:10]{index=10} :contentReference[oaicite:11]{index=11}
+Le workflow décrit explicitement l’étape “Preserve & connect – Kreative” comme la cinquième phase : les sorties sont archivées/exposées (Konservation) et les relations/opportunités sont gérées (Kontact), nourrissant les cycles futurs.  
 
 En clair :
 
@@ -122,7 +122,7 @@ En clair :
 2) débattre (Ethikos)  
 3) peser & décider (EkoH / Smart Vote)  
 4) exécuter (keenKonnect)  
-5) **préserver & relier (Kreative)** :contentReference[oaicite:12]{index=12}
+5) **préserver & relier (Kreative)** 
 
 ---
 
@@ -130,11 +130,11 @@ En clair :
 
 - → [Konservation](kreative/konservation.md)  
 - → [Kontact](kreative/kontact.md)  
-- ← Retour : [Konnaxion](index.md)
+- ← Retour : [Konnaxion](README.md)
 
 ---
 
 ## Vers la partie technique (Réjean)
 
 Pour la version strictement technique (services, modèles, routes, paramètres) :  
-↗︎ `/Konnaxion/Kreative/Konservation.md` et `/Konnaxion/Kreative/Kontact.md` :contentReference[oaicite:13]{index=13}
+↗︎ `/Konnaxion/Kreative/Konservation.md` et `/Konnaxion/Kreative/Kontact.md` 

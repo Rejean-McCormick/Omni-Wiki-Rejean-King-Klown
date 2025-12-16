@@ -173,4 +173,4 @@ Quand un artefact devient “important” :
 
 - ← [keenKonnect](../keen-konnect.md)  
 - ← [Konstruct](konstruct.md)  
-- → [Konnaxion](../index.md)
+- → [Konnaxion](..\README.md)

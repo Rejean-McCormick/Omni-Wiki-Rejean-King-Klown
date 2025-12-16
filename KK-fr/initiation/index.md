@@ -3,7 +3,7 @@ title: Initiation
 description: Les axiomes de lecture. Ce que Kréature suppose avant même d’expliquer ses organes.
 ---
 
-[English version](../../KK-en/initiation/index.md)
+[English version](..\..\KK-en\initiation\README.md)
 
 # Initiation
 
@@ -155,5 +155,5 @@ Le Je est **l’attention**, le point de focalisation, le témoin qui visite.
 
 - → [Carte anatomique](carte.md)  
 - → [Une journée dans Kréature](../rituels/une-journee.md)  
-- → [Anatomie](../anatomie/index.md)  
-- → [Mythos](../mythos/index.md)
+- → [Anatomie](..\anatomie\README.md)  
+- → [Mythos](..\mythos\README.md)

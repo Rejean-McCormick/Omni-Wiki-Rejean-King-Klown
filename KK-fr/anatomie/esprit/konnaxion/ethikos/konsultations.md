@@ -160,8 +160,6 @@ ImpactRecord garde :
 - une date,
 - un commentaire.
 
-
-
 Dans l’analogie humaine :
 - la décision est un acte,
 - l’impact est la conséquence,

@@ -17,7 +17,7 @@ Dans l’analogie humaine, KonnectED joue deux rôles indissociables :
 - **La cartographie du savoir** : transformer le monde en repères (apprendre = mapper).  
 - **L’incarnation de la compétence** : transformer le savoir en gestes fiables, en preuves, en passages.
 
-KonnectED se déploie en deux organes fortement corrélés à l’humain : **Knowledge** (apprendre) et **CertifiKation** (devenir compétent et le prouver). :contentReference[oaicite:0]{index=0}
+KonnectED se déploie en deux organes fortement corrélés à l’humain : **Knowledge** (apprendre) et **CertifiKation** (devenir compétent et le prouver). 
 
 ---
 
@@ -31,17 +31,17 @@ Dans l’humain :
 - les associations qui se tissent,
 - les chemins qui se créent dans le mesh.
 
-Dans Kréature, Knowledge s’exprime par cinq fonctions très “humaines” : :contentReference[oaicite:1]{index=1}
+Dans Kréature, Knowledge s’exprime par cinq fonctions très “humaines” : 
 
-- **Cataloguer** (ressources et types : article, vidéo, leçon, quiz, dataset) : la mémoire met des étiquettes sur le chaos. :contentReference[oaicite:2]{index=2}
-- **Recommander** (selon profil, usage, expertise) : l’instinct d’aller vers ce qui nourrit. :contentReference[oaicite:3]{index=3}
-- **Co-créer** (édition/versioning, contributions) : apprendre en fabriquant — la main dans le savoir. :contentReference[oaicite:4]{index=4}
-- **Débattre par thèmes** (forums liés aux ressources/cours) : le savoir devient social, donc réel. :contentReference[oaicite:5]{index=5}
-- **Mesurer la progression** (reprise, complétion, achievements) : la mémoire observe sa propre croissance. :contentReference[oaicite:6]{index=6}
+- **Cataloguer** (ressources et types : article, vidéo, leçon, quiz, dataset) : la mémoire met des étiquettes sur le chaos. 
+- **Recommander** (selon profil, usage, expertise) : l’instinct d’aller vers ce qui nourrit. 
+- **Co-créer** (édition/versioning, contributions) : apprendre en fabriquant — la main dans le savoir. 
+- **Débattre par thèmes** (forums liés aux ressources/cours) : le savoir devient social, donc réel. 
+- **Mesurer la progression** (reprise, complétion, achievements) : la mémoire observe sa propre croissance. 
 
 Pages :
-- → **[Knowledge — la Bibliothèque vivante](./konnected/knowledge)**  
-- ↗︎ **Détails techniques (Réjean)** : **/Konnaxion/KonnectED/Knowledge** :contentReference[oaicite:7]{index=7}
+- → **[Knowledge — la Bibliothèque vivante](konnected/knowledge)**  
+- ↗︎ **Détails techniques (Réjean)** : **/Konnaxion/KonnectED/Knowledge** 
 
 ---
 
@@ -54,22 +54,22 @@ La compétence ressemble à une route qui s’asphalte : au début on hésite, e
 
 **CertifiKation** est ce mécanisme dans Kréature : un organe de **preuves**, de **seuils**, de **validation**.
 
-Il suit une logique quasi organique : :contentReference[oaicite:8]{index=8}  
+Il suit une logique quasi organique :   
 - un **chemin** (CertificationPath),
 - une **épreuve** (Evaluation),
 - parfois un **regard de pair** (PeerValidation),
 - une **mémoire des preuves** (Portfolio),
 - puis une **marque** (Certificate).
 
-Ses cinq fonctions principales sont : définir des parcours, évaluer, valider par des pairs, construire un portfolio, et rester interopérable avec d’autres systèmes. :contentReference[oaicite:9]{index=9}
+Ses cinq fonctions principales sont : définir des parcours, évaluer, valider par des pairs, construire un portfolio, et rester interopérable avec d’autres systèmes. 
 
 Deux détails “rituels” importants (parce qu’ils imposent une gravité, une loi) :
-- **Seuil de réussite** figé : `CERT_PASS_PERCENT = 80%` :contentReference[oaicite:10]{index=10}
-- **Cooldown de reprise** : `QUIZ_RETRY_COOLDOWN_MIN = 30` minutes :contentReference[oaicite:11]{index=11}
+- **Seuil de réussite** figé : `CERT_PASS_PERCENT = 80%` 
+- **Cooldown de reprise** : `QUIZ_RETRY_COOLDOWN_MIN = 30` minutes 
 
 Pages :
-- → **[CertifiKation — les Rites de compétence](./konnected/certifikation)**
-- ↗︎ **Détails techniques (Réjean)** : **/Konnaxion/KonnectED/CertifiKation** :contentReference[oaicite:12]{index=12}
+- → **[CertifiKation — les Rites de compétence](konnected/certifikation)**
+- ↗︎ **Détails techniques (Réjean)** : **/Konnaxion/KonnectED/CertifiKation** 
 
 ---
 
@@ -86,16 +86,16 @@ KonnectED est donc la **matière première** de l’esprit :
 > sans progression, pas de liberté ;  
 > sans preuves, pas de confiance.
 
-Et dans le grand cycle KOA, KonnectED est explicitement la première étape : *“Learn & build competence”*. :contentReference[oaicite:13]{index=13}
+Et dans le grand cycle KOA, KonnectED est explicitement la première étape : *“Learn & build competence”*. 
 
 ---
 
 ## 4) Portes de sortie
 
 - Continuer l’exploration anatomique :  
-  - ← **[Konnaxion — l’esprit de Kréature](./index)**  
-  - → **[EkoH — conscience et réputation](./ekoh)** *(si présent dans cette section)*  
-  - → **[Ethikos — le débat intérieur](./ethikos)** *(si présent dans cette section)*
+  - ← **[Konnaxion — l’esprit de Kréature](index)**  
+  - → **[EkoH — conscience et réputation](ekoh)** *(si présent dans cette section)*  
+  - → **[Ethikos — le débat intérieur](ethikos)** *(si présent dans cette section)*
 
 - Basculer vers l’autre monde (Réjean, technique) :  
-  - ↗︎ **/Konnaxion/README** :contentReference[oaicite:14]{index=14}
+  - ↗︎ **/Konnaxion/README** 

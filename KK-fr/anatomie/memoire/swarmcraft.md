@@ -37,33 +37,33 @@ SwarmCraft correspond à cette continuité :
 - une **intention canonique** (ce qui doit rester vrai),
 - et une **preuve** (ce qui a déjà été établi).
 
-Dans la mécanique SwarmCraft, cela s’appelle : **Matrix**, **Story Bible**, et **RAG DB**. :contentReference[oaicite:0]{index=0}
+Dans la mécanique SwarmCraft, cela s’appelle : **Matrix**, **Story Bible**, et **RAG DB**. 
 
 ---
 
 ## Ce que SwarmCraft est (définition simple)
 
-SwarmCraft est un **deterministic, data-driven story engine** qui transforme un état explicite en prose via une boucle de contrôle stricte. :contentReference[oaicite:1]{index=1}  
-Sa promesse centrale : séparer ce qui “pense”, ce qui “orchestre”, et ce qui “est vrai”, pour éviter hallucinations et dérive d’état. :contentReference[oaicite:2]{index=2}
+SwarmCraft est un **deterministic, data-driven story engine** qui transforme un état explicite en prose via une boucle de contrôle stricte.   
+Sa promesse centrale : séparer ce qui “pense”, ce qui “orchestre”, et ce qui “est vrai”, pour éviter hallucinations et dérive d’état. 
 
 ---
 
 ## Les 3 couches (comme un cerveau qui refuse de mentir)
 
-SwarmCraft fonctionne sur un modèle à trois couches : :contentReference[oaicite:3]{index=3}
+SwarmCraft fonctionne sur un modèle à trois couches : 
 
 ### 1) Brain — les Personae (stateless)
-Des services/personas (ex: Architect, Narrator, Editor) qui ne possèdent jamais la vérité canonique. :contentReference[oaicite:4]{index=4}
+Des services/personas (ex: Architect, Narrator, Editor) qui ne possèdent jamais la vérité canonique. 
 
 *Parallèle humain :* l’imagination, la voix intérieure, les “sous-personnalités” — puissantes, mais faillibles.
 
 ### 2) Logic — l’Engine (orchestration)
-Le runtime qui pilote la boucle de contrôle et l’exécution d’outils. :contentReference[oaicite:5]{index=5}
+Le runtime qui pilote la boucle de contrôle et l’exécution d’outils. 
 
 *Parallèle humain :* la fonction exécutive : décider “quoi maintenant”, en maintenant la trajectoire.
 
 ### 3) Memory — l’État (la vérité explicite)
-Tout ce qui est “vrai” vit dans : **Matrix (runtime status)**, **Story Bible (creative intent)**, et **RAG DB (long-term continuity)**. :contentReference[oaicite:6]{index=6}
+Tout ce qui est “vrai” vit dans : **Matrix (runtime status)**, **Story Bible (creative intent)**, et **RAG DB (long-term continuity)**. 
 
 *Parallèle humain :* mémoire de travail (état), mémoire autobiographique (intentions/valeurs), mémoire factuelle (preuves).
 
@@ -71,11 +71,11 @@ Tout ce qui est “vrai” vit dans : **Matrix (runtime status)**, **Story Bible
 
 ## La boucle déterministe (le cœur qui bat)
 
-SwarmCraft remplace la coordination émergente par une boucle stricte : :contentReference[oaicite:7]{index=7}
+SwarmCraft remplace la coordination émergente par une boucle stricte : 
 
-1) **SCAN** : recalculer la réalité depuis le disque. :contentReference[oaicite:8]{index=8}  
-2) **PLAN** : choisir la prochaine **Part** atomique à écrire/réviser. :contentReference[oaicite:9]{index=9}  
-3) **EXECUTE** : exécuter une persona sur cette Part, puis sortir. :contentReference[oaicite:10]{index=10}  
+1) **SCAN** : recalculer la réalité depuis le disque.   
+2) **PLAN** : choisir la prochaine **Part** atomique à écrire/réviser.   
+3) **EXECUTE** : exécuter une persona sur cette Part, puis sortir.   
 
 > *Parallèle humain :*  
 > perception → intention → geste.  
@@ -85,7 +85,7 @@ SwarmCraft remplace la coordination émergente par une boucle stricte : :content
 
 ## Le secret de la cohérence : “Parts” (unités atomiques)
 
-SwarmCraft traite une **Part** comme unité atomique de rédaction/révision; les chapitres sont des agrégats. :contentReference[oaicite:11]{index=11}  
+SwarmCraft traite une **Part** comme unité atomique de rédaction/révision; les chapitres sont des agrégats.   
 C’est l’équivalent d’un système nerveux qui ne panique pas : il ne tente pas d’écrire “toute la vie” d’un coup. Il avance par segments.
 
 ---
@@ -93,21 +93,21 @@ C’est l’équivalent d’un système nerveux qui ne panique pas : il ne tente
 ## Les trois mémoires (dans l’ordre sacré)
 
 ### 1) Story Bible — l’Intention (ce qui doit rester vrai)
-La Story Bible est “home for creative intent” : plan canonique, contraintes, références. :contentReference[oaicite:12]{index=12}  
-Elle est conçue pour être **explicite**, **versionable**, **sliceable**, **human-editable**. :contentReference[oaicite:13]{index=13}
+La Story Bible est “home for creative intent” : plan canonique, contraintes, références.   
+Elle est conçue pour être **explicite**, **versionable**, **sliceable**, **human-editable**. 
 
 Elle contient notamment :
-- personnages, lieux, lore, règles de style, contraintes “hard rules”, etc. :contentReference[oaicite:14]{index=14}
+- personnages, lieux, lore, règles de style, contraintes “hard rules”, etc. 
 
 *Parallèle humain :* valeurs profondes, identité narrative, promesses qu’on refuse de briser.
 
 ### 2) Matrix — l’État (ce qui a été fait, ce qui reste)
-Matrix est “runtime progress state” : ce que le système a fait et ce qui vient ensuite; dérivé du disque et mis à jour par les outils. :contentReference[oaicite:15]{index=15} :contentReference[oaicite:16]{index=16}
+Matrix est “runtime progress state” : ce que le système a fait et ce qui vient ensuite; dérivé du disque et mis à jour par les outils.  
 
 *Parallèle humain :* mémoire de travail + situation actuelle (ce qui est en cours, ce qui est verrouillé, ce qui est imminent).
 
 ### 3) RAG DB — la Preuve (continuité à long terme)
-SwarmCraft conserve une mémoire de continuité récupérable (“retrieved continuity evidence”), séparée de l’intention et de l’état. :contentReference[oaicite:17]{index=17}
+SwarmCraft conserve une mémoire de continuité récupérable (“retrieved continuity evidence”), séparée de l’intention et de l’état. 
 
 *Parallèle humain :* souvenirs-évidences, traces, “preuves du vécu” qui empêchent l’invention facile.
 
@@ -115,7 +115,7 @@ SwarmCraft conserve une mémoire de continuité récupérable (“retrieved cont
 
 ## Slice-by-slice prompt hydration (la discipline contre la dérive)
 
-SwarmCraft injecte uniquement la “slice” active (la part pertinente) pour éviter l’étalement de prompt et garder le récit stable. :contentReference[oaicite:18]{index=18}
+SwarmCraft injecte uniquement la “slice” active (la part pertinente) pour éviter l’étalement de prompt et garder le récit stable. 
 
 *Parallèle humain :* la focalisation attentionnelle : un seul point lumineux à la fois, sinon tout devient bruit.
 
@@ -126,17 +126,17 @@ SwarmCraft injecte uniquement la “slice” active (la part pertinente) pour é
 - **Entrée / oreilles + filtre** : [SenTient](../sens/sentient.md)  
 - **Voix / sortie linéaire** : [Architect](../voix/architect.md)  
 - **Vision / navigation** : [Ariane](../sens/ariane.md)  
-- **Esprit / débat-jugement-apprentissage** : [Konnaxion](../esprit/konnaxion/index.md)
+- **Esprit / débat-jugement-apprentissage** : [Konnaxion](..\esprit\konnaxion\README.md)
 
 Dans la métaphore :
 - SenTient reçoit (et désinfecte),
 - Konnaxion délibère,
 - Architect prononce,
-- **SwarmCraft se souvient** — et empêche que la Kréature raconte une autre vie à chaque souffle. :contentReference[oaicite:19]{index=19}
+- **SwarmCraft se souvient** — et empêche que la Kréature raconte une autre vie à chaque souffle. 
 
 ---
 
 ## Vers la partie technique (Réjean)
 
 Pour les détails techniques complets (Brain/Logic/Memory, Matrix, SCAN→PLAN→EXECUTE, prompt hydration, scaffold, RAG, multi-projets) :  
-↗︎ `SwarmCraft/SwarmCraft-Hub.md` et les modules “Core / Scaffold / Runtime” listés dans l’index. :contentReference[oaicite:20]{index=20}
+↗︎ `SwarmCraft/SwarmCraft-Hub.md` et les modules “Core / Scaffold / Runtime” listés dans l’index. 

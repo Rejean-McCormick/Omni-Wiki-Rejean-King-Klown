@@ -172,4 +172,3 @@ Recommended role rules:
 * **[Story Bible](Story-Bible-Creative-Intent.md)**
 * **[Central Matrix](Central-Matrix-Runtime-State.md)**
 
-

@@ -112,7 +112,7 @@ Tu veux décider :
 - apprendre, débattre, pondérer, trancher
 
 → **Konnaxion**  
-→ [Konnaxion](../anatomie/esprit/konnaxion/index.md)
+→ [Konnaxion](..\anatomie\esprit\konnaxion\README.md)
 
 ### Quand tu prends la voix
 Tu veux formuler :

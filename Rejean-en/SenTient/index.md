@@ -3,8 +3,6 @@
 **Version:** 1.0.0-RC2
 **Status:** Production Ready (Hybrid Architecture)
 
-
-
 ---
 
 ## 1.  Executive Summary and Core Philosophy

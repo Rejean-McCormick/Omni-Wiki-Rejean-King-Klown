@@ -139,4 +139,4 @@ keenKonnect résout ce trou :
 
 - → [Konstruct](keen-konnect/konstruct.md)  
 - → [Stockage](keen-konnect/stockage.md)  
-- ← Retour : [Konnaxion](index.md)
+- ← Retour : [Konnaxion](README.md)
