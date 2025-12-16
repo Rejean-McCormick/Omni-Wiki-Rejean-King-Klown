@@ -182,7 +182,7 @@ Orgo se déploie comme un corps en couches :
   → [SenTient](../sens/sentient.md)
 
 - Avec **Konnaxion** : Orgo peut échanger avec le monde ouvert, mais sans perdre sa souveraineté.  
-  → [Konnaxion](../esprit/konnaxion/README.md)
+  → [Konnaxion](../esprit/konnaxion)
 
 - Avec **SwarmCraft** : Orgo fournit la réalité d’exécution; SwarmCraft recoud le récit et la continuité.  
   → [SwarmCraft](../memoire/swarmcraft.md)

@@ -88,7 +88,7 @@ Ensuite, tu traverses.
 - **keenKonnect** → Konstruct + Stockage
 - **Kreative** → Konservation + Kontact
 
-→ [Konnaxion](../anatomie/esprit/konnaxion/README.md)
+→ [Konnaxion](../anatomie/esprit/konnaxion)
 
 ### Voix
 - **Architect** → abstract-wiki-architect (engines, lexique, constructions, API, QA)
@@ -141,6 +141,6 @@ King Klown s’engage :
 
 ## Continuer
 
-- ← [Repères](README.md)  
+- ← [Repères](.)  
 - → [Parcours](../parcours.md)  
-- → [Anatomie](../anatomie/README.md)
+- → [Anatomie](../anatomie)

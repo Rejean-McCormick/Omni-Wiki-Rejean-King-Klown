@@ -129,7 +129,7 @@ Nous n’entrons pas dans le détail ici : c’est un **langage de mythologie**,
 - **Corps / homéostasie** : [Orgo](../corps/orgo.md)  
 - **Voix** : [Architect](../voix/architect.md)  
 - **Mémoire narrative** : [SwarmCraft](../memoire/swarmcraft.md)  
-- **Esprit social** : [Konnaxion](../esprit/konnaxion/README.md)
+- **Esprit social** : [Konnaxion](../esprit/konnaxion)
 
 ---
 

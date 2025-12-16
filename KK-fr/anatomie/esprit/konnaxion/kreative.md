@@ -130,7 +130,7 @@ En clair :
 
 - → [Konservation](kreative/konservation.md)  
 - → [Kontact](kreative/kontact.md)  
-- ← Retour : [Konnaxion](README.md)
+- ← Retour : [Konnaxion](.)
 
 ---
 

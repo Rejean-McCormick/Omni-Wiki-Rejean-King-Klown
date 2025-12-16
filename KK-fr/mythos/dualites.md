@@ -183,7 +183,7 @@ Exemples :
 
 ## Continuer
 
-- ← [Mythos](README.md)  
+- ← [Mythos](.)  
 - → [Prométhée](promethee.md)  
-- → [Anatomie](../anatomie/README.md)  
+- → [Anatomie](../anatomie)  
 - → [Rituels](../rituels/une-journee.md)

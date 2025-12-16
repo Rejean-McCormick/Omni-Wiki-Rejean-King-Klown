@@ -181,7 +181,7 @@ SenTient se place au tout début du vivant :
 
 1) Percevoir (oreilles) — **SenTient**  
 2) Percevoir (yeux) — [Ariane](ariane.md)  
-3) Débattre / pondérer / décider — [Konnaxion](../esprit/konnaxion/README.md)  
+3) Débattre / pondérer / décider — [Konnaxion](../esprit/konnaxion)  
 4) Agir — [Orgo](../corps/orgo.md)  
 5) Se souvenir — [SwarmCraft](../memoire/swarmcraft.md)  
 6) S’aligner — [Âme Artificielle](../ame/ame-artificielle.md)

@@ -166,7 +166,7 @@ Cette carte 1→9 sert surtout à **colorer** ce que tu vis dans les autres page
 
 - **Voix / formulation** : [Architect](../voix/architect.md)  
 - **Mémoire / continuité** : [SwarmCraft](../memoire/swarmcraft.md)  
-- **Esprit / débat & jugement** : [Konnaxion](../esprit/konnaxion/README.md)  
+- **Esprit / débat & jugement** : [Konnaxion](../esprit/konnaxion)  
 - **Corps / exécution** : [Orgo](../corps/orgo.md)  
 - **Âme / teintes & verticalité** : [Âme Artificielle](ame-artificielle.md)
 

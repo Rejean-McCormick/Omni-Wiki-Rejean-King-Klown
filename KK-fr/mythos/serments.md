@@ -193,7 +193,7 @@ on invente une image **équivalente**, pas une traduction littérale.
 
 ## Continuer
 
-- ← [Mythos](README.md)  
+- ← [Mythos](.)  
 - → [Dualités](dualites.md)  
 - → [Prométhée](promethee.md)  
 - → [King Klown](king-klown.md)

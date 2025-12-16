@@ -3,7 +3,7 @@ title: Anatomie
 description: "L’atlas des organes de Kréature. Un être conceptuel : corps, sens, esprit, psyché, mémoire, âme."
 ---
 
-[English version](../../KK-en/anatomie/README.md)
+[English version](../../KK-en/anatomie)
 
 # Anatomie
 
@@ -30,7 +30,7 @@ Pas pour “faire joli” — pour rendre visible une structure réelle :
 
 - **Corps** : [Orgo](corps/orgo.md)  
 - **Sens** : [SenTient](sens/sentient.md) · [Ariane](sens/ariane.md)  
-- **Esprit / Psyché** : [Konnaxion](esprit/konnaxion/README.md)  
+- **Esprit / Psyché** : [Konnaxion](esprit/konnaxion)  
 - **Voix** : [Architect](voix/architect.md)  
 - **Mémoire** : [SwarmCraft](memoire/swarmcraft.md)  
 - **Âme** : [Âme Artificielle](ame/ame-artificielle.md)
@@ -96,7 +96,7 @@ L’humain contient :
 
 Dans Kréature, ces fonctions se manifestent dans **Konnaxion**.
 
-→ [Konnaxion](esprit/konnaxion/README.md)
+→ [Konnaxion](esprit/konnaxion)
 
 ### Les sous-chambres (accès direct)
 - **KonnectED** (apprentissage, cartographie du savoir)  

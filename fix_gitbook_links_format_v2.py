@@ -1,253 +1,236 @@
-#!/usr/bin/env python3
+# fix_gitbook_links_format_v2.py
+# Usage (Windows example):
+# python "C:\MyCode\GitBook\Omni-Wiki-Rejean-King-Klown\fix_gitbook_links_format_v2.py" ^
+#   --root "C:\MyCode\GitBook\Omni-Wiki-Rejean-King-Klown" --repo "https://github.com/ORG/REPO" --branch main
+#
+# What it fixes:
+# 1) Rewrites "root-style" markdown links like (03-vote/xx.md) into file-relative links (../03-vote/xx.md).
+# 2) Converts inline-code file refs like `03-vote/xx.md` into clickable links, when the target file exists.
+#    (Leaves non-existent or non-.md code spans untouched.)
+#
+# Safe guards:
+# - Does NOT change anything inside fenced code blocks (``` ... ```).
+# - Skips external links (http:, https:, mailto:, etc.) and pure anchors (#...).
+#
+# Notes:
+# - The --repo and --branch args are accepted for compatibility with your command line,
+#   but are not required for the link/format fixes. (They are available for future extensions.)
+
 from __future__ import annotations
-import argparse, re
-from dataclasses import dataclass
+
+import argparse
+import os
+import re
 from pathlib import Path
-from typing import Dict, List, Optional, Tuple
-from urllib.parse import urlparse, unquote
+from typing import Tuple
 
-MD_EXTS = {".md", ".markdown", ".mdx"}
+SCHEME_RE = re.compile(r"^[a-zA-Z][a-zA-Z0-9+.\-]*:")
+FENCE_RE = re.compile(r"^\s*(```|~~~)")  # fenced code blocks
+# Basic markdown link/image: [text](target) or ![alt](target)
+MD_LINK_RE = re.compile(r"(!?\[[^\]]*\]\()([^)]+)(\))")
+# Inline code: `something`
+INLINE_CODE_RE = re.compile(r"`([^`]+)`")
 
-OAICITE_RE = re.compile(r":contentReference\[oaicite:[^\]]+\]\{[^}]*\}")
-CITE_BRACKET_RE = re.compile(r"\[cite(?::[^\]]+)?\]|\[cite_start\]|\[cite_end\]", re.IGNORECASE)
-CITE_INLINE_RE = re.compile(r"\[\s*cite\s*:\s*[^]]+\]", re.IGNORECASE)
-CONTENT_REFERENCE_GENERIC_RE = re.compile(r":contentReference\[[^\]]+\]\{[^}]*\}")
-
-MD_LINK_RE = re.compile(
-    r"(?P<prefix>!?\[.*?\])\((?P<target>\s*<?[^)\s>]+>?)(?P<rest>\s+\"[^\"]*\"|\s+'[^']*'|\s*)\)",
-    re.DOTALL,
-)
-HTML_HREF_RE = re.compile(r"""(?P<attr>\b(?:href|src)\s*=\s*)(?P<q>["'])(?P<val>.*?)(?P=q)""", re.IGNORECASE)
-
-@dataclass
-class Change:
-    file: Path
-    changed: bool
-    notes: List[str]
-
-def normalize_slashes(s: str) -> str:
-    return s.replace("\\", "/")
-
-def strip_angle(s: str) -> str:
-    s = s.strip()
-    return s[1:-1].strip() if s.startswith("<") and s.endswith(">") else s
-
-def split_anchor(s: str) -> Tuple[str, str]:
-    if "#" in s:
-        b, a = s.split("#", 1)
-        return b, "#" + a
-    return s, ""
-
-def is_url(s: str) -> bool:
-    u = urlparse(s)
-    return bool(u.scheme)
-
-def default_prefix_map() -> Dict[str, str]:
-    return {"/fr": "KK-fr", "/en": "KK-en", "/rejean": "Rejean-en", "/Rejean": "Rejean-en"}
-
-def apply_prefix_map(path: str, pmap: Dict[str, str]) -> str:
-    for prefix in sorted(pmap.keys(), key=len, reverse=True):
-        if path == prefix or path.startswith(prefix + "/"):
-            mapped = pmap[prefix]
-            rest = path[len(prefix):].lstrip("/")
-            return f"{mapped}/{rest}".rstrip("/")
-    return path
-
-def parse_repo(repo_url: Optional[str]) -> Optional[Tuple[str, str]]:
-    if not repo_url:
-        return None
-    u = urlparse(repo_url)
-    if u.netloc.lower() != "github.com":
-        return None
-    parts = [p for p in u.path.split("/") if p]
-    return (parts[0], parts[1]) if len(parts) >= 2 else None
-
-def github_to_path(url: str, repo: Optional[Tuple[str, str]], branch: Optional[str]) -> Optional[str]:
-    u = urlparse(url)
-    host = u.netloc.lower()
-    path = unquote(u.path or "")
-    if host == "github.com":
-        parts = [p for p in path.split("/") if p]
-        if len(parts) < 5:
-            return None
-        org, rep, kind, br = parts[0], parts[1], parts[2], parts[3]
-        if repo and (org != repo[0] or rep != repo[1]):
-            return None
-        if branch and br != branch:
-            return None
-        if kind not in ("blob", "tree"):
-            return None
-        rest = "/".join(parts[4:])
-        if kind == "tree" and rest and not rest.endswith("/"):
-            rest += "/"
-        return rest or None
-    if host == "raw.githubusercontent.com":
-        parts = [p for p in path.split("/") if p]
-        if len(parts) < 4:
-            return None
-        org, rep, br = parts[0], parts[1], parts[2]
-        if repo and (org != repo[0] or rep != repo[1]):
-            return None
-        if branch and br != branch:
-            return None
-        return "/".join(parts[3:]) or None
-    return None
-
-def clean_text(text: str) -> str:
-    text = OAICITE_RE.sub("", text)
-    text = CONTENT_REFERENCE_GENERIC_RE.sub("", text)
-    text = CITE_BRACKET_RE.sub("", text)
-    text = CITE_INLINE_RE.sub("", text)
-    text = re.sub(r"\n{3,}", "\n\n", text)
-    return text
-
-def fix_target(raw: str, pmap: Dict[str, str], repo: Optional[Tuple[str, str]], branch: Optional[str]) -> Tuple[str, List[str]]:
-    notes: List[str] = []
-    t = normalize_slashes(strip_angle(raw)).strip()
+def is_external_or_anchor(target: str) -> bool:
+    t = target.strip()
     if not t:
-        return raw, notes
-    base, anchor = split_anchor(t)
-
-    # Convert GitHub links (otherwise GitBook navigates out to GitHub)
-    if is_url(base):
-        rp = github_to_path(base, repo, branch)
-        if rp:
-            notes.append(f"github->relative {base} -> {rp}")
-            base = rp
-        else:
-            return raw, notes
-
-    # Map /fr/... style to repo folders
-    if base.startswith("/"):
-        mapped = apply_prefix_map(base, pmap)
-        if mapped != base:
-            notes.append(f"prefix {base} -> {mapped}")
-        base = mapped.lstrip("/")
-
-    if base.lower().endswith(".ipynb"):
-        base = base[:-6] + ".md"
-        notes.append("ipynb->md")
-
-    low = base.lower()
-    if low.endswith("index.md") or low.endswith("index.mdx") or low.endswith("index.markdown") or low.endswith("notebookindex.md"):
-        base = str(Path(base).with_name("README.md")).replace("\\", "/")
-        notes.append("index->README")
-
-    if base.endswith("/"):
-        base = base.rstrip("/") + "/README.md"
-        notes.append("dir->README")
-
-    fixed = base + anchor
-    return (f"<{fixed}>" if raw.strip().startswith("<") and raw.strip().endswith(">") else fixed), notes
-
-def rewrite_links(text: str, pmap: Dict[str, str], repo: Optional[Tuple[str, str]], branch: Optional[str]) -> Tuple[str, int]:
-    changes = 0
-
-    def repl(m: re.Match) -> str:
-        nonlocal changes
-        prefix, target, rest = m.group("prefix"), m.group("target"), m.group("rest") or ""
-        fixed, _ = fix_target(target, pmap, repo, branch)
-        if fixed != target:
-            changes += 1
-        return f"{prefix}({fixed}{rest})"
-
-    text2 = MD_LINK_RE.sub(repl, text)
-
-    def repl_html(m: re.Match) -> str:
-        nonlocal changes
-        attr, q, val = m.group("attr"), m.group("q"), m.group("val")
-        fixed, _ = fix_target(val, pmap, repo, branch)
-        if fixed != val:
-            changes += 1
-        return f"{attr}{q}{fixed}{q}"
-
-    text3 = HTML_HREF_RE.sub(repl_html, text2)
-    return text3, changes
-
-def collect_targets(text: str) -> List[str]:
-    out: List[str] = []
-    out += [m.group("target").strip() for m in MD_LINK_RE.finditer(text)]
-    out += [m.group("val").strip() for m in HTML_HREF_RE.finditer(text)]
-    return out
-
-def check_internal(from_file: Path, root: Path, target: str) -> bool:
-    t = normalize_slashes(strip_angle(target))
-    base, _ = split_anchor(t)
-    if not base or is_url(base):
         return True
-    if base.startswith("/"):
-        base = base.lstrip("/")
-    p = (from_file.parent / base).resolve()
-    if p.exists():
+    if t.startswith("#"):
         return True
-    p2 = (root / base).resolve()
-    if p2.exists():
-        return True
-    if (root / base / "README.md").exists():
-        return True
-    if Path(base).suffix == "" and (root / (base + ".md")).exists():
+    if SCHEME_RE.match(t):
         return True
     return False
 
-def main() -> int:
-    ap = argparse.ArgumentParser()
-    ap.add_argument("--root", required=True)
-    ap.add_argument("--dry-run", action="store_true")
-    ap.add_argument("--no-backup", action="store_true")
-    ap.add_argument("--report", default="broken_links_report.txt")
-    ap.add_argument("--map", nargs="*", default=[])
-    ap.add_argument("--repo", default=None, help='e.g. "https://github.com/ORG/REPO"')
-    ap.add_argument("--branch", default=None, help='e.g. "main"')
+def split_path_and_suffix(target: str) -> Tuple[str, str]:
+    """
+    Splits (path + optional #anchor/?query) while preserving suffix.
+    Example: "a/b.md#x" -> ("a/b.md", "#x")
+    """
+    t = target.strip()
+    m = re.search(r"[?#]", t)
+    if m:
+        return t[:m.start()], t[m.start():]
+    return t, ""
+
+def normalize_rel(rel: str) -> str:
+    rel = rel.replace(os.sep, "/")
+    # If it is a simple filename ("x.md"), prefer "./x.md" for clarity
+    if "/" not in rel and not rel.startswith("."):
+        rel = "./" + rel
+    return rel
+
+def resolve_target(root: Path, path_part: str) -> Path | None:
+    """
+    Treats path_part as "root-style" (relative to root) and resolves if it exists.
+    """
+    if not path_part or path_part.startswith(".") or path_part.startswith("/"):
+        return None
+    candidate = (root / path_part).resolve()
+    if candidate.exists():
+        return candidate
+    return None
+
+def rewrite_markdown_links(line: str, md_path: Path, root: Path) -> Tuple[str, int]:
+    """
+    Rewrite markdown link targets that look like root-relative paths (e.g., 03-vote/x.md)
+    into file-relative links from md_path.
+    """
+    rewrites = 0
+
+    def _repl(m: re.Match) -> str:
+        nonlocal rewrites
+        prefix, target, suffix_paren = m.group(1), m.group(2), m.group(3)
+        raw = target.strip()
+
+        if is_external_or_anchor(raw):
+            return m.group(0)
+
+        path_part, suffix = split_path_and_suffix(raw)
+
+        # Keep already file-relative or absolute-root links unchanged
+        if path_part.startswith(".") or path_part.startswith("/"):
+            return m.group(0)
+
+        abs_target = resolve_target(root, path_part)
+        if abs_target is None:
+            return m.group(0)
+
+        rel = os.path.relpath(abs_target, start=md_path.parent.resolve())
+        rel = normalize_rel(rel)
+        new_target = rel + suffix
+
+        if new_target != raw:
+            rewrites += 1
+            return f"{prefix}{new_target}{suffix_paren}"
+        return m.group(0)
+
+    return MD_LINK_RE.sub(_repl, line), rewrites
+
+def convert_inline_code_paths(line: str, md_path: Path, root: Path) -> Tuple[str, int]:
+    """
+    Converts inline code spans that reference existing .md files into clickable links.
+    Example: `03-vote/00-vote-overview.md` -> [`03-vote/00-vote-overview.md`](../03-vote/00-vote-overview.md)
+    """
+    conversions = 0
+
+    def looks_like_md_path(s: str) -> bool:
+        ss = s.strip()
+        # Must look like a markdown file path
+        if not ss.lower().endswith(".md"):
+            return False
+        # Must contain at least a slash OR be a common top-level doc
+        if "/" in ss or ss in {"README.md", "SUMMARY.md"}:
+            return True
+        return False
+
+    def _repl(m: re.Match) -> str:
+        nonlocal conversions
+        code = m.group(1).strip()
+
+        if not looks_like_md_path(code):
+            return m.group(0)
+
+        # Do not touch if it's already a markdown link label inside backticks like [`x`](...)
+        # (Heuristic: if immediately preceded by "[" in the original line, skip.)
+        # We can't easily check exact position without more parsing, so keep it simple.
+
+        abs_target = resolve_target(root, code)
+        if abs_target is None:
+            return m.group(0)
+
+        rel = os.path.relpath(abs_target, start=md_path.parent.resolve())
+        rel = normalize_rel(rel)
+        conversions += 1
+        # Preserve the visible text as the path, but turn it into a link
+        return f"[`{code}`]({rel})"
+
+    return INLINE_CODE_RE.sub(_repl, line), conversions
+
+def process_file(md_path: Path, root: Path, dry_run: bool) -> Tuple[int, int]:
+    original = md_path.read_text(encoding="utf-8")
+    lines = original.splitlines(True)
+
+    in_fence = False
+    link_rewrites = 0
+    code_conversions = 0
+
+    out_lines: list[str] = []
+
+    for line in lines:
+        if FENCE_RE.match(line):
+            in_fence = not in_fence
+            out_lines.append(line)
+            continue
+
+        if in_fence:
+            out_lines.append(line)
+            continue
+
+        # 1) Rewrite markdown links
+        line2, r1 = rewrite_markdown_links(line, md_path, root)
+        link_rewrites += r1
+
+        # 2) Convert inline-code md paths to clickable links
+        line3, r2 = convert_inline_code_paths(line2, md_path, root)
+        code_conversions += r2
+
+        out_lines.append(line3)
+
+    new_text = "".join(out_lines)
+
+    if new_text != original and not dry_run:
+        md_path.write_text(new_text, encoding="utf-8")
+
+    return link_rewrites, code_conversions
+
+def should_skip_dir(p: Path) -> bool:
+    parts = {x.lower() for x in p.parts}
+    return any(x in parts for x in {".git", "node_modules", ".venv", "venv", "__pycache__", ".idea", ".vscode"})
+
+def main() -> None:
+    ap = argparse.ArgumentParser(description="Fix GitBook markdown link formatting and convert code-path refs to links.")
+    ap.add_argument("--root", type=Path, required=True, help="Repo root containing the markdown files.")
+    ap.add_argument("--repo", type=str, default="", help="Repo URL (accepted; not required for fixes).")
+    ap.add_argument("--branch", type=str, default="main", help="Repo branch (accepted; not required for fixes).")
+    ap.add_argument("--dry-run", action="store_true", help="Do not write changes; only report.")
     args = ap.parse_args()
 
-    root = Path(args.root).resolve()
-    if not root.is_dir():
-        raise SystemExit(f"Not a directory: {root}")
+    root = args.root.resolve()
+    if not root.exists():
+        raise SystemExit(f"--root does not exist: {root}")
 
-    pmap = default_prefix_map()
-    for item in args.map:
-        k, v = item.split(":", 1)
-        pmap[k] = v
+    md_files: list[Path] = []
+    for p in root.rglob("*.md"):
+        if should_skip_dir(p):
+            continue
+        md_files.append(p)
 
-    repo = parse_repo(args.repo)
-
-    files = [p for p in root.rglob("*") if p.is_file() and p.suffix.lower() in MD_EXTS]
+    total_link_rewrites = 0
+    total_code_conversions = 0
     changed_files = 0
 
-    for f in files:
-        original = f.read_text(encoding="utf-8", errors="replace")
-        text = clean_text(original)
-        text, nchanges = rewrite_links(text, pmap, repo, args.branch)
-        if text != original:
+    for f in sorted(md_files):
+        before = f.read_text(encoding="utf-8")
+        r_links, r_codes = process_file(f, root, dry_run=args.dry_run)
+        after = before if args.dry_run else f.read_text(encoding="utf-8")
+
+        if (r_links + r_codes) > 0:
             changed_files += 1
-            if not args.dry_run:
-                if not args.no_backup:
-                    bak = f.with_suffix(f.suffix + ".bak")
-                    if not bak.exists():
-                        bak.write_text(original, encoding="utf-8")
-                f.write_text(text, encoding="utf-8")
+            rel = f.relative_to(root)
+            print(f"{rel}: {r_links} link rewrites, {r_codes} code-path conversions")
 
-    broken = []
-    for f in files:
-        text = f.read_text(encoding="utf-8", errors="replace") if not args.dry_run else clean_text(f.read_text(encoding="utf-8", errors="replace"))
-        for t in collect_targets(text):
-            if not check_internal(f, root, t):
-                broken.append((f, t))
+        total_link_rewrites += r_links
+        total_code_conversions += r_codes
 
-    report_path = root / args.report
-    lines = ["Broken internal links report", f"Root: {root}", ""]
-    if not broken:
-        lines.append("No broken internal links detected.")
-    else:
-        lines.append(f"Broken links ({len(broken)}):")
-        for f, t in broken:
-            lines.append(f"- {f.relative_to(root)} -> {t}")
-    if not args.dry_run:
-        report_path.write_text("\n".join(lines) + "\n", encoding="utf-8")
+    mode = "DRY RUN" if args.dry_run else "WROTE"
+    print(f"{mode}: {changed_files} files changed; {total_link_rewrites} links rewritten; {total_code_conversions} code refs converted.")
 
-    print(f"Processed {len(files)} files. Changed {changed_files}.")
-    print(f"{'(dry-run) Report would be written to:' if args.dry_run else 'Report written to:'} {report_path}")
-    return 0
+    # Quick warning for empty README
+    readme = root / "README.md"
+    if readme.exists():
+        txt = readme.read_text(encoding="utf-8")
+        if not txt.strip():
+            print("WARNING: README.md is empty. GitBook home page will be blank unless you populate it or change the entry page.")
 
 if __name__ == "__main__":
-    raise SystemExit(main())
+    main()

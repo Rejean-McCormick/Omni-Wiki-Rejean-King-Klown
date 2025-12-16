@@ -40,7 +40,7 @@ Dans Kréature, Knowledge s’exprime par cinq fonctions très “humaines” :
 - **Mesurer la progression** (reprise, complétion, achievements) : la mémoire observe sa propre croissance. 
 
 Pages :
-- → **[Knowledge — la Bibliothèque vivante](konnected/knowledge)**  
+- → **[Knowledge — la Bibliothèque vivante](konnected/knowledge.md)**  
 - ↗︎ **Détails techniques (Réjean)** : **/Konnaxion/KonnectED/Knowledge** 
 
 ---
@@ -68,7 +68,7 @@ Deux détails “rituels” importants (parce qu’ils imposent une gravité, un
 - **Cooldown de reprise** : `QUIZ_RETRY_COOLDOWN_MIN = 30` minutes 
 
 Pages :
-- → **[CertifiKation — les Rites de compétence](konnected/certifikation)**
+- → **[CertifiKation — les Rites de compétence](konnected/certifikation.md)**
 - ↗︎ **Détails techniques (Réjean)** : **/Konnaxion/KonnectED/CertifiKation** 
 
 ---
@@ -93,7 +93,7 @@ Et dans le grand cycle KOA, KonnectED est explicitement la première étape : *�
 ## 4) Portes de sortie
 
 - Continuer l’exploration anatomique :  
-  - ← **[Konnaxion — l’esprit de Kréature](index)**  
+  - ← **[Konnaxion — l’esprit de Kréature](index.md)**  
   - → **[EkoH — conscience et réputation](ekoh)** *(si présent dans cette section)*  
   - → **[Ethikos — le débat intérieur](ethikos)** *(si présent dans cette section)*
 

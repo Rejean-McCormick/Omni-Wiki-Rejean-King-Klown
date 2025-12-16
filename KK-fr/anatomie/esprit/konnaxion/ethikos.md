@@ -157,4 +157,4 @@ Quand une question fracture l’intérieur :
 - → **Konsultations** : [/fr/anatomie/esprit/konnaxion/ethikos/konsultations.md](ethikos/konsultations.md)  
 - → **EkoH** : [/fr/anatomie/esprit/konnaxion/kollective/ekoh.md](kollective/ekoh.md)  
 - → **Smart Vote** : [/fr/anatomie/esprit/konnaxion/kollective/smart-vote.md](kollective/smart-vote.md)  
-- ← Retour : [Konnaxion](README.md)
+- ← Retour : [Konnaxion](.)

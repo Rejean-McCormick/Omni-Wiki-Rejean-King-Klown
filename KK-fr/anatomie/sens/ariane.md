@@ -147,7 +147,7 @@ Le parlement intérieur a besoin de concret :
 
 Ariane donne au débat un sol.
 
-→ [Konnaxion](../esprit/konnaxion/README.md)
+→ [Konnaxion](../esprit/konnaxion)
 
 ### Ariane + SwarmCraft : la mémoire du chemin
 SwarmCraft écrit l’histoire.  

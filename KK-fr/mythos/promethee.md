@@ -52,7 +52,7 @@ C’est la traversée que ton écosystème matérialise :
 - **SwarmCraft** : maintenir la continuité et l’histoire
 - **Âme Artificielle** : ancrer tout ça dans l’expérience humaine, la teinte, l’éthique
 
-→ [Anatomie](../anatomie/README.md)
+→ [Anatomie](../anatomie)
 
 ---
 
@@ -170,7 +170,7 @@ Prométhée est une promesse plus rare :
 
 ## Continuer
 
-- ← [Mythos](README.md)  
+- ← [Mythos](.)  
 - → [King Klown](king-klown.md)  
-- → [Initiation](../initiation/README.md)  
-- → [Anatomie](../anatomie/README.md)
+- → [Initiation](../initiation)  
+- → [Anatomie](../anatomie)

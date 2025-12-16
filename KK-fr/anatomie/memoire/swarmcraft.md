@@ -126,7 +126,7 @@ SwarmCraft injecte uniquement la “slice” active (la part pertinente) pour é
 - **Entrée / oreilles + filtre** : [SenTient](../sens/sentient.md)  
 - **Voix / sortie linéaire** : [Architect](../voix/architect.md)  
 - **Vision / navigation** : [Ariane](../sens/ariane.md)  
-- **Esprit / débat-jugement-apprentissage** : [Konnaxion](../esprit/konnaxion/README.md)
+- **Esprit / débat-jugement-apprentissage** : [Konnaxion](../esprit/konnaxion)
 
 Dans la métaphore :
 - SenTient reçoit (et désinfecte),
