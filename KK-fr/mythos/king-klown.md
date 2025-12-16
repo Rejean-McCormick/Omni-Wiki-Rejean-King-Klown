@@ -67,7 +67,7 @@ Il le **traduit** en expérience.
 Il ne change pas l’architecture.  
 Il choisit l’angle qui rend l’architecture mémorable.
 
-→ [Accueil](..\README.md)  
+→ [Accueil](../README.md)  
 → [Parcours](../parcours.md)
 
 ---
@@ -125,7 +125,7 @@ Quand King Klown parle de la Kréature, il insiste sur les organes qui “font s
 
 → [Orgo](../anatomie/corps/orgo.md)  
 → [SenTient](../anatomie/sens/sentient.md)  
-→ [Konnaxion](..\anatomie\esprit\konnaxion\README.md)  
+→ [Konnaxion](../anatomie/esprit/konnaxion/README.md)  
 → [Architect](../anatomie/voix/architect.md)  
 → [SwarmCraft](../anatomie/memoire/swarmcraft.md)  
 → [Âme Artificielle](../anatomie/ame/ame-artificielle.md)
@@ -167,7 +167,7 @@ King Klown parle comme une constellation :
 
 - → [Parcours](../parcours.md)  
 - → [Rituels](../rituels/une-journee.md)  
-- → [Anatomie](..\anatomie\README.md)  
+- → [Anatomie](../anatomie/README.md)  
 - ↗︎ Version technique (Réjean) : lien depuis l’accueil principal (site statique “Réjean McCormick”)
 ---
 title: Prométhée
@@ -223,7 +223,7 @@ C’est la traversée que ton écosystème matérialise :
 - **SwarmCraft** : maintenir la continuité et l’histoire
 - **Âme Artificielle** : ancrer tout ça dans l’expérience humaine, la teinte, l’éthique
 
-→ [Anatomie](..\anatomie\README.md)
+→ [Anatomie](../anatomie/README.md)
 
 ---
 
@@ -343,5 +343,5 @@ Prométhée est une promesse plus rare :
 
 - ← [Mythos](README.md)  
 - → [King Klown](king-klown.md)  
-- → [Initiation](..\initiation\README.md)  
-- → [Anatomie](..\anatomie\README.md)
+- → [Initiation](../initiation/README.md)  
+- → [Anatomie](../anatomie/README.md)

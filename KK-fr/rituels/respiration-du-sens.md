@@ -180,5 +180,5 @@ Elle leur donne une étoile polaire.
 ## Continuer
 
 - → [Parlement intérieur](parlement-interieur.md)  
-- → [Anatomie](..\anatomie\README.md)  
+- → [Anatomie](../anatomie/README.md)  
 - → [Une journée dans Kréature](une-journee.md)

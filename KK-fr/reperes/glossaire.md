@@ -135,7 +135,7 @@ Filtrage/déconstruction du flux humain entrant (ambiguïtés, entités, réconc
 ### Initiation
 Section d’entrée : comment naviguer Kréature comme on navigue son propre intérieur.
 
-→ [Initiation](..\initiation\README.md)
+→ [Initiation](../initiation/README.md)
 
 ---
 
@@ -159,7 +159,7 @@ Acte de trancher. Dans Kréature : Smart Vote.
 ### Konnaxion
 L’**esprit social** de Kréature : apprentissage (KonnectED), débat (Ethikos), conscience/jugement (Kollective), collaboration (keenKonnect), culture (Kreative).
 
-→ [Konnaxion](..\anatomie\esprit\konnaxion\README.md)
+→ [Konnaxion](../anatomie/esprit/konnaxion/README.md)
 
 ### KonnectED
 Apprentissage : bibliothèque Knowledge + compétences CertifiKation.
@@ -237,7 +237,7 @@ Mode interne : pensée maillée, réseau multidimensionnel de concepts.
 ### Mythos
 Le récit-cadre : King Klown, Prométhée, Dualités, Serments.
 
-→ [Mythos](..\mythos\README.md)
+→ [Mythos](../mythos/README.md)
 
 ---
 
@@ -338,5 +338,5 @@ Le passage du mesh au linéaire : Architect.
 
 - ← [Repères](README.md)  
 - → [Carte](../initiation/carte.md)  
-- → [Mythos](..\mythos\README.md)  
-- → [Anatomie](..\anatomie\README.md)
+- → [Mythos](../mythos/README.md)  
+- → [Anatomie](../anatomie/README.md)

@@ -3,7 +3,7 @@ title: Kréature
 description: An ecosystem of applications presented as a living being — body, senses, mind, psyche, soul — inhabited by your "I".
 ---
 
-[Version française](..\KK-fr\README.md)
+[Version française](../KK-fr/README.md)
 
 # Kréature
 
@@ -68,11 +68,11 @@ Start with the experience, before the explanation.
 
 ### 2) Dissect
 Explore the anatomy organ by organ, like an atlas.
-→ [Anatomy](anatomie\README.md)
+→ [Anatomy](anatomie/README.md)
 
 ### 3) Understand the Fire
 Enter the myth: Prometheus, duality, the mask.
-→ [Mythos](mythos\README.md)
+→ [Mythos](mythos/README.md)
 
 ---
 
@@ -90,7 +90,7 @@ Enter the myth: Prometheus, duality, the mask.
 
 ### Mind / Psyche (Internal Parliament)
 - **Konnaxion** — learning, debating, weighing, judging
-  → [Konnaxion](anatomie\esprit\konnaxion\README.md)
+  → [Konnaxion](anatomie/esprit/konnaxion/README.md)
 
 ### Voice (Mesh → Linear)
 - **Abstract Wiki Architect** — mouth, formulation, multilingual
@@ -123,7 +123,7 @@ You act like a human:
 
 ## To Start (7 Minutes)
 
-1) [Initiation](initiation\README.md)
+1) [Initiation](initiation/README.md)
 2) [Anatomical Map](initiation/carte.md)
 3) [Breathing of Meaning](rituels/respiration-du-sens.md)
 4) [Internal Parliament](rituels/parlement-interieur.md)

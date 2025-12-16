@@ -98,7 +98,7 @@ c’est l’oreille interne de la voix — la capacité à détecter les fautes 
 - **Entrée (oreilles / filtre)** : [SenTient](../sens/sentient.md)
 - **Vision / navigation** : [Ariane](../sens/ariane.md)
 - **Narratif long (histoire)** : [SwarmCraft](../narratif/swarmcraft.md)
-- **Esprit (débat/jugement/apprentissage)** : [Konnaxion](..\esprit\konnaxion\README.md)
+- **Esprit (débat/jugement/apprentissage)** : [Konnaxion](../esprit/konnaxion/README.md)
 
 > **Sceau de King Klown**  
 > SenTient reçoit.  

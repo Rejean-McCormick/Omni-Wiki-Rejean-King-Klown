@@ -39,7 +39,7 @@ Tu peux l’aborder comme :
 
 ### Étape 4 — Le Parlement (décider)
 **Konnaxion** : apprendre, débattre, pondérer, juger.  
-→ [Konnaxion](anatomie\esprit\konnaxion\README.md)
+→ [Konnaxion](anatomie/esprit/konnaxion/README.md)
 
 ### Étape 5 — L’Atelier (produire)
 **keenKonnect / Konstruct** : projet, tâches, rôles, exécution.  
@@ -56,7 +56,7 @@ Tu peux l’aborder comme :
 
 ### Étape 1 — La clef : modèle humain
 La base : corps fermé, langage linéaire, idées mesh, fonctions internes.  
-→ [Initiation](initiation\README.md)
+→ [Initiation](initiation/README.md)
 
 ### Étape 2 — La carte globale
 Où sont les organes et quels circuits les relient.  
@@ -112,7 +112,7 @@ Si tu veux un premier choc propre et rapide :
 1) [Kréature (Accueil)](README.md)  
 2) [Le Je](initiation/le-je.md)  
 3) [Une journée dans Kréature](rituels/une-journee.md)  
-4) [Anatomie](anatomie\README.md)
+4) [Anatomie](anatomie/README.md)
 
 > **Sceau de King Klown**  
 > Choisis ton angle.  

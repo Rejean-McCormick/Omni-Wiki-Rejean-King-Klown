@@ -156,7 +156,7 @@ Konservation décrit explicitement ses “machines de fond” :
 
 - ← Retour : [Kreative](../kreative.md)  
 - → [Kontact](kontact.md)  
-- → [Konnaxion](..\README.md)
+- → [Konnaxion](../README.md)
 
 ---
 

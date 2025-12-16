@@ -96,7 +96,7 @@ Konnaxion assemble ses chambres :
 - **keenKonnect / Kreative** (si nécessaire) : “Comment le monde s’organise, et comment la culture réagit ?”
 
 → **Konnaxion**  
-→ [Konnaxion](..\anatomie\esprit\konnaxion\README.md)
+→ [Konnaxion](../anatomie/esprit/konnaxion/README.md)
 
 > **Sceau de King Klown**  
 > Le vrai pouvoir n’est pas de décider vite.  

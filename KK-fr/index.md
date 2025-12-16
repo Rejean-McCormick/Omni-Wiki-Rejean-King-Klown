@@ -3,7 +3,7 @@ title: Kréature
 description: "Un écosystème d’applications présenté comme un être vivant — corps, sens, esprit, psyché, âme — habité par ton Je."
 ---
 
-[English version](..\KK-en\README.md)
+[English version](../KK-en/README.md)
 
 # Kréature
 
@@ -72,12 +72,12 @@ Commencer par l’expérience, avant l’explication.
 ### 2) Dissèquer
 Explorer l’anatomie organe par organe, comme un atlas.
 
-→ [Anatomie](anatomie\README.md)
+→ [Anatomie](anatomie/README.md)
 
 ### 3) Comprendre le feu
 Entrer dans le mythe : Prométhée, la dualité, le masque.
 
-→ [Mythos](mythos\README.md)
+→ [Mythos](mythos/README.md)
 
 ---
 
@@ -95,7 +95,7 @@ Entrer dans le mythe : Prométhée, la dualité, le masque.
 
 ### Esprit / Psyché (parlement intérieur)
 - **Konnaxion** — apprendre, débattre, pondérer, juger  
-  → [Konnaxion](anatomie\esprit\konnaxion\README.md)
+  → [Konnaxion](anatomie/esprit/konnaxion/README.md)
 
 ### Voix (mesh → linéaire)
 - **Abstract Wiki Architect** — bouche, formulation, multilingue  
@@ -129,7 +129,7 @@ Tu fais comme l’humain :
 
 ## Pour commencer (7 minutes)
 
-1) [Initiation](initiation\README.md)  
+1) [Initiation](initiation/README.md)  
 2) [Carte anatomique](initiation/carte.md)  
 3) [Respiration du sens](rituels/respiration-du-sens.md)  
 4) [Parlement intérieur](rituels/parlement-interieur.md)

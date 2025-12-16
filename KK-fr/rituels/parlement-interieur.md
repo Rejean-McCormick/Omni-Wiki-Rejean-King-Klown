@@ -240,4 +240,4 @@ Elle incline la boussole.
 
 - → [Respiration du sens](respiration-du-sens.md)  
 - → [Le cycle vital](cycle-vital.md)  
-- → [Konnaxion](..\anatomie\esprit\konnaxion\README.md)
+- → [Konnaxion](../anatomie/esprit/konnaxion/README.md)

@@ -3,7 +3,7 @@ title: Konnaxion
 description: Le Parlement intérieur de Kréature — apprendre, débattre, pondérer, juger. Une psyché collective structurée.
 ---
 
-[English version](..\..\..\..\KK-en\anatomie\esprit\konnaxion\README.md)
+[English version](../../../../KK-en/anatomie/esprit/konnaxion/README.md)
 
 # Konnaxion — Le Parlement intérieur
 
